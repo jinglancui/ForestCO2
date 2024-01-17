@@ -1,0 +1,1219 @@
+Citation,Continent,Country,Latitude,Longtitude,asl,MAT,MAP,Vegetation species,Forest age,soilCN,Duration,Ambient_level,Manipulated_level,dco2,Fumigation,Response_variable,R,v,Note
+Allen et al. 2000,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,36.0 ,365,565,200,FACE,Nmin,0.12 ,0.67 ,Duke FACE
+Allen et al. 2000,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,36.0 ,365,565,200,FACE,Nmin,-0.29 ,0.67 ,Duke FACE
+Allen et al. 2000,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,36.0 ,365,565,200,FACE,Nmin,-1.04 ,0.67 ,Duke FACE
+Ambus & Robertson 1999,North America,USA,45.57 ,-84.67 ,217 ,6.1 ,792 ,Populus tremuloides,seedling,9.93,24.0 ,372,744,372,OTC,N2O,0.67 ,0.40 ,
+Ambus & Robertson 1999,North America,USA,45.57 ,-84.67 ,217 ,6.1 ,792 ,Populus tremuloides,seedling,9.93,24.0 ,372,744,372,OTC,N2O,-0.24 ,0.40 ,
+Ambus & Robertson 1999,North America,USA,45.57 ,-84.67 ,217 ,6.1 ,792 ,Populus tremuloides,seedling,9.93,24.0 ,372,744,372,OTC,Denitri,0.14 ,0.40 ,
+Ambus & Robertson 1999,North America,USA,45.57 ,-84.67 ,217 ,6.1 ,792 ,Populus tremuloides,seedling,9.93,24.0 ,372,744,372,OTC,Denitri,-0.17 ,0.40 ,
+Ambus & Robertson 1999,North America,USA,45.57 ,-84.67 ,217 ,6.1 ,792 ,Populus tremuloides,seedling,9.93,24.0 ,372,744,372,OTC,Denitri,0.32 ,0.40 ,
+Ambus & Robertson 1999,North America,USA,45.57 ,-84.67 ,217 ,6.1 ,792 ,Populus tremuloides,seedling,9.93,24.0 ,372,744,372,OTC,Denitri,0.17 ,0.40 ,
+Ambus & Robertson 1999,North America,USA,45.57 ,-84.67 ,217 ,6.1 ,792 ,Populus tremuloides,seedling,9.93,24.0 ,372,744,372,OTC,Denitri,0.02 ,0.40 ,
+Ambus & Robertson 1999,North America,USA,45.57 ,-84.67 ,217 ,6.1 ,792 ,Populus tremuloides,seedling,9.93,24.0 ,372,744,372,OTC,Denitri,0.11 ,0.40 ,
+Ambus & Robertson 1999,North America,USA,45.57 ,-84.67 ,217 ,6.1 ,792 ,Populus tremuloides,seedling,9.93,24.0 ,372,744,372,OTC,TIN,0.07 ,0.40 ,
+Arnone & Gordon 1990,North America,USA,36.00 ,-78.94 ,70 ,14.5 ,1010 ,Alnus rubra,seedling,18.9 ,1.5 ,350,650,300,Growth Chamber,BNF,0.52 ,0.40 ,symbiotic N-fixing
+Arnone & Gordon 1990,North America,USA,36.00 ,-78.94 ,70 ,14.5 ,1010 ,Alnus rubra,seedling,18.9 ,1.5 ,350,650,300,Growth Chamber,BNF,0.71 ,0.40 ,symbiotic N-fixing
+"Arnone and K?rner, 1995",Europe,Costa Rica,9.61 ,-83.82 ,283 ,20.0 ,2614 ,"Elettaria cardamomum, Ficus benjamina, E pumila, Epipremnum pinnatum, Ctenanthe lubbersiana, Heliconia humilis, Cecropia peltata",seedling,,18.0 ,340,610,270,Greenhouse,SOC,0.03 ,1.00 ,"Sampling in Costa Rica, cultivation in Switzerland"
+"Arnone and K?rner, 1995",Europe,Costa Rica,9.61 ,-83.82 ,283 ,20.0 ,2614 ,"Elettaria cardamomum, Ficus benjamina, E pumila, Epipremnum pinnatum, Ctenanthe lubbersiana, Heliconia humilis, Cecropia peltata",seedling,,18.0 ,340,610,270,Greenhouse,Stembiomass,0.01 ,1.00 ,"Sampling in Costa Rica, cultivation in Switzerland"
+"Arnone and K?rner, 1995",Europe,Costa Rica,9.61 ,-83.82 ,283 ,20.0 ,2614 ,"Elettaria cardamomum, Ficus benjamina, E pumila, Epipremnum pinnatum, Ctenanthe lubbersiana, Heliconia humilis, Cecropia peltata",seedling,,18.0 ,340,610,270,Greenhouse,Rootbiomass,0.14 ,1.00 ,"Sampling in Costa Rica, cultivation in Switzerland"
+"Arnone and K?rner, 1995",Europe,Costa Rica,9.61 ,-83.82 ,283 ,20.0 ,2614 ,"Elettaria cardamomum, Ficus benjamina, E pumila, Epipremnum pinnatum, Ctenanthe lubbersiana, Heliconia humilis, Cecropia peltata",seedling,,18.0 ,340,610,270,Greenhouse,Leafbiomass,0.03 ,1.00 ,"Sampling in Costa Rica, cultivation in Switzerland"
+Barron-Gafford et al. 2005,North America,USA,32.58 ,-110.93 ,1174,18.8 ,423 ,Populus deltoides,seedling,8.8 ,48.0 ,400,800,400,Growth Chamber,Rs,0.34 ,0.40 ,
+Barron-Gafford et al. 2005,North America,USA,32.58 ,-110.93 ,1174,18.8 ,423 ,Populus deltoides,seedling,8.8 ,48.0 ,400,1200,800,Growth Chamber,Rs,0.54 ,0.40 ,
+Belote et al. 2003,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,48.0 ,384,565,181,FACE,ANPP,-0.69 ,1.00 ,Oak Ridge FACE
+Belote et al. 2003,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,48.0 ,384,565,181,FACE,ANPP,1.19 ,1.00 ,Oak Ridge FACE
+Belote et al. 2003,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,48.0 ,384,565,181,FACE,ANPP,-0.52 ,1.00 ,Oak Ridge FACE
+Belote et al. 2003,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,48.0 ,384,565,181,FACE,ANPP,1.10 ,1.00 ,Oak Ridge FACE
+Belote et al. 2003,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,48.0 ,384,565,181,FACE,ANPP,2.89 ,1.00 ,Oak Ridge FACE
+Belote et al. 2003,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,60.0 ,384,565,181,FACE,ANPP,0.00 ,1.00 ,Oak Ridge FACE
+Belote et al. 2003,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,60.0 ,384,565,181,FACE,ANPP,0.90 ,1.00 ,Oak Ridge FACE
+Belote et al. 2003,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,60.0 ,384,565,181,FACE,ANPP,-0.11 ,1.00 ,Oak Ridge FACE
+Belote et al. 2003,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,60.0 ,384,565,181,FACE,ANPP,1.61 ,1.00 ,Oak Ridge FACE
+Bernhardt et al. 2006,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,84.0 ,365,565,200,FACE,Rs,0.14 ,0.67 ,Duke FACE
+Bernhardt et al. 2006,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,84.0 ,365,565,200,FACE,Rs,0.16 ,0.67 ,Duke FACE
+Bernhardt et al. 2006,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,84.0 ,365,565,200,FACE,Rs,0.17 ,0.67 ,Duke FACE
+Bernhardt et al. 2006,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,84.0 ,365,565,200,FACE,Rs,0.17 ,0.67 ,Duke FACE
+Bernhardt et al. 2006,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,84.0 ,365,565,200,FACE,Rs,0.16 ,0.67 ,Duke FACE
+Bernhardt et al. 2006,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,84.0 ,365,565,200,FACE,Rs,0.14 ,0.67 ,Duke FACE
+Bernhardt et al. 2006,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,84.0 ,365,565,200,FACE,Rs,0.09 ,0.67 ,Duke FACE
+Berntson & Bazzaz 1997,North America,USA,42.54 ,-72.19 ,347 ,7.1 ,1103 ,"Betula papyrifera, Betula alleghaniensis",seedling,26.4 ,24.0 ,375,700,325,Growth Chamber,SoilNH4+,-0.23 ,0.33 ,
+Berntson & Bazzaz 1997,North America,USA,42.54 ,-72.19 ,347 ,7.1 ,1103 ,"Betula papyrifera, Betula alleghaniensis",seedling,26.4 ,24.0 ,375,700,325,Growth Chamber,SoilNH4+,0.02 ,0.67 ,
+Bloor et al.  2009,Europe,France,47.48 ,11.04 ,765 ,6.5 ,1338 ,Fraxinus excelsior,seedling,10.7,5.0 ,380,645,265,Growth Chamber,Rootbiomass,0.04 ,0.33 ,
+Bloor et al.  2009,Europe,France,47.48 ,11.04 ,765 ,6.5 ,1338 ,Fraxinus excelsior,seedling,10.7,5.0 ,380,645,265,Growth Chamber,Rootbiomass,0.39 ,0.33 ,
+Bloor et al.  2009,Europe,France,47.48 ,11.04 ,765 ,6.5 ,1338 ,Fraxinus excelsior,seedling,10.7,5.0 ,380,645,265,Growth Chamber,Root[N],0.00 ,0.33 ,
+Bloor et al.  2009,Europe,France,47.48 ,11.04 ,765 ,6.5 ,1338 ,Fraxinus excelsior,seedling,10.7,5.0 ,380,645,265,Growth Chamber,Root[N],-0.17 ,0.33 ,
+Boerner et al.  1995,North America,USA,39.98 ,-75.42 ,123 ,11.5 ,1169 ,"Prunus serotina, Acer saccharum, Liriodendron tulipifera",seedling,12.3 ,24.0 ,350,550,200,OTC,Leaf[N],0.37 ,0.67 ,
+Boerner et al.  1996,North America,USA,39.98 ,-75.42 ,123 ,11.5 ,1169 ,"Acer fagus, Fraxinus ulmus, Quercus palustris",seedling,12.3 ,120.0 ,350,550,200,OTC,Leafbiomass,0.00 ,0.67 ,
+Broadmeadow et al.  2000,Europe,UK,51.18 ,-0.85 ,119 ,10.0 ,822 ,Quercus petraea,1,56.2 ,36.0 ,350,700,350,OTC,Rootbiomass,0.08 ,0.67 ,
+Broadmeadow et al.  2000,Europe,UK,51.18 ,-0.85 ,119 ,10.0 ,822 ,Quercus petraea,1,56.2 ,36.0 ,350,700,350,OTC,Rootbiomass,0.10 ,0.67 ,
+Broadmeadow et al.  2000,Europe,UK,51.18 ,-0.85 ,119 ,10.0 ,822 ,Fraxinus excelsior,1,56.2 ,36.0 ,350,700,350,OTC,Rootbiomass,0.03 ,0.67 ,
+Broadmeadow et al.  2000,Europe,UK,51.18 ,-0.85 ,119 ,10.0 ,822 ,Fraxinus excelsior,1,56.2 ,36.0 ,350,700,350,OTC,Rootbiomass,-0.05 ,0.67 ,
+Broadmeadow et al.  2000,Europe,UK,51.18 ,-0.85 ,119 ,10.0 ,822 ,Pinus sylvestris,1,56.2 ,36.0 ,350,700,350,OTC,Rootbiomass,0.52 ,0.67 ,
+Broadmeadow et al.  2000,Europe,UK,51.18 ,-0.85 ,119 ,10.0 ,822 ,Pinus sylvestris,1,56.2 ,36.0 ,350,700,350,OTC,Rootbiomass,0.52 ,0.67 ,
+Broadmeadow et al.  2000,Europe,UK,51.18 ,-0.85 ,119 ,10.0 ,822 ,Quercus petraea,1,56.2 ,36.0 ,350,700,350,OTC,Leaf[N],-0.17 ,0.67 ,
+Broadmeadow et al.  2000,Europe,UK,51.18 ,-0.85 ,119 ,10.0 ,822 ,Quercus petraea,1,56.2 ,36.0 ,350,700,350,OTC,Leaf[N],-0.22 ,0.67 ,
+Broadmeadow et al.  2000,Europe,UK,51.18 ,-0.85 ,119 ,10.0 ,822 ,Fraxinus excelsior,1,56.2 ,36.0 ,350,700,350,OTC,Leaf[N],-0.28 ,0.67 ,
+Broadmeadow et al.  2000,Europe,UK,51.18 ,-0.85 ,119 ,10.0 ,822 ,Fraxinus excelsior,1,56.2 ,36.0 ,350,700,350,OTC,Leaf[N],-0.26 ,0.67 ,
+Broadmeadow et al.  2000,Europe,UK,51.18 ,-0.85 ,119 ,10.0 ,822 ,Pinus sylvestris,1,56.2 ,36.0 ,350,700,350,OTC,Leaf[N],-0.03 ,0.67 ,
+Broadmeadow et al.  2000,Europe,UK,51.18 ,-0.85 ,119 ,10.0 ,822 ,Pinus sylvestris,1,56.2 ,36.0 ,350,700,350,OTC,Leaf[N],-0.01 ,0.67 ,
+Broadmeadow et al.  2000,Europe,UK,51.18 ,-0.85 ,119 ,10.0 ,822 ,Quercus petraea,1,56.2 ,36.0 ,350,700,350,OTC,Leafbiomass,0.43 ,0.67 ,
+Broadmeadow et al.  2000,Europe,UK,51.18 ,-0.85 ,119 ,10.0 ,822 ,Quercus petraea,1,56.2 ,36.0 ,350,700,350,OTC,Leafbiomass,0.43 ,0.67 ,
+Broadmeadow et al.  2000,Europe,UK,51.18 ,-0.85 ,119 ,10.0 ,822 ,Pinus sylvestris,1,56.2 ,36.0 ,350,700,350,OTC,Leafbiomass,0.55 ,0.67 ,
+Broadmeadow et al.  2000,Europe,UK,51.18 ,-0.85 ,119 ,10.0 ,822 ,Pinus sylvestris,1,56.2 ,36.0 ,350,700,350,OTC,Leafbiomass,0.14 ,0.67 ,
+Calfapietra et al. 2007,Europe,Italy,42.62 ,11.85 ,150,14.1 ,418 ,Populus alba,seedling,8.46,36.0 ,370,550,180,FACE,NPP,0.39 ,0.33 ,POP-EUROFACE
+Calfapietra et al. 2007,Europe,Italy,42.62 ,11.85 ,150,14.1 ,418 ,Populus nigra,seedling,8.46,36.0 ,370,550,180,FACE,NPP,0.22 ,0.33 ,POP-EUROFACE
+Calfapietra et al. 2007,Europe,Italy,42.62 ,11.85 ,150,14.1 ,418 ,Populus x euramericana,seedling,8.46,36.0 ,370,550,180,FACE,NPP,0.38 ,0.33 ,POP-EUROFACE
+Calfapietra et al. 2007,Europe,Italy,42.62 ,11.85 ,150,14.1 ,418 ,Populus x euramericana,seedling,8.46,36.0 ,370,550,180,FACE,NUE,0.15 ,0.67 ,POP-EUROFACE
+Calfapietra et al. 2007,Europe,Italy,42.62 ,11.85 ,150,14.1 ,418 ,Populus alba,seedling,8.46,36.0 ,370,550,180,FACE,NUE,0.22 ,0.67 ,POP-EUROFACE
+Calfapietra et al. 2007,Europe,Italy,42.62 ,11.85 ,150,14.1 ,418 ,Populus nigra,seedling,8.46,36.0 ,370,550,180,FACE,NUE,0.21 ,0.67 ,POP-EUROFACE
+Calfapietra et al. 2007,Europe,Italy,42.62 ,11.85 ,150,14.1 ,418 ,Populus x euramericana,seedling,8.46,36.0 ,370,550,180,FACE,NUE,0.20 ,0.67 ,POP-EUROFACE
+Calfapietra et al. 2007,Europe,Italy,42.62 ,11.85 ,150,14.1 ,418 ,Populus alba,seedling,8.46,36.0 ,370,550,180,FACE,NUE,0.25 ,0.67 ,POP-EUROFACE
+Calfapietra et al. 2007,Europe,Italy,42.62 ,11.85 ,150,14.1 ,418 ,Populus nigra,seedling,8.46,36.0 ,370,550,180,FACE,NUE,0.24 ,0.67 ,POP-EUROFACE
+Calfapietra et al. 2007,Europe,Italy,42.62 ,11.85 ,150,14.1 ,418 ,Populus alba,seedling,8.46,36.0 ,370,550,180,FACE,Nmin,-1.02 ,0.67 ,POP-EUROFACE
+Calfapietra et al. 2007,Europe,Italy,42.62 ,11.85 ,150,14.1 ,418 ,Populus nigra,seedling,8.46,36.0 ,370,550,180,FACE,Nmin,0.05 ,0.67 ,POP-EUROFACE
+Calfapietra et al. 2007,Europe,Italy,42.62 ,11.85 ,150,14.1 ,418 ,Populus x euramericana,seedling,8.46,36.0 ,370,550,180,FACE,Nmin,-1.10 ,0.67 ,POP-EUROFACE
+Cao et al.  2007,North America,Canada,48.42 ,-89.25 ,194 ,25.0 ,719 ,Betula papyrifera,seedling,17.7 ,3.0 ,360,720,360,Greenhouse,Leaf[N],-0.21 ,1.00 ,
+Cao et al.  2007,North America,Canada,48.42 ,-89.25 ,194 ,25.0 ,719 ,Betula papyrifera,seedling,17.7 ,3.0 ,360,720,360,Greenhouse,Leaf[N],-0.27 ,1.00 ,
+Cao et al.  2007,North America,Canada,48.42 ,-89.25 ,194 ,25.0 ,719 ,Betula papyrifera,seedling,17.7 ,3.0 ,360,720,360,Greenhouse,Leaf[N],-0.27 ,1.00 ,
+Cao et al.  2007,North America,Canada,48.42 ,-89.25 ,194 ,25.0 ,719 ,Betula papyrifera,seedling,17.7 ,3.0 ,360,720,360,Greenhouse,Leaf[N],-0.14 ,1.00 ,
+Cao et al.  2007,North America,Canada,48.42 ,-89.25 ,194 ,25.0 ,719 ,Betula papyrifera,seedling,17.7 ,3.0 ,360,720,360,Greenhouse,Leaf[N],-0.05 ,1.00 ,
+Cao et al.  2007,North America,Canada,48.42 ,-89.25 ,194 ,25.0 ,719 ,Betula papyrifera,seedling,17.7 ,3.0 ,360,720,360,Greenhouse,WUE,1.02 ,1.00 ,
+Cao et al.  2007,North America,Canada,48.42 ,-89.25 ,194 ,25.0 ,719 ,Betula papyrifera,seedling,17.7 ,3.0 ,360,720,360,Greenhouse,WUE,0.86 ,1.00 ,
+Cao et al.  2007,North America,Canada,48.42 ,-89.25 ,194 ,25.0 ,719 ,Betula papyrifera,seedling,17.7 ,3.0 ,360,720,360,Greenhouse,WUE,0.93 ,1.00 ,
+Cao et al.  2007,North America,Canada,48.42 ,-89.25 ,194 ,25.0 ,719 ,Betula papyrifera,seedling,17.7 ,3.0 ,360,720,360,Greenhouse,WUE,1.08 ,1.00 ,
+Cao et al.  2007,North America,Canada,48.42 ,-89.25 ,194 ,25.0 ,719 ,Betula papyrifera,seedling,17.7 ,3.0 ,360,720,360,Greenhouse,WUE,1.00 ,1.00 ,
+Carnol et al. 2002,Europe,Belgium,50.65 ,3.85 ,38 ,10.1 ,773 ,Pinus sylvestris,seedling,14.7,48.0 ,350,750,400,OTC,N2O,-0.12 ,0.40 ,
+Carnol et al. 2002,Europe,Belgium,50.65 ,3.85 ,38 ,10.1 ,773 ,Pinus sylvestris,seedling,16.5,48.0 ,350,750,400,OTC,N2O,0.87 ,0.40 ,
+Carnol et al. 2002,Europe,Belgium,50.65 ,3.85 ,38 ,10.1 ,773 ,Pinus sylvestris,seedling,14.7,48.0 ,350,750,400,OTC,Denitri,0.24 ,0.40 ,
+Carnol et al. 2002,Europe,Belgium,50.65 ,3.85 ,38 ,10.1 ,773 ,Pinus sylvestris,seedling,16.5,48.0 ,350,750,400,OTC,Denitri,0.96 ,0.40 ,
+Carnol et al. 2002,Europe,Belgium,50.65 ,3.85 ,38 ,10.1 ,773 ,Pinus sylvestris,seedling,14.7,48.0 ,350,750,400,OTC,Nit,0.70 ,0.40 ,
+Carnol et al. 2002,Europe,Belgium,50.65 ,3.85 ,38 ,10.1 ,773 ,Pinus sylvestris,seedling,16.5,48.0 ,350,750,400,OTC,Nit,0.04 ,0.40 ,
+Carnol et al. 2002,Europe,Belgium,50.65 ,3.85 ,38 ,10.1 ,773 ,Pinus sylvestris,seedling,14.7,48.0 ,350,750,400,OTC,SoilNH4+,-0.01 ,0.40 ,
+Carnol et al. 2002,Europe,Belgium,50.65 ,3.85 ,38 ,10.1 ,773 ,Pinus sylvestris,seedling,14.7,48.0 ,350,750,400,OTC,SoilNO3-,0.10 ,0.40 ,
+Carnol et al. 2002,Europe,Belgium,50.65 ,3.85 ,38 ,10.1 ,773 ,Pinus sylvestris,seedling,14.7,48.0 ,350,750,400,OTC,TIN,0.03 ,0.40 ,
+Carnol et al. 2002,Europe,Belgium,50.65 ,3.85 ,38 ,10.1 ,773 ,Pinus sylvestris,seedling,14.7,48.0 ,350,750,400,OTC,Nmin,-0.05 ,0.40 ,
+Carnol et al. 2002,Europe,Belgium,50.65 ,3.85 ,38 ,10.1 ,773 ,Pinus sylvestris,seedling,16.5,48.0 ,350,750,400,OTC,Nmin,0.03 ,0.40 ,
+Cernusak et al.2011,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Swietenia macrophylla,seedling,10.2,6.0 ,400,700,300,Greenhouse,Anet,0.19 ,0.40 ,
+Cernusak et al.2011,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Swietenia macrophylla,seedling,10.2,6.0 ,400,700,300,Greenhouse,Anet,0.18 ,0.40 ,
+Cernusak et al.2011,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Albizia adinocephala,seedling,10.2,6.0 ,400,700,300,Greenhouse,Anet,0.15 ,0.40 ,
+Cernusak et al.2011,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Chrysophyllum cainito,seedling,10.2,6.0 ,400,700,300,Greenhouse,Anet,0.23 ,0.40 ,
+Cernusak et al.2011,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Coccoloba uvifera,seedling,10.2,6.0 ,400,700,300,Greenhouse,Anet,0.05 ,0.40 ,
+Cernusak et al.2011,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Dalbergia retusa,seedling,10.2,6.0 ,400,700,300,Greenhouse,Anet,0.28 ,0.40 ,
+Cernusak et al.2011,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Hieronyma alchorneoides,seedling,10.2,6.0 ,400,700,300,Greenhouse,Anet,0.25 ,0.40 ,
+Cernusak et al.2011,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Inga punctata,seedling,10.2,6.0 ,400,700,300,Greenhouse,Anet,0.13 ,0.40 ,
+Cernusak et al.2011,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Pachira quinata,seedling,10.2,6.0 ,400,700,300,Greenhouse,Anet,0.34 ,0.40 ,
+Cernusak et al.2011,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Schizolobium parahyba,seedling,10.2,6.0 ,400,700,300,Greenhouse,Anet,0.50 ,0.40 ,
+Cernusak et al.2011,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Swietenia macrophylla,seedling,10.2,6.0 ,400,700,300,Greenhouse,Anet,0.48 ,0.40 ,
+Cernusak et al.2011,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Swietenia macrophylla,seedling,10.2,6.0 ,400,700,300,Greenhouse,Anet,0.33 ,0.40 ,
+Cernusak et al.2011,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Ormosia macrocalyx,seedling,10.2,6.0 ,400,700,300,Greenhouse,Anet,0.28 ,0.40 ,
+Cernusak et al.2011,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Ormosia macrocalyx,seedling,10.2,6.0 ,400,700,300,Greenhouse,Anet,0.24 ,0.40 ,
+Cernusak et al.2011,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Ormosia macrocalyx,seedling,10.2,6.0 ,400,700,300,Greenhouse,Anet,0.42 ,0.40 ,
+Cernusak et al.2011,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Ormosia macrocalyx,seedling,10.2,6.0 ,400,700,300,Greenhouse,Anet,0.69 ,0.40 ,
+Cernusak et al.2011,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Albizia adinocephala,seedling,10.2,6.0 ,400,700,300,Greenhouse,WUE,0.46 ,0.40 ,
+Cernusak et al.2011,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Chrysophyllum cainito,seedling,10.2,6.0 ,400,700,300,Greenhouse,WUE,0.28 ,0.40 ,
+Cernusak et al.2011,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Coccoloba uvifera,seedling,10.2,6.0 ,400,700,300,Greenhouse,WUE,0.42 ,0.40 ,
+Cernusak et al.2011,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Dalbergia retusa,seedling,10.2,6.0 ,400,700,300,Greenhouse,WUE,0.38 ,0.40 ,
+Cernusak et al.2011,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Hieronyma alchorneoides,seedling,10.2,6.0 ,400,700,300,Greenhouse,WUE,0.43 ,0.40 ,
+Cernusak et al.2011,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Inga punctata,seedling,10.2,6.0 ,400,700,300,Greenhouse,WUE,0.46 ,0.40 ,
+Cernusak et al.2011,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Pachira quinata,seedling,10.2,6.0 ,400,700,300,Greenhouse,WUE,0.34 ,0.40 ,
+Cernusak et al.2011,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Schizolobium parahyba,seedling,10.2,6.0 ,400,700,300,Greenhouse,WUE,0.62 ,0.40 ,
+Cernusak et al.2011,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Swietenia macrophylla,seedling,10.2,6.0 ,400,700,300,Greenhouse,WUE,0.40 ,0.40 ,
+Cernusak et al.2011,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Swietenia macrophylla,seedling,10.2,6.0 ,400,700,300,Greenhouse,WUE,0.37 ,0.40 ,
+Cernusak et al.2011,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Swietenia macrophylla,seedling,10.2,6.0 ,400,700,300,Greenhouse,WUE,0.54 ,0.40 ,
+Cernusak et al.2011,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Swietenia macrophylla,seedling,10.2,6.0 ,400,700,300,Greenhouse,WUE,0.43 ,0.40 ,
+Cernusak et al.2011,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Ormosia macrocalyx,seedling,10.2,6.0 ,400,700,300,Greenhouse,WUE,0.56 ,0.40 ,
+Cernusak et al.2011,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Ormosia macrocalyx,seedling,10.2,6.0 ,400,700,300,Greenhouse,WUE,0.58 ,0.40 ,
+Cernusak et al.2011,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Ormosia macrocalyx,seedling,10.2,6.0 ,400,700,300,Greenhouse,WUE,0.81 ,0.40 ,
+Cernusak et al.2011,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Ormosia macrocalyx,seedling,10.2,6.0 ,400,700,300,Greenhouse,WUE,0.65 ,0.40 ,
+Comstedt et al. 2006,Europe,Sweden,64.12 ,19.45 ,310,2.5 ,600 ,Norway spruce,28,60.7 ,24.0 ,360,720,360,Whole-tree Chamber (WTC),Rs,0.38 ,0.67 ,
+Comstedt et al. 2006,Europe,Sweden,64.12 ,19.45 ,310,2.5 ,600 ,Norway spruce,28,60.7 ,24.0 ,360,720,360,Whole-tree Chamber (WTC),Rs,0.45 ,0.67 ,
+Couture et al.  2012,North America,USA,45.70 ,-89.50 ,490,6.4 ,821 ,Populus tremuloides,9,12.9,132.0 ,360,560,200,FACE,Leaf[N],-0.12 ,0.67 ,"FACTS-II, Aspen FACE"
+Couture et al.  2012,North America,USA,45.70 ,-89.50 ,490,6.4 ,821 ,"Betula papyrifera, Populus tremuloides",9,12.9,132.0 ,360,560,200,FACE,Leaf[N],0.00 ,0.67 ,"FACTS-II, Aspen FACE"
+Couture et al.  2014,North America,USA,45.70 ,-89.50 ,490,6.4 ,821 ,Populus tremuloides,9,12.9,96.0 ,360,560,200,FACE,Leaf[N],-0.04 ,0.67 ,"FACTS-II, Aspen FACE"
+Couture et al.  2014,North America,USA,45.70 ,-89.50 ,490,6.4 ,821 ,Populus tremuloides,9,12.9,96.0 ,360,560,200,FACE,Leaf[N],-0.08 ,0.67 ,"FACTS-II, Aspen FACE"
+Couture et al.  2017,North America,USA,45.70 ,-89.50 ,490,6.4 ,821 ,Populus tremuloides,9,12.9,36.0 ,347,548,201,FACE,Leaf[N],-0.05 ,0.67 ,"FACTS-II, Aspen FACE"
+Couture et al.  2017,North America,USA,45.70 ,-89.50 ,490,6.4 ,821 ,"Betula papyrifera, Populus tremuloides",9,12.9,36.0 ,347,548,201,FACE,Leaf[N],-0.08 ,0.67 ,"FACTS-II, Aspen FACE"
+Dalling et al.2016,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Araucaria heterophylla,seedling,10.2,6.0 ,280,400,120,Greenhouse,NUE,0.04 ,0.67 ,
+Dalling et al.2016,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Araucaria heterophylla,seedling,10.2,6.0 ,280,800,520,Greenhouse,NUE,0.73 ,0.67 ,
+Dalling et al.2016,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Podocarpus guatemalensis,seedling,10.2,6.0 ,280,400,120,Greenhouse,NUE,0.33 ,0.67 ,
+Dalling et al.2016,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Podocarpus guatemalensis,seedling,10.2,6.0 ,280,800,520,Greenhouse,NUE,1.37 ,0.67 ,
+Dalling et al.2016,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Chrysophyllum cainito,seedling,10.2,6.0 ,280,400,120,Greenhouse,NUE,0.15 ,0.67 ,
+Dalling et al.2016,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Chrysophyllum cainito,seedling,10.2,6.0 ,280,800,520,Greenhouse,NUE,0.68 ,0.67 ,
+Dalling et al.2016,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Tabebuia rosea,seedling,10.2,6.0 ,280,400,120,Greenhouse,NUE,0.19 ,0.67 ,
+Dalling et al.2016,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Tabebuia rosea,seedling,10.2,6.0 ,280,800,520,Greenhouse,NUE,0.54 ,0.67 ,
+Dalling et al.2016,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Araucaria heterophylla,seedling,10.2,6.0 ,280,400,120,Greenhouse,SoilNH4+,0.22 ,0.67 ,
+Dalling et al.2016,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Araucaria heterophylla,seedling,10.2,6.0 ,280,800,520,Greenhouse,SoilNH4+,-0.06 ,0.67 ,
+Dalling et al.2016,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Podocarpus guatemalensis,seedling,10.2,6.0 ,280,400,120,Greenhouse,SoilNH4+,-0.43 ,0.67 ,
+Dalling et al.2016,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Podocarpus guatemalensis,seedling,10.2,6.0 ,280,800,520,Greenhouse,SoilNH4+,-0.95 ,0.67 ,
+Dalling et al.2016,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Chrysophyllum cainito,seedling,10.2,6.0 ,280,400,120,Greenhouse,SoilNH4+,0.11 ,0.67 ,
+Dalling et al.2016,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Chrysophyllum cainito,seedling,10.2,6.0 ,280,800,520,Greenhouse,SoilNH4+,-0.23 ,0.67 ,
+Dalling et al.2016,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Tabebuia rosea,seedling,10.2,6.0 ,280,400,120,Greenhouse,SoilNH4+,-0.11 ,0.67 ,
+Dalling et al.2016,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Tabebuia rosea,seedling,10.2,6.0 ,280,800,520,Greenhouse,SoilNH4+,0.16 ,0.67 ,
+Dalling et al.2016,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Araucaria heterophylla,seedling,10.2,6.0 ,280,400,120,Greenhouse,SoilNO3-,-0.86 ,0.67 ,
+Dalling et al.2016,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Araucaria heterophylla,seedling,10.2,6.0 ,280,800,520,Greenhouse,SoilNO3-,-0.62 ,0.67 ,
+Dalling et al.2016,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Podocarpus guatemalensis,seedling,10.2,6.0 ,280,400,120,Greenhouse,SoilNO3-,-0.25 ,0.67 ,
+Dalling et al.2016,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Podocarpus guatemalensis,seedling,10.2,6.0 ,280,800,520,Greenhouse,SoilNO3-,-1.27 ,0.67 ,
+Dalling et al.2016,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Chrysophyllum cainito,seedling,10.2,6.0 ,280,400,120,Greenhouse,SoilNO3-,-0.41 ,0.67 ,
+Dalling et al.2016,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Chrysophyllum cainito,seedling,10.2,6.0 ,280,800,520,Greenhouse,SoilNO3-,-0.22 ,0.67 ,
+Dalling et al.2016,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Tabebuia rosea,seedling,10.2,6.0 ,280,400,120,Greenhouse,SoilNO3-,-0.69 ,0.67 ,
+Dalling et al.2016,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Tabebuia rosea,seedling,10.2,6.0 ,280,800,520,Greenhouse,SoilNO3-,-0.69 ,0.67 ,
+Dalling et al.2016,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Araucaria heterophylla,seedling,10.2,6.0 ,280,400,120,Greenhouse,WUE,0.45 ,0.67 ,
+Dalling et al.2016,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Araucaria heterophylla,seedling,10.2,6.0 ,280,800,520,Greenhouse,WUE,1.24 ,0.67 ,
+Dalling et al.2016,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Podocarpus guatemalensis,seedling,10.2,6.0 ,280,400,120,Greenhouse,WUE,0.41 ,0.67 ,
+Dalling et al.2016,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Podocarpus guatemalensis,seedling,10.2,6.0 ,280,800,520,Greenhouse,WUE,1.31 ,0.67 ,
+Dalling et al.2016,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Chrysophyllum cainito,seedling,10.2,6.0 ,280,400,120,Greenhouse,WUE,0.14 ,0.67 ,
+Dalling et al.2016,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Chrysophyllum cainito,seedling,10.2,6.0 ,280,800,520,Greenhouse,WUE,0.84 ,0.67 ,
+Dalling et al.2016,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Tabebuia rosea,seedling,10.2,6.0 ,280,400,120,Greenhouse,WUE,0.36 ,0.67 ,
+Dalling et al.2016,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Tabebuia rosea,seedling,10.2,6.0 ,280,800,520,Greenhouse,WUE,1.13 ,0.67 ,
+Dalling et al.2016,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Araucaria heterophylla,seedling,10.2,6.0 ,280,400,120,Greenhouse,WUE,0.38 ,0.67 ,
+Dalling et al.2016,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Araucaria heterophylla,seedling,10.2,6.0 ,280,800,520,Greenhouse,WUE,0.94 ,0.67 ,
+Dalling et al.2016,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Podocarpus guatemalensis,seedling,10.2,6.0 ,280,400,120,Greenhouse,WUE,0.57 ,0.67 ,
+Dalling et al.2016,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Podocarpus guatemalensis,seedling,10.2,6.0 ,280,800,520,Greenhouse,WUE,1.14 ,0.67 ,
+Dalling et al.2016,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Chrysophyllum cainito,seedling,10.2,6.0 ,280,400,120,Greenhouse,WUE,0.18 ,0.67 ,
+Dalling et al.2016,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Chrysophyllum cainito,seedling,10.2,6.0 ,280,800,520,Greenhouse,WUE,0.53 ,0.67 ,
+Dalling et al.2016,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Tabebuia rosea,seedling,10.2,6.0 ,280,400,120,Greenhouse,WUE,0.15 ,0.67 ,
+Dalling et al.2016,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Tabebuia rosea,seedling,10.2,6.0 ,280,800,520,Greenhouse,WUE,0.66 ,0.67 ,
+Danyagri et al.  2013,North America,USA,48.38 ,-89.25 ,186 ,3.4 ,716 ,Acer spicatum,seedling,17.7 ,12.0 ,392,784,392,OTC,WUE,0.39 ,0.67 ,
+Danyagri et al.  2013,North America,USA,48.38 ,-89.25 ,186 ,3.4 ,716 ,Acer spicatum,seedling,17.7 ,12.0 ,392,784,392,OTC,WUE,0.69 ,0.67 ,
+Dawes et al.  2013,Europe,Switzerland,46.77 ,9.87 ,2180,2.3 ,1133 ,"Larix decidua, Pinus cembra, Pinus mugo",35,24.9,108.0 ,380,570,190,FACE,Leaf[N],-0.01 ,0.67 ,
+Dawes et al.  2013,Europe,Switzerland,46.77 ,9.87 ,2180,2.3 ,1133 ,"Larix decidua, Pinus cembra, Pinus mugo",35,24.9,108.0 ,380,570,190,FACE,Leaf[N],-0.07 ,0.67 ,
+Deng et al.  2013,Asia,China,23.33 ,113.50 ,126,21.5 ,1750 ,"Pinus massoniana, Castanopsis hystrix, Syzygium hancei, Schima superba, Acmena acuminatissima, and Ormosia pinnata",seedling,22.8 ,72.0 ,400,700,300,OTC,Rs,0.25 ,0.67 ,
+Deng et al.  2013,Asia,China,23.33 ,113.50 ,126,21.5 ,1750 ,"Pinus massoniana, Castanopsis hystrix, Syzygium hancei, Schima superba, Acmena acuminatissima, and Ormosia pinnata",seedling,22.8 ,72.0 ,400,700,300,OTC,Rs,0.27 ,0.67 ,
+Deng et al.  2013,Asia,China,23.33 ,113.50 ,126,21.5 ,1750 ,"Pinus massoniana, Castanopsis hystrix, Syzygium hancei, Schima superba, Acmena acuminatissima, and Ormosia pinnata",seedling,22.8 ,72.0 ,400,700,300,OTC,Rootbiomass,0.29 ,0.67 ,
+Deng et al.  2013,Asia,China,23.33 ,113.50 ,126,21.5 ,1750 ,"Pinus massoniana, Castanopsis hystrix, Syzygium hancei, Schima superba, Acmena acuminatissima, and Ormosia pinnata",seedling,22.8 ,72.0 ,400,700,300,OTC,Rootbiomass,0.09 ,0.67 ,
+Deng et al.  2013,Asia,China,23.33 ,113.50 ,126,21.5 ,1750 ,"Pinus massoniana, Castanopsis hystrix, Syzygium hancei, Schima superba, Acmena acuminatissima, and Ormosia pinnata",seedling,22.8 ,72.0 ,400,700,300,OTC,MBC,0.22 ,0.67 ,
+Deng et al.  2013,Asia,China,23.33 ,113.50 ,126,21.5 ,1750 ,"Pinus massoniana, Castanopsis hystrix, Syzygium hancei, Schima superba, Acmena acuminatissima, and Ormosia pinnata",seedling,22.8 ,72.0 ,400,700,300,OTC,MBC,0.17 ,0.67 ,
+Deng et al. 2009,Asia,China,23.33 ,113.50 ,126,21.5 ,1750 ,"Pinus massoniana, Castanopsis hystrix, Syzygium hancei, Schima superba, Acmena acuminatissima, and Ormosia pinnata",seedling,22.8 ,48.0 ,400,700,300,OTC,Rootbiomass,0.45 ,0.67 ,
+Deng et al. 2009,Asia,China,23.33 ,113.50 ,126,21.5 ,1750 ,"Pinus massoniana, Castanopsis hystrix, Syzygium hancei, Schima superba, Acmena acuminatissima, and Ormosia pinnata",seedling,22.8 ,48.0 ,400,700,300,OTC,Rootbiomass,0.21 ,0.67 ,
+Deng et al. 2009,Asia,China,23.33 ,113.50 ,126,21.5 ,1750 ,"Pinus massoniana, Castanopsis hystrix, Syzygium hancei, Schima superba, Acmena acuminatissima, and Ormosia pinnata",seedling,22.8 ,48.0 ,400,700,300,OTC,SOC,-0.04 ,0.67 ,
+Deng et al. 2009,Asia,China,23.33 ,113.50 ,126,21.5 ,1750 ,"Pinus massoniana, Castanopsis hystrix, Syzygium hancei, Schima superba, Acmena acuminatissima, and Ormosia pinnata",seedling,22.8 ,48.0 ,400,700,300,OTC,SOC,0.13 ,0.67 ,
+Deng et al. 2009,Asia,China,23.33 ,113.50 ,126,21.5 ,1750 ,"Pinus massoniana, Castanopsis hystrix, Syzygium hancei, Schima superba, Acmena acuminatissima, and Ormosia pinnata",seedling,22.8 ,48.0 ,400,700,300,OTC,Rs,0.24 ,0.67 ,
+Deng et al. 2009,Asia,China,23.33 ,113.50 ,126,21.5 ,1750 ,"Pinus massoniana, Castanopsis hystrix, Syzygium hancei, Schima superba, Acmena acuminatissima, and Ormosia pinnata",seedling,22.8 ,48.0 ,400,700,300,OTC,Rs,0.37 ,0.67 ,
+Deng et al. 2013,Asia,China,23.33 ,113.50 ,126,21.5 ,1750 ,"Pinus massoniana, Castanopsis hystrix, Syzygium hancei, Schima superba, Acmena acuminatissima, and Ormosia pinnata",seedling,22.8 ,72.0 ,400,700,300,OTC,MBC,0.24 ,0.67 ,
+Deng et al. 2013,Asia,China,23.33 ,113.50 ,126,21.5 ,1750 ,"Pinus massoniana, Castanopsis hystrix, Syzygium hancei, Schima superba, Acmena acuminatissima, and Ormosia pinnata",seedling,22.8 ,72.0 ,400,700,300,OTC,MBC,0.19 ,0.67 ,
+Deng et al. 2013,Asia,China,23.33 ,113.50 ,126,21.5 ,1750 ,"Pinus massoniana, Castanopsis hystrix, Syzygium hancei, Schima superba, Acmena acuminatissima, and Ormosia pinnata",seedling,22.8 ,72.0 ,400,700,300,OTC,MBC,0.21 ,0.67 ,
+Deng et al. 2013,Asia,China,23.33 ,113.50 ,126,21.5 ,1750 ,"Pinus massoniana, Castanopsis hystrix, Syzygium hancei, Schima superba, Acmena acuminatissima, and Ormosia pinnata",seedling,22.8 ,72.0 ,400,700,300,OTC,MBC,0.44 ,0.67 ,
+Drake et al. 2011,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,156.0 ,365,565,200,FACE,Rs,0.12 ,0.67 ,Duke FACE
+Drake et al. 2011,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,156.0 ,365,565,200,FACE,Rs,0.19 ,0.67 ,Duke FACE
+Drake et al. 2011,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,156.0 ,365,565,200,FACE,Rs,0.16 ,0.67 ,Duke FACE
+Drake et al. 2012,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,180.0 ,365,565,200,FACE,Nmin,0.27 ,0.50 ,Duke FACE
+Drake et al. 2012,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,180.0 ,365,565,200,FACE,Nit,-0.77 ,0.50 ,Duke FACE
+Drake et al. 2012,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,180.0 ,365,565,200,FACE,Rs,0.31 ,0.50 ,Duke FACE
+Drake et al. 2012,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,180.0 ,365,565,200,FACE,Rs,0.10 ,0.50 ,Duke FACE
+Drake et al. 2012,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,180.0 ,365,565,200,FACE,Rs,0.55 ,0.50 ,Duke FACE
+Drake et al. 2012,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,180.0 ,365,565,200,FACE,Rs,0.38 ,0.50 ,Duke FACE
+Drake et al. 2012,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,180.0 ,365,565,200,FACE,Rs,0.04 ,0.50 ,Duke FACE
+Drake et al. 2012,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,180.0 ,400,600,200,FACE,Rootbiomass,-0.07 ,0.50 ,Duke FACE
+Drake et al. 2012,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,180.0 ,400,600,200,FACE,Rootbiomass,0.24 ,0.50 ,Duke FACE
+Drake et al. 2012,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,180.0 ,400,600,200,FACE,Rootbiomass,0.14 ,0.50 ,Duke FACE
+Drake et al. 2012,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,180.0 ,400,600,200,FACE,Rootbiomass,0.15 ,0.50 ,Duke FACE
+Drake et al. 2012,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,180.0 ,365,565,200,FACE,SoilNH4+,0.21 ,0.50 ,Duke FACE
+Drake et al. 2012,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,180.0 ,365,565,200,FACE,SoilNH4+,0.46 ,0.50 ,Duke FACE
+Drake et al. 2012,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,180.0 ,365,565,200,FACE,SoilNH4+,-0.07 ,0.50 ,Duke FACE
+Drake et al. 2012,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,180.0 ,365,565,200,FACE,SoilNH4+,0.39 ,0.50 ,Duke FACE
+Drake et al. 2012,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,180.0 ,365,565,200,FACE,SoilNO3-,-0.06 ,0.50 ,Duke FACE
+Drake et al. 2012,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,180.0 ,365,565,200,FACE,SoilNO3-,0.06 ,0.50 ,Duke FACE
+Drake et al. 2012,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,180.0 ,365,565,200,FACE,SoilNO3-,0.02 ,0.50 ,Duke FACE
+Drake et al. 2012,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,180.0 ,365,565,200,FACE,SoilNO3-,-0.08 ,0.50 ,Duke FACE
+Drake et al. 2012,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,180.0 ,365,565,200,FACE,TIN,0.05 ,0.50 ,Duke FACE
+Drake et al. 2012,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,180.0 ,365,565,200,FACE,TIN,0.16 ,0.50 ,Duke FACE
+Drake et al. 2012,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,180.0 ,365,565,200,FACE,TIN,-0.02 ,0.50 ,Duke FACE
+Drake et al. 2012,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,180.0 ,365,565,200,FACE,TIN,0.03 ,0.50 ,Duke FACE
+Duan et al.  2015,Asia,China,31.68 ,103.88 ,1820,9.3 ,826 ,Abies faxoniana,7,15.7,72.0 ,370,720,350,Growth Chamber,SOC,-0.03 ,0.67 ,
+Duan et al.  2015,Asia,China,31.68 ,103.88 ,1820,9.3 ,826 ,Abies faxoniana,1,15.7,72.0 ,370,720,350,Growth Chamber,SOC,0.04 ,0.67 ,
+Duan et al.  2015,Asia,China,31.68 ,103.88 ,1820,9.3 ,826 ,Abies faxoniana,1,15.7,72.0 ,370,720,350,Growth Chamber,SOC,-0.10 ,0.67 ,
+Duan et al.  2015,Asia,China,31.68 ,103.88 ,1820,9.3 ,826 ,Abies faxoniana,1,15.7,72.0 ,370,720,350,Growth Chamber,MBC,0.01 ,0.67 ,
+Duan et al.  2015,Asia,China,31.68 ,103.88 ,1820,9.3 ,826 ,Abies faxoniana,1,15.7,72.0 ,370,720,350,Growth Chamber,MBC,0.16 ,0.67 ,
+Duan et al.  2015,Asia,China,31.68 ,103.88 ,1820,9.3 ,826 ,Abies faxoniana,1,15.7,72.0 ,370,720,350,Growth Chamber,MBC,-0.02 ,0.67 ,
+Duan et al.  2015,Asia,China,31.68 ,103.88 ,1820,9.3 ,826 ,Abies faxoniana,seedling,15.7,72.0 ,370,720,350,Growth Chamber,Leaf[N],-0.11 ,0.67 ,
+Duan et al.  2015,Asia,China,31.68 ,103.88 ,1820,9.3 ,826 ,Abies faxoniana,seedling,15.7,72.0 ,370,720,350,Growth Chamber,Leaf[N],-0.10 ,0.67 ,
+Duan et al.  2015,Asia,China,31.68 ,103.88 ,1820,9.3 ,826 ,Abies faxoniana,seedling,15.7,72.0 ,370,720,350,Growth Chamber,Leaf[N],-0.44 ,0.67 ,
+Duan et al.  2015,Asia,China,31.68 ,103.88 ,1820,9.3 ,826 ,Abies faxoniana,1,15.7,72.0 ,370,720,350,Growth Chamber,SoilCN,0.32 ,0.67 ,
+Duan et al.  2015,Asia,China,31.68 ,103.88 ,1820,9.3 ,826 ,Abies faxoniana,1,15.7,72.0 ,370,720,350,Growth Chamber,SoilCN,-0.32 ,0.67 ,
+Duan et al.  2015,Asia,China,31.68 ,103.88 ,1820,9.3 ,826 ,Abies faxoniana,1,15.7,72.0 ,370,720,350,Growth Chamber,SoilCN,0.65 ,0.67 ,
+Duan et al.  2015,Asia,China,31.68 ,103.88 ,1820,9.3 ,826 ,Abies faxoniana,1,15.7,72.0 ,370,720,350,Growth Chamber,RootCN,0.10 ,0.67 ,
+Duan et al.  2015,Asia,China,31.68 ,103.88 ,1820,9.3 ,826 ,Abies faxoniana,1,15.7,72.0 ,370,720,350,Growth Chamber,RootCN,-0.16 ,0.67 ,
+Duan et al.  2015,Asia,China,31.68 ,103.88 ,1820,9.3 ,826 ,Abies faxoniana,1,15.7,72.0 ,370,720,350,Growth Chamber,RootCN,0.08 ,0.67 ,
+Duan et al.  2015,Asia,China,31.68 ,103.88 ,1820,9.3 ,826 ,Abies faxoniana,1,15.7,72.0 ,370,720,350,Growth Chamber,Root[N],-0.11 ,0.67 ,
+Duan et al.  2015,Asia,China,31.68 ,103.88 ,1820,9.3 ,826 ,Abies faxoniana,1,15.7,72.0 ,370,720,350,Growth Chamber,Root[N],0.09 ,0.67 ,
+Duan et al.  2015,Asia,China,31.68 ,103.88 ,1820,9.3 ,826 ,Abies faxoniana,1,15.7,72.0 ,370,720,350,Growth Chamber,Root[N],-0.25 ,0.67 ,
+Duan et al.  2015,Asia,China,31.68 ,103.88 ,1820,9.3 ,826 ,Abies faxoniana,1,15.7,72.0 ,370,720,350,Growth Chamber,MBN,0.06 ,0.67 ,
+Duan et al.  2015,Asia,China,31.68 ,103.88 ,1820,9.3 ,826 ,Abies faxoniana,1,15.7,72.0 ,370,720,350,Growth Chamber,MBN,0.16 ,0.67 ,
+Duan et al.  2015,Asia,China,31.68 ,103.88 ,1820,9.3 ,826 ,Abies faxoniana,1,15.7,72.0 ,370,720,350,Growth Chamber,Root[C],-0.18 ,0.67 ,
+Duan et al.  2015,Asia,China,31.68 ,103.88 ,1820,9.3 ,826 ,Abies faxoniana,1,15.7,72.0 ,370,720,350,Growth Chamber,Root[C],-0.01 ,0.67 ,
+Duan et al.  2015,Asia,China,31.68 ,103.88 ,1820,9.3 ,826 ,Abies faxoniana,1,15.7,72.0 ,370,720,350,Growth Chamber,Root[C],0.06 ,0.67 ,
+"Edwards and Norby, 1999",North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Acer rubrum,10,7.4,48.0 ,400,700,300,OTC,Rs,0.22 ,0.67 ,
+"Edwards and Norby, 1999",North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Acer rubrum,10,7.4,48.0 ,400,700,300,OTC,Rs,0.37 ,0.67 ,
+"Edwards and Norby, 1999",North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Acer rubrum,10,7.4,48.0 ,400,700,300,OTC,Rs,0.27 ,0.67 ,
+"Edwards and Norby, 1999",North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Acer rubrum,10,7.4,48.0 ,400,700,300,OTC,Rs,0.35 ,0.67 ,
+"Edwards and Norby, 1999",North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Acer saccharum,10,7.4,48.0 ,400,700,300,OTC,Rs,-0.03 ,0.67 ,
+"Edwards and Norby, 1999",North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Acer saccharum,10,7.4,48.0 ,400,700,300,OTC,Rs,0.06 ,0.67 ,
+"Edwards and Norby, 1999",North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Acer saccharum,10,7.4,48.0 ,400,700,300,OTC,Rs,0.12 ,0.67 ,
+"Edwards and Norby, 1999",North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Acer saccharum,10,7.4,48.0 ,400,700,300,OTC,Rs,0.23 ,0.67 ,
+Ellsworth et al. 2017,Oceania,Australia,-33.62 ,150.73 ,23,17.5 ,800 ,Eucalyptus tereticornis,10,14,60.0 ,390,540,150,FACE,ANPP,-0.12 ,0.67 ,EucFACE
+Ellsworth et al. 2017,Oceania,Australia,-33.62 ,150.73 ,23,17.5 ,800 ,Eucalyptus tereticornis,10,14,60.0 ,390,540,150,FACE,ANPP,-0.06 ,0.67 ,EucFACE
+Ellsworth et al. 2017,Oceania,Australia,-33.62 ,150.73 ,23,17.5 ,800 ,Eucalyptus tereticornis,10,14,60.0 ,390,540,150,FACE,ANPP,-0.07 ,0.67 ,EucFACE
+Esmeijer-Liu et al.  2009,Europe,Netherlands,52.34 ,4.86 ,3 ,15.0 ,844 ,Betula pendula,2,,36.0 ,380,600,220,Growth Chamber,Leaf[N],-0.13 ,0.67 ,
+Esmeijer-Liu et al.  2009,Europe,Netherlands,52.34 ,4.86 ,3 ,15.0 ,844 ,Betula pendula,2,,36.0 ,380,600,220,Growth Chamber,Leaf[N],-0.09 ,0.67 ,
+Esmeijer-Liu et al.  2009,Europe,Netherlands,52.34 ,4.86 ,3 ,15.0 ,844 ,Betula pendula,2,,36.0 ,380,600,220,Growth Chamber,Leaf[N],-0.39 ,0.67 ,
+Esmeijer-Liu et al.  2009,Europe,Netherlands,52.34 ,4.86 ,3 ,15.0 ,844 ,Betula pendula,2,,36.0 ,380,600,220,Growth Chamber,Leaf[N],-0.55 ,0.67 ,
+Esmeijer-Liu et al.  2009,Europe,Netherlands,52.34 ,4.86 ,3 ,15.0 ,844 ,Betula pendula,2,,36.0 ,380,600,220,Growth Chamber,Leaf[N],-0.19 ,0.67 ,
+Esmeijer-Liu et al.  2009,Europe,Netherlands,52.34 ,4.86 ,3 ,15.0 ,844 ,Betula pendula,2,,36.0 ,380,600,220,Growth Chamber,Leaf[N],-0.17 ,0.67 ,
+Esmeijer-Liu et al.  2009,Europe,Netherlands,52.34 ,4.86 ,3 ,15.0 ,844 ,Betula pendula,2,,36.0 ,380,600,220,Growth Chamber,Leaf[N],-0.13 ,0.67 ,
+Feng & Flessa 2004,Europe,Germany ,51.56 ,9.96 ,214 ,8.0 ,411 ,Robinia pseudoacacia,1,16.7 ,4.0 ,350,700,350,Growth Chamber,BNF,0.57 ,0.33 ,symbiotic N-fixing
+Finzi & Schlesinger 2003,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,60.0 ,365,565,200,FACE,Nmin,0.10 ,0.67 ,Duke FACE
+Finzi & Schlesinger 2003,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,60.0 ,365,565,200,FACE,Nmin,0.24 ,0.67 ,Duke FACE
+Finzi & Schlesinger 2003,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,60.0 ,365,565,200,FACE,Nmin,1.07 ,0.67 ,Duke FACE
+Finzi & Schlesinger 2003,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,60.0 ,365,565,200,FACE,Nmin,-0.42 ,0.67 ,Duke FACE
+Finzi & Schlesinger 2003,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,60.0 ,365,565,200,FACE,Nmin,0.41 ,0.67 ,Duke FACE
+Finzi & Schlesinger 2003,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,60.0 ,365,565,200,FACE,Nit,0.06 ,0.67 ,Duke FACE
+Finzi & Schlesinger 2003,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,60.0 ,365,565,200,FACE,TIN,-0.08 ,0.67 ,Duke FACE
+Finzi & Schlesinger 2003,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,60.0 ,365,565,200,FACE,MBN,0.13 ,0.67 ,Duke FACE
+Finzi et al. 2002,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,48.0 ,365,565,200,FACE,Rootbiomass,-0.09 ,0.67 ,Duke FACE
+Finzi et al. 2002,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,48.0 ,365,565,200,FACE,Rootbiomass,0.00 ,0.67 ,Duke FACE
+Finzi et al. 2002,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,48.0 ,365,565,200,FACE,Rootbiomass,0.12 ,0.67 ,Duke FACE
+Finzi et al. 2002,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,120.0 ,365,565,200,FACE,MBN,-0.02 ,0.67 ,Duke FACE
+Finzi et al. 2002,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,120.0 ,365,565,200,FACE,MBN,0.10 ,0.67 ,Duke FACE
+Finzi et al. 2006,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,72.0 ,365,565,200,FACE,SOC,0.13 ,0.67 ,Duke FACE
+Finzi et al. 2006,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,72.0 ,365,565,200,FACE,SOC,0.14 ,0.67 ,Duke FACE
+Finzi et al. 2006,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,72.0 ,365,565,200,FACE,SoilCN,0.11 ,0.67 ,Duke FACE
+Finzi et al. 2006,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,72.0 ,365,565,200,FACE,SoilCN,0.07 ,0.67 ,Duke FACE
+Finzi et al. 2006,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,72.0 ,365,565,200,FACE,MBN,-0.02 ,0.67 ,Duke FACE
+Finzi et al. 2006,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,72.0 ,365,565,200,FACE,MBN,0.06 ,0.67 ,Duke FACE
+Finzi et al. 2006,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,72.0 ,365,565,200,FACE,MBN,0.12 ,0.67 ,Duke FACE
+Finzi et al. 2006,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,72.0 ,365,565,200,FACE,MBN,-0.08 ,0.67 ,Duke FACE
+Finzi et al. 2007,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,72.0 ,380,560,180,FACE,NUE,-0.06 ,1.00 ,Oak Ridge FACE
+Finzi et al. 2007,North America,USA,35.95 ,-79.15 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,72.0 ,376,550,174,FACE,NUE,0.07 ,0.67 ,Duke FACE
+Finzi et al. 2007,North America,USA,35.95 ,-79.15 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,72.0 ,364,564,200,FACE,ANPP,0.22 ,0.67 ,Duke FACE
+Finzi et al. 2007,North America,USA,35.95 ,-79.15 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,72.0 ,367,567,200,FACE,ANPP,0.25 ,0.67 ,Duke FACE
+Finzi et al. 2007,North America,USA,35.95 ,-79.15 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,72.0 ,368,568,200,FACE,ANPP,0.19 ,0.67 ,Duke FACE
+Finzi et al. 2007,North America,USA,35.95 ,-79.15 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,72.0 ,370,570,200,FACE,ANPP,0.19 ,0.67 ,Duke FACE
+Finzi et al. 2007,North America,USA,35.95 ,-79.15 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,72.0 ,371,571,200,FACE,ANPP,0.18 ,0.67 ,Duke FACE
+Finzi et al. 2007,North America,USA,35.95 ,-79.15 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,72.0 ,373,573,200,FACE,ANPP,0.25 ,0.67 ,Duke FACE
+Finzi et al. 2007,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,"Populus alba, Populus x euramericana, Populus nigra",seedling,8.46,72.0 ,370,550,180,FACE,NPP,0.20 ,0.67 ,POP-EUROFACE
+Finzi et al. 2007,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,"Populus alba, Populus x euramericana, Populus nigra",seedling,8.46,72.0 ,376,550,174,FACE,NUE,0.21 ,0.33 ,POP-EUROFACE
+Finzi et al. 2007,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,"Betula papyrifera, Populus tremuloides, Acer saccharum",9,12.9,96.0 ,356,534,178,FACE,NPP,0.47 ,0.67 ,"FACTS-II, Aspen FACE"
+Finzi et al. 2007,North America,USA,45.70 ,-89.50 ,490,4.9 ,810 ,"Betula papyrifera, Populus tremuloides, Acer saccharum",9,12.9,96.0 ,376,550,174,FACE,NUE,0.03 ,0.33 ,"FACTS-II, Aspen FACE"
+Gardner et al. 2022,Europe,UK,52.80 ,-2.30 ,99 ,10.5 ,720 ,Quercus robur,175,26.9 ,48.0 ,400,550,150,FACE,Anet,0.26 ,0.67 ,BIFoR-FACE
+Gardner et al. 2022,Europe,UK,52.80 ,-2.30 ,99 ,10.5 ,720 ,Quercus robur,175,26.9 ,48.0 ,400,550,150,FACE,Anet,0.30 ,0.67 ,BIFoR-FACE
+Gardner et al. 2022,Europe,UK,52.80 ,-2.30 ,99 ,10.5 ,720 ,Quercus robur,175,26.9 ,48.0 ,400,550,150,FACE,Anet,0.17 ,0.67 ,BIFoR-FACE
+Gardner et al. 2022,Europe,UK,52.80 ,-2.30 ,99 ,10.5 ,720 ,Quercus robur,175,26.9 ,48.0 ,400,550,150,FACE,Anet,0.17 ,0.67 ,BIFoR-FACE
+Gielen et al. 2005,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,Populus alba,seedling,8.46,36.0 ,400,550,150,FACE,Rs,0.34 ,0.67 ,POP-EUROFACE
+Gielen et al. 2005,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,Populus nigra,seedling,8.46,36.0 ,400,550,150,FACE,Rs,0.42 ,0.67 ,POP-EUROFACE
+Gielen et al. 2005,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,Populus x euramericana,seedling,8.46,36.0 ,400,550,150,FACE,Rs,0.21 ,0.67 ,POP-EUROFACE
+Gielen et al. 2005,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,Populus alba,seedling,8.46,36.0 ,400,550,150,FACE,Rs,1.17 ,0.67 ,POP-EUROFACE
+Gielen et al. 2005,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,Populus nigra,seedling,8.46,36.0 ,400,550,150,FACE,Rs,1.08 ,0.67 ,POP-EUROFACE
+Gielen et al. 2005,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,Populus x euramericana,seedling,8.46,36.0 ,400,550,150,FACE,Rs,0.55 ,0.67 ,POP-EUROFACE
+Gielen et al. 2005,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,Populus alba,seedling,8.46,36.0 ,400,550,150,FACE,Rootbiomass,0.76 ,0.67 ,POP-EUROFACE
+Gielen et al. 2005,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,Populus nigra,seedling,8.46,36.0 ,400,550,150,FACE,Rootbiomass,0.78 ,0.67 ,POP-EUROFACE
+Gielen et al. 2005,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,Populus x euramericana,seedling,8.46,36.0 ,400,550,150,FACE,Rootbiomass,0.86 ,0.67 ,POP-EUROFACE
+Gielen et al. 2005,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,Populus alba,seedling,8.46,36.0 ,400,550,150,FACE,Rootbiomass,0.19 ,0.67 ,POP-EUROFACE
+Gielen et al. 2005,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,Populus nigra,seedling,8.46,36.0 ,400,550,150,FACE,Rootbiomass,0.69 ,0.67 ,POP-EUROFACE
+Gielen et al. 2005,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,Populus x euramericana,seedling,8.46,36.0 ,400,550,150,FACE,Rootbiomass,0.54 ,0.67 ,POP-EUROFACE
+Grams et al.  1999,Europe,Germany,48.21 ,11.57 ,497 ,8.9 ,915 ,Fagus sylvatica,1,18.7 ,36.0 ,367,667,300,Greenhouse,Leaf[N],-0.23 ,0.67 ,
+Grannoum et al. 2010,Oceania,Australia,-32.99 ,147.89 ,300,18.0 ,563 ,Eucalyptus saligna,seedling,13,5.0 ,290,400,110,Greenhouse,Rootbiomass,0.09 ,0.67 ,
+Grannoum et al. 2010,Oceania,Australia,-32.99 ,147.89 ,300,18.0 ,563 ,Eucalyptus saligna,seedling,13,5.0 ,290,650,360,Greenhouse,Rootbiomass,0.40 ,0.67 ,
+Grannoum et al. 2010,Oceania,Australia,-32.99 ,147.89 ,300,18.0 ,563 ,Eucalyptus sideroxylon,seedling,13,5.0 ,290,400,110,Greenhouse,Rootbiomass,0.45 ,0.67 ,
+Grannoum et al. 2010,Oceania,Australia,-32.99 ,147.89 ,300,18.0 ,563 ,Eucalyptus sideroxylon,seedling,13,5.0 ,290,650,360,Greenhouse,Rootbiomass,0.97 ,0.67 ,
+Grannoum et al. 2010,Oceania,Australia,-32.99 ,147.89 ,300,18.0 ,563 ,Eucalyptus saligna,seedling,13,5.0 ,290,400,110,Greenhouse,Rootbiomass,0.06 ,0.67 ,
+Grannoum et al. 2010,Oceania,Australia,-32.99 ,147.89 ,300,18.0 ,563 ,Eucalyptus saligna,seedling,13,5.0 ,290,650,360,Greenhouse,Rootbiomass,0.67 ,0.67 ,
+Grannoum et al. 2010,Oceania,Australia,-32.99 ,147.89 ,300,18.0 ,563 ,Eucalyptus sideroxylon,seedling,13,5.0 ,290,400,110,Greenhouse,Rootbiomass,0.43 ,0.67 ,
+Grannoum et al. 2010,Oceania,Australia,-32.99 ,147.89 ,300,18.0 ,563 ,Eucalyptus sideroxylon,seedling,13,5.0 ,290,650,360,Greenhouse,Rootbiomass,1.06 ,0.67 ,
+Gschwendtner et al.  2015,Europe,Germany,47.98 ,8.75 ,765 ,20.0 ,922 ,Fagus sylvatica,1,10.9,0.1 ,360,1100,740,Greenhouse,DOC,-0.34 ,0.67 ,
+Gschwendtner et al.  2015,Europe,Germany,47.98 ,8.75 ,765 ,20.0 ,922 ,Fagus sylvatica,1,10.9,0.1 ,360,1100,740,Greenhouse,DOC,-0.37 ,0.67 ,
+Hagedorn et al.  2000,Europe,Switzerland,47.35 ,8.43 ,518 ,8.9 ,1181 ,"Picea abies, Fagus sylvatica",3,15.5,48.0 ,370,570,200,OTC,DOC,0.06 ,0.67 ,
+Hagedorn et al.  2000,Europe,Switzerland,47.35 ,8.43 ,518 ,8.9 ,1181 ,"Picea abies, Fagus sylvatica",3,15.5,48.0 ,370,570,200,OTC,DOC,-0.08 ,0.67 ,
+Hagedorn et al.  2013,Europe,Switzerland,47.47 ,7.50 ,2180,9.5 ,1150 ,"Larix decidua, Pinus cembra, Pinus mugo",35,24.9,108.0 ,370,570,200,FACE,SOC,-0.03 ,0.20 ,
+Hagedorn et al.  2013,Europe,Switzerland,47.47 ,7.50 ,2180,9.5 ,1150 ,"Larix decidua, Pinus cembra, Pinus mugo",35,24.9,108.0 ,370,570,200,FACE,SOC,0.06 ,0.20 ,
+Hagedorn et al.  2013,Europe,Switzerland,47.47 ,7.50 ,2180,9.5 ,1150 ,"Larix decidua, Pinus cembra, Pinus mugo",35,24.9,108.0 ,370,570,200,FACE,SoilCN,0.00 ,0.20 ,
+Hagedorn et al.  2013,Europe,Switzerland,47.47 ,7.50 ,2180,9.5 ,1150 ,"Larix decidua, Pinus cembra, Pinus mugo",35,24.9,108.0 ,370,570,200,FACE,SoilCN,-0.01 ,0.20 ,
+Hagedorn et al. 2000,Europe,Switzerland,47.35 ,8.43 ,518 ,8.9 ,1181 ,"Picea abies, Fagus sylvatica",3,15.5,48.0 ,370,570,200,OTC,N2O,0.00 ,0.50 ,
+Hagedorn et al. 2000,Europe,Switzerland,47.35 ,8.43 ,518 ,8.9 ,1181 ,"Picea abies, Fagus sylvatica",3,15.5,48.0 ,370,570,200,OTC,N2O,0.69 ,0.50 ,
+Hagedorn et al. 2000,Europe,Switzerland,47.35 ,8.43 ,518 ,8.9 ,1181 ,"Picea abies, Fagus sylvatica",3,15.5,48.0 ,370,570,200,OTC,N2O,0.00 ,0.50 ,
+Hagedorn et al. 2000,Europe,Switzerland,47.35 ,8.43 ,518 ,8.9 ,1181 ,"Picea abies, Fagus sylvatica",3,15.5,48.0 ,370,570,200,OTC,N2O,-0.41 ,0.50 ,
+Hagedorn et al. 2000,Europe,Switzerland,47.35 ,8.43 ,518 ,8.9 ,1181 ,"Picea abies, Fagus sylvatica",3,15.5,48.0 ,370,570,200,OTC,NO3-,-0.69 ,0.50 ,
+Hagedorn et al. 2000,Europe,Switzerland,47.35 ,8.43 ,518 ,8.9 ,1181 ,"Picea abies, Fagus sylvatica",3,15.5,48.0 ,370,570,200,OTC,NO3-,-2.48 ,0.50 ,
+Hagedorn et al. 2000,Europe,Switzerland,47.35 ,8.43 ,518 ,8.9 ,1181 ,"Picea abies, Fagus sylvatica",3,15.5,48.0 ,370,570,200,OTC,NO3-,-0.41 ,0.50 ,
+Hagedorn et al. 2000,Europe,Switzerland,47.35 ,8.43 ,518 ,8.9 ,1181 ,"Picea abies, Fagus sylvatica",3,15.5,48.0 ,370,570,200,OTC,NO3-,-1.21 ,0.50 ,
+Hagedorn et al. 2000,Europe,Switzerland,47.35 ,8.43 ,518 ,8.9 ,1181 ,"Picea abies, Fagus sylvatica",3,15.5,48.0 ,370,570,200,OTC,Rootbiomass,1.33 ,0.50 ,
+Hagedorn et al. 2000,Europe,Switzerland,47.35 ,8.43 ,518 ,8.9 ,1181 ,"Picea abies, Fagus sylvatica",3,15.5,48.0 ,370,570,200,OTC,Rootbiomass,0.50 ,0.50 ,
+Hagedorn et al. 2000,Europe,Switzerland,47.35 ,8.43 ,518 ,8.9 ,1181 ,"Picea abies, Fagus sylvatica",3,15.5,48.0 ,370,570,200,OTC,DOC,0.06 ,0.50 ,
+Hagedorn et al. 2000,Europe,Switzerland,47.35 ,8.43 ,518 ,8.9 ,1181 ,"Picea abies, Fagus sylvatica",3,15.5,48.0 ,370,570,200,OTC,DOC,-0.08 ,0.50 ,
+Hagedorn et al. 2000,Europe,Switzerland,47.35 ,8.43 ,518 ,8.9 ,1181 ,Fagus sylvatica,2-4,15.5,48.0 ,370,570,200,OTC,SoilNH4+,0.34 ,0.25 ,
+Hagedorn et al. 2000,Europe,Switzerland,47.35 ,8.43 ,518 ,8.9 ,1181 ,Picea abies,2-4,15.5,48.0 ,370,570,200,OTC,SoilNH4+,0.00 ,0.25 ,
+Hagedorn et al. 2000,Europe,Switzerland,47.35 ,8.43 ,518 ,8.9 ,1181 ,Fagus sylvatica,2-4,15.5,48.0 ,370,570,200,OTC,SoilNH4+,-0.15 ,0.25 ,
+Hagedorn et al. 2000,Europe,Switzerland,47.35 ,8.43 ,518 ,8.9 ,1181 ,Picea abies,2-4,15.5,48.0 ,370,570,200,OTC,SoilNH4+,-0.18 ,0.25 ,
+Hagedorn et al. 2000,Europe,Switzerland,47.35 ,8.43 ,518 ,8.9 ,1181 ,Fagus sylvatica,2-4,15.5,48.0 ,370,570,200,OTC,SoilNH4+,0.69 ,0.25 ,
+Hagedorn et al. 2000,Europe,Switzerland,47.35 ,8.43 ,518 ,8.9 ,1181 ,Picea abies,2-4,15.5,48.0 ,370,570,200,OTC,SoilNH4+,-0.22 ,0.25 ,
+Hagedorn et al. 2000,Europe,Switzerland,47.35 ,8.43 ,518 ,8.9 ,1181 ,Fagus sylvatica,2-4,15.5,48.0 ,370,570,200,OTC,SoilNH4+,-0.49 ,0.25 ,
+Hagedorn et al. 2000,Europe,Switzerland,47.35 ,8.43 ,518 ,8.9 ,1181 ,Picea abies,2-4,15.5,48.0 ,370,570,200,OTC,SoilNH4+,-0.29 ,0.25 ,
+Hagedorn et al. 2000,Europe,Switzerland,47.35 ,8.43 ,518 ,8.9 ,1181 ,Fagus sylvatica,2-4,15.5,48.0 ,370,570,200,OTC,SoilNO3-,0.11 ,0.25 ,
+Hagedorn et al. 2000,Europe,Switzerland,47.35 ,8.43 ,518 ,8.9 ,1181 ,Picea abies,2-4,15.5,48.0 ,370,570,200,OTC,SoilNO3-,0.15 ,0.25 ,
+Hagedorn et al. 2000,Europe,Switzerland,47.35 ,8.43 ,518 ,8.9 ,1181 ,Fagus sylvatica,2-4,15.5,48.0 ,370,570,200,OTC,SoilNO3-,-0.55 ,0.25 ,
+Hagedorn et al. 2000,Europe,Switzerland,47.35 ,8.43 ,518 ,8.9 ,1181 ,Picea abies,2-4,15.5,48.0 ,370,570,200,OTC,SoilNO3-,-0.48 ,0.25 ,
+Hagedorn et al. 2000,Europe,Switzerland,47.35 ,8.43 ,518 ,8.9 ,1181 ,Fagus sylvatica,2-4,15.5,48.0 ,370,570,200,OTC,SoilNO3-,0.35 ,0.25 ,
+Hagedorn et al. 2000,Europe,Switzerland,47.35 ,8.43 ,518 ,8.9 ,1181 ,Picea abies,2-4,15.5,48.0 ,370,570,200,OTC,SoilNO3-,-0.43 ,0.25 ,
+Hagedorn et al. 2000,Europe,Switzerland,47.35 ,8.43 ,518 ,8.9 ,1181 ,Fagus sylvatica,2-4,15.5,48.0 ,370,570,200,OTC,SoilNO3-,-0.69 ,0.25 ,
+Hagedorn et al. 2000,Europe,Switzerland,47.35 ,8.43 ,518 ,8.9 ,1181 ,Picea abies,2-4,15.5,48.0 ,370,570,200,OTC,SoilNO3-,-0.53 ,0.25 ,
+Hagedorn et al. 2000,Europe,Switzerland,47.35 ,8.43 ,518 ,8.9 ,1181 ,Fagus sylvatica,2-4,15.5,48.0 ,370,570,200,OTC,TIN,0.17 ,0.25 ,
+Hagedorn et al. 2000,Europe,Switzerland,47.35 ,8.43 ,518 ,8.9 ,1181 ,Picea abies,2-4,15.5,48.0 ,370,570,200,OTC,TIN,0.11 ,0.25 ,
+Hagedorn et al. 2000,Europe,Switzerland,47.35 ,8.43 ,518 ,8.9 ,1181 ,Fagus sylvatica,2-4,15.5,48.0 ,370,570,200,OTC,TIN,-0.34 ,0.25 ,
+Hagedorn et al. 2000,Europe,Switzerland,47.35 ,8.43 ,518 ,8.9 ,1181 ,Picea abies,2-4,15.5,48.0 ,370,570,200,OTC,TIN,-0.35 ,0.25 ,
+Hagedorn et al. 2000,Europe,Switzerland,47.35 ,8.43 ,518 ,8.9 ,1181 ,Fagus sylvatica,2-4,15.5,48.0 ,370,570,200,OTC,TIN,0.44 ,0.25 ,
+Hagedorn et al. 2000,Europe,Switzerland,47.35 ,8.43 ,518 ,8.9 ,1181 ,Picea abies,2-4,15.5,48.0 ,370,570,200,OTC,TIN,-0.36 ,0.25 ,
+Hagedorn et al. 2000,Europe,Switzerland,47.35 ,8.43 ,518 ,8.9 ,1181 ,Fagus sylvatica,2-4,15.5,48.0 ,370,570,200,OTC,TIN,-0.66 ,0.25 ,
+Hagedorn et al. 2000,Europe,Switzerland,47.35 ,8.43 ,518 ,8.9 ,1181 ,Picea abies,2-4,15.5,48.0 ,370,570,200,OTC,TIN,-0.51 ,0.25 ,
+Hagedorn et al. 2013,Europe,Switzerland,47.47 ,7.50 ,2180,9.5 ,1150 ,"Larix decidua, Pinus cembra, Pinus mugo",35,24.9,108.0 ,370,570,200,FACE,Rs,0.11 ,0.40 ,
+Hagedorn et al. 2013,Europe,Switzerland,47.47 ,7.50 ,2180,9.5 ,1150 ,"Larix decidua, Pinus cembra, Pinus mugo",35,24.9,108.0 ,370,570,200,FACE,Rs,0.19 ,0.40 ,
+Hagedorn et al. 2013,Europe,Switzerland,47.47 ,7.50 ,2180,9.5 ,1150 ,"Larix decidua, Pinus cembra, Pinus mugo",35,24.9,108.0 ,370,570,200,FACE,Rs,0.32 ,0.40 ,
+Hagedorn et al. 2013,Europe,Switzerland,47.47 ,7.50 ,2180,9.5 ,1150 ,"Larix decidua, Pinus cembra, Pinus mugo",35,24.9,108.0 ,370,570,200,FACE,Rs,0.22 ,0.40 ,
+Hagedorn et al. 2013,Europe,Switzerland,47.47 ,7.50 ,2180,9.5 ,1150 ,"Larix decidua, Pinus cembra, Pinus mugo",35,24.9,108.0 ,370,570,200,FACE,Rs,0.31 ,0.40 ,
+Hagedorn et al. 2013,Europe,Switzerland,47.47 ,7.50 ,2180,9.5 ,1150 ,"Larix decidua, Pinus cembra, Pinus mugo",35,24.9,108.0 ,370,570,200,FACE,Rs,0.35 ,0.40 ,
+Hagedorn et al. 2013,Europe,Switzerland,47.47 ,7.50 ,2180,9.5 ,1150 ,"Larix decidua, Pinus cembra, Pinus mugo",35,24.9,108.0 ,370,570,200,FACE,Rs,0.08 ,0.40 ,
+Hagedorn et al. 2013,Europe,Switzerland,47.47 ,7.50 ,2180,9.5 ,1150 ,"Larix decidua, Pinus cembra, Pinus mugo",35,24.9,108.0 ,370,570,200,FACE,Rs,0.13 ,0.40 ,
+Hamilton et al. 2003,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,48.0 ,365,565,200,FACE,NPP,0.24 ,0.67 ,Duke FACE
+Hamilton et al. 2003,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,48.0 ,365,565,200,FACE,Rootbiomass,0.10 ,0.67 ,Duke FACE
+"H?ttenschwiler and K?rner, 1997",Europe,Switzerland,47.03 ,8.00 ,869 ,7.4 ,1433 ,Picea abies,7,15.5 ,36.0 ,280,420,140,Greenhouse,Rootbiomass,0.14 ,0.67 ,
+"H?ttenschwiler and K?rner, 1997",Europe,Switzerland,47.03 ,8.00 ,869 ,7.4 ,1433 ,Picea abies,seedling,15.5 ,36.0 ,280,560,280,Greenhouse,Rootbiomass,0.12 ,0.67 ,
+Hebbar et al.  2020,Asia,India,12.30 ,75.00 ,10.7,33.5 ,3400 ,Theobroma cacao,0.5,1.0 ,24.0 ,380,550,170,OTC,Rootbiomass,0.06 ,0.67 ,
+Hebbar et al.  2020,Asia,India,12.30 ,75.00 ,10.7,33.5 ,3400 ,Theobroma cacao,0.5,1.0 ,24.0 ,380,700,320,OTC,Rootbiomass,0.21 ,0.67 ,
+Hebbar et al.  2020,Asia,India,12.30 ,75.00 ,10.7,33.5 ,3400 ,Theobroma cacao,0.5,1.0 ,24.0 ,380,550,170,OTC,Rootbiomass,0.51 ,0.67 ,
+Hebbar et al.  2020,Asia,India,12.30 ,75.00 ,10.7,33.5 ,3400 ,Theobroma cacao,0.5,1.0 ,24.0 ,380,550,170,OTC,Leafbiomass,0.11 ,0.67 ,
+Hebbar et al.  2020,Asia,India,12.30 ,75.00 ,10.7,33.5 ,3400 ,Theobroma cacao,0.5,1.0 ,24.0 ,380,700,320,OTC,Leafbiomass,0.33 ,0.67 ,
+Hebbar et al.  2020,Asia,India,12.30 ,75.00 ,10.7,33.5 ,3400 ,Theobroma cacao,0.5,1.0 ,24.0 ,380,550,170,OTC,Leafbiomass,0.05 ,0.67 ,
+Hibbs et al. 1995,North America,USA,44.56 ,-123.29 ,76 ,11.5 ,1234 ,Alnus rubra,seedling,13.0 ,4.8 ,350,700,350,Growth Chamber,BNF,0.05 ,0.13 ,symbiotic N-fixing
+Hofmockel & Schlesinger 2007,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,49.0 ,365,565,200,FACE,BNF,-0.10 ,0.67 ,non-symbiotic N-fixing
+Hofmockel & Schlesinger 2007,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,57.0 ,365,565,200,FACE,BNF,-0.34 ,0.67 ,non-symbiotic N-fixing
+Hofmockel & Schlesinger 2007,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,60.0 ,365,565,200,FACE,BNF,-0.07 ,0.67 ,non-symbiotic N-fixing
+Hofmockel & Schlesinger 2007,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,73.0 ,365,565,200,FACE,BNF,-0.18 ,0.67 ,non-symbiotic N-fixing
+Hofmockel & Schlesinger 2007,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,77.0 ,365,565,200,FACE,BNF,0.92 ,0.67 ,non-symbiotic N-fixing
+Hoosbeek et al. 2011,Europe,UK,53.23 ,-4.00 ,162 ,11.5 ,1034 ,"Alnus glutinosa, Betula pendula and Fagus sylvatica",seedling,10.97,48.0 ,380,580,200,FACE,SoilNH4+,-0.45 ,0.50 ,Bangor FACE
+Hoosbeek et al. 2011,Europe,UK,53.23 ,-4.00 ,162 ,11.5 ,1034 ,"Alnus glutinosa, Betula pendula and Fagus sylvatica",seedling,10.97,48.0 ,380,580,200,FACE,SoilNO3-,-0.18 ,0.50 ,Bangor FACE
+Hoosbeek et al. 2011,Europe,UK,53.23 ,-4.00 ,162 ,11.5 ,1034 ,"Alnus glutinosa, Betula pendula and Fagus sylvatica",seedling,10.97,48.0 ,380,580,200,FACE,TIN,-0.19 ,0.50 ,Bangor FACE
+Hoshika et al.  2012,Asia,Japan,43.07 ,141.33 ,15,11.5 ,1325 ,"Betula ermanii, Betula maximowicziana, Betula platyphylla",2,18.9 ,12.0 ,375,600,225,OTC,Rootbiomass,0.11 ,0.50 ,
+Hoshika et al.  2012,Asia,Japan,43.07 ,141.33 ,15,11.5 ,1325 ,"Betula ermanii, Betula maximowicziana, Betula platyphylla",2,18.9 ,12.0 ,375,600,225,OTC,Rootbiomass,0.03 ,0.50 ,
+Hoshika et al.  2012,Asia,Japan,43.07 ,141.33 ,15,11.5 ,1325 ,"Betula ermanii, Betula maximowicziana, Betula platyphylla",2,18.9 ,12.0 ,375,600,225,OTC,Rootbiomass,0.21 ,0.50 ,
+Hoshika et al.  2012,Asia,Japan,43.07 ,141.33 ,15,11.5 ,1325 ,"Betula ermanii, Betula maximowicziana, Betula platyphylla",2,18.9 ,12.0 ,375,600,225,OTC,Leafbiomass,-0.54 ,0.50 ,
+Hoshika et al.  2012,Asia,Japan,43.07 ,141.33 ,15,11.5 ,1325 ,"Betula ermanii, Betula maximowicziana, Betula platyphylla",2,18.9 ,12.0 ,375,600,225,OTC,Leafbiomass,0.22 ,0.50 ,
+Hoshika et al.  2012,Asia,Japan,43.07 ,141.33 ,15,11.5 ,1325 ,"Betula ermanii, Betula maximowicziana, Betula platyphylla",2,18.9 ,12.0 ,375,600,225,OTC,Leafbiomass,0.02 ,0.50 ,
+Hoshika et al.  2012,Asia,Japan,43.07 ,141.33 ,15,11.5 ,1325 ,"Betula ermanii, Betula maximowicziana, Betula platyphylla",2,18.9 ,12.0 ,375,600,225,OTC,Stembiomass,-0.07 ,0.50 ,
+Hoshika et al.  2012,Asia,Japan,43.07 ,141.33 ,15,11.5 ,1325 ,"Betula ermanii, Betula maximowicziana, Betula platyphylla",2,18.9 ,12.0 ,375,600,225,OTC,Stembiomass,0.08 ,0.50 ,
+Hoshika et al.  2012,Asia,Japan,43.07 ,141.33 ,15,11.5 ,1325 ,"Betula ermanii, Betula maximowicziana, Betula platyphylla",2,18.9 ,12.0 ,375,600,225,OTC,Stembiomass,0.04 ,0.50 ,
+Huang et al.  2020,Asia,China,34.27 ,108.90 ,403 ,13.6 ,605 ,Robinia pseudoacacia,seedling,4.77,4.0 ,385,500,115,OTC,SOC,0.01 ,0.67 ,
+Huang et al.  2020,Asia,China,34.27 ,108.90 ,403 ,13.6 ,605 ,Robinia pseudoacacia,seedling,4.77,4.0 ,385,700,315,OTC,SOC,0.02 ,0.67 ,
+Huang et al.  2020,Asia,China,34.27 ,108.90 ,403 ,13.6 ,605 ,Robinia pseudoacacia,seedling,4.77,4.0 ,385,500,115,OTC,SOC,0.01 ,0.67 ,
+Huang et al.  2020,Asia,China,34.27 ,108.90 ,403 ,13.6 ,605 ,Robinia pseudoacacia,seedling,4.77,4.0 ,385,700,315,OTC,SOC,-0.03 ,0.67 ,
+Huang et al.  2020,Asia,China,34.27 ,108.90 ,403 ,13.6 ,605 ,Robinia pseudoacacia,seedling,4.77,4.0 ,385,500,115,OTC,SOC,0.02 ,0.67 ,
+Huang et al.  2020,Asia,China,34.27 ,108.90 ,403 ,13.6 ,605 ,Robinia pseudoacacia,seedling,4.77,4.0 ,385,700,315,OTC,SOC,0.03 ,0.67 ,
+Huang et al.  2020,Asia,China,34.27 ,108.90 ,403 ,13.6 ,605 ,Robinia pseudoacacia,seedling,4.77,4.0 ,385,500,115,OTC,DOC,0.18 ,0.67 ,
+Huang et al.  2020,Asia,China,34.27 ,108.90 ,403 ,13.6 ,605 ,Robinia pseudoacacia,seedling,4.77,4.0 ,385,700,315,OTC,DOC,0.30 ,0.67 ,
+Huang et al.  2020,Asia,China,34.27 ,108.90 ,403 ,13.6 ,605 ,Robinia pseudoacacia,seedling,4.77,4.0 ,385,500,115,OTC,DOC,0.22 ,0.67 ,
+Huang et al.  2020,Asia,China,34.27 ,108.90 ,403 ,13.6 ,605 ,Robinia pseudoacacia,seedling,4.77,4.0 ,385,700,315,OTC,DOC,0.19 ,0.67 ,
+Huang et al.  2020,Asia,China,34.27 ,108.90 ,403 ,13.6 ,605 ,Robinia pseudoacacia,seedling,4.77,4.0 ,385,500,115,OTC,DOC,0.41 ,0.67 ,
+Huang et al.  2020,Asia,China,34.27 ,108.90 ,403 ,13.6 ,605 ,Robinia pseudoacacia,seedling,4.77,4.0 ,385,700,315,OTC,DOC,0.44 ,0.67 ,
+Huang et al.  2020,Asia,China,34.27 ,108.90 ,403 ,13.6 ,605 ,Robinia pseudoacacia,seedling,4.77,4.0 ,385,500,115,OTC,MBC,0.07 ,0.67 ,
+Huang et al.  2020,Asia,China,34.27 ,108.90 ,403 ,13.6 ,605 ,Robinia pseudoacacia,seedling,4.77,4.0 ,385,700,315,OTC,MBC,0.08 ,0.67 ,
+Huang et al.  2020,Asia,China,34.27 ,108.90 ,403 ,13.6 ,605 ,Robinia pseudoacacia,seedling,4.77,4.0 ,385,500,115,OTC,MBC,0.15 ,0.67 ,
+Huang et al.  2020,Asia,China,34.27 ,108.90 ,403 ,13.6 ,605 ,Robinia pseudoacacia,seedling,4.77,4.0 ,385,700,315,OTC,MBC,0.17 ,0.67 ,
+Huang et al.  2020,Asia,China,34.27 ,108.90 ,403 ,13.6 ,605 ,Robinia pseudoacacia,seedling,4.77,4.0 ,385,500,115,OTC,MBC,0.20 ,0.67 ,
+Huang et al.  2020,Asia,China,34.27 ,108.90 ,403 ,13.6 ,605 ,Robinia pseudoacacia,seedling,4.77,4.0 ,385,700,315,OTC,MBC,0.23 ,0.67 ,
+Hungate et al. 2004,North America,USA,28.63 ,-80.70 ,4 ,21.9 ,1282 ,Galactia elliottii,1,36.7,12.0 ,350,700,350,OTC,BNF,0.69 ,0.25 ,symbiotic N-fixing
+Hungate et al. 2004,North America,USA,28.63 ,-80.70 ,4 ,21.9 ,1282 ,Galactia elliottii,1,36.7,24.0 ,350,700,350,OTC,BNF,0.18 ,0.25 ,symbiotic N-fixing
+Hungate et al. 2004,North America,USA,28.63 ,-80.70 ,4 ,21.9 ,1282 ,Galactia elliottii,1,36.7,36.0 ,350,700,350,OTC,BNF,0.00 ,0.25 ,symbiotic N-fixing
+Hungate et al. 2004,North America,USA,28.63 ,-80.70 ,4 ,21.9 ,1282 ,Galactia elliottii,1,36.7,48.0 ,350,700,350,OTC,BNF,-0.29 ,0.25 ,symbiotic N-fixing
+Hungate et al. 2004,North America,USA,28.63 ,-80.70 ,4 ,21.9 ,1282 ,Galactia elliottii,1,36.7,60.0 ,350,700,350,OTC,BNF,-0.54 ,0.25 ,symbiotic N-fixing
+Hungate et al. 2004,North America,USA,28.63 ,-80.70 ,4 ,21.9 ,1282 ,Galactia elliottii,1,36.7,72.0 ,350,700,350,OTC,BNF,-0.51 ,0.25 ,symbiotic N-fixing
+Hungate et al. 2004,North America,USA,28.63 ,-80.70 ,4 ,21.9 ,1282 ,Galactia elliottii,1,36.7,84.0 ,350,700,350,OTC,BNF,-0.48 ,0.25 ,symbiotic N-fixing
+Hungate et al. 2013a,North America,USA,28.63 ,-80.70 ,4 ,21.9 ,1282 ,"Quercus myrtifolia, Quercus geminata, Quercus chapmanii",1,36.7,132.0 ,350,700,350,OTC,MBC,0.28 ,0.67 ,
+Hungate et al. 2013a,North America,USA,28.63 ,-80.70 ,4 ,21.9 ,1282 ,"Quercus myrtifolia, Quercus geminata, Quercus chapmanii",1,36.7,132.0 ,350,700,350,OTC,SoilCN,-0.01 ,0.67 ,
+Hungate et al. 2013a,North America,USA,28.63 ,-80.70 ,4 ,21.9 ,1282 ,"Quercus myrtifolia, Quercus geminata, Quercus chapmanii",1,36.7,132.0 ,350,700,350,OTC,MBN,0.18 ,0.67 ,
+Hungate et al. 2013a,North America,USA,28.63 ,-80.70 ,4 ,21.9 ,1282 ,"Quercus myrtifolia, Quercus geminata, Quercus chapmanii",1,36.7,132.0 ,350,700,350,OTC,SOC,-0.09 ,0.67 ,
+Hungate et al. 2013a,North America,USA ,28.63 ,-80.70 ,4 ,21.9 ,1282 ,"Quercus myrtifolia, Quercus geminata, Quercus chapmanii",1,36.7,132.0 ,350,700,350,OTC,Rootbiomass,-0.12 ,0.67 ,
+Hungate et al. 2013b,North America,USA ,28.63 ,-80.70 ,4 ,21.9 ,1282 ,"Quercus myrtifolia, Quercus geminata, Quercus chapmanii",1,36.7,132.0 ,350,700,350,OTC,Rootbiomass,0.08 ,0.25 ,
+Hungate et al. 2014,North America,USA,28.63 ,-80.70 ,4 ,21.9 ,1282 ,"Quercus myrtifolia, Quercus geminata, Quercus chapmanii",1,36.7,132.0 ,350,700,350,OTC,N2O,0.09 ,0.67 ,
+Hungate et al. 2014,North America,USA,28.63 ,-80.70 ,4 ,21.9 ,1282 ,"Quercus myrtifolia, Quercus geminata, Quercus chapmanii",1,36.7,132.0 ,350,700,350,OTC,NOx,-1.02 ,0.67 ,
+Hymus et al. 2003,North America,USA,28.63 ,-80.70 ,4 ,21.9 ,1282 ,"Quercus myrtifolia, Quercus geminata, Quercus chapmanii",1,36.7,24.0 ,350,700,350,OTC,Rs,0.25 ,0.25 ,
+Hymus et al. 2003,North America,USA,28.63 ,-80.70 ,4 ,21.9 ,1282 ,"Quercus myrtifolia, Quercus geminata, Quercus chapmanii",1,36.7,24.0 ,350,700,350,OTC,Rs,0.23 ,0.25 ,
+Iversen et al.  2011,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,144.0 ,400,565,165,FACE,SOC,0.07 ,0.67 ,Oak Ridge FACE
+Iversen et al.  2011,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,144.0 ,400,565,165,FACE,SoilCN,0.03 ,0.67 ,Oak Ridge FACE
+Iversen et al. 2008,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,108.0 ,380,560,180,FACE,Rootbiomass,0.09 ,0.67 ,Oak Ridge FACE
+Iversen et al. 2008,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,108.0 ,380,560,180,FACE,Rootbiomass,0.18 ,0.67 ,Oak Ridge FACE
+Iversen et al. 2008,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,108.0 ,380,560,180,FACE,Rootbiomass,0.69 ,0.67 ,Oak Ridge FACE
+Iversen et al. 2008,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,108.0 ,380,560,180,FACE,Rootbiomass,0.72 ,0.67 ,Oak Ridge FACE
+Iversen et al. 2008,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,108.0 ,380,560,180,FACE,Rootbiomass,1.19 ,0.67 ,Oak Ridge FACE
+Iversen et al. 2008,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,108.0 ,380,560,180,FACE,Rootbiomass,0.75 ,0.67 ,Oak Ridge FACE
+Iversen et al. 2008,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,108.0 ,380,560,180,FACE,Rootbiomass,0.58 ,0.67 ,Oak Ridge FACE
+Iversen et al. 2008,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,108.0 ,380,560,180,FACE,Rootbiomass,1.27 ,0.67 ,Oak Ridge FACE
+Iversen et al. 2008,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,108.0 ,380,560,180,FACE,Rootbiomass,0.91 ,0.67 ,Oak Ridge FACE
+Iversen et al. 2012,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,144.0 ,396,565,169,FACE,Rootbiomass,0.39 ,0.67 ,Oak Ridge FACE
+Iversen et al. 2012,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,144.0 ,396,565,169,FACE,SoilCN,0.14 ,0.67 ,Oak Ridge FACE
+Iversen et al. 2012,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,144.0 ,396,565,169,FACE,MBN,0.21 ,0.67 ,Oak Ridge FACE
+Iversen et al. 2012,North America,USA,38.98 ,-76.93 ,230,13.9 ,1436 ,Liquidambar styraciflua,10,7.4,144.0 ,396,565,169,FACE,SOC,0.13 ,0.67 ,Oak Ridge FACE
+Iverson et al. 2012,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,144.0 ,396,565,169,FACE,Nmin,-0.63 ,0.83 ,Oak Ridge FACE
+Iverson et al. 2012,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,144.0 ,396,565,169,FACE,Nit,0.01 ,0.83 ,Oak Ridge FACE
+Jackson et al. 2009,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,156.0 ,365,565,200,FACE,Rs,0.26 ,0.67 ,Duke FACE
+Jackson et al. 2009,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,156.0 ,365,565,200,FACE,Rs,0.35 ,0.67 ,Duke FACE
+Jackson et al. 2009,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,156.0 ,365,565,200,FACE,Rs,0.26 ,0.50 ,Duke FACE
+Jackson et al. 2009,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,156.0 ,365,565,200,FACE,Rootbiomass,0.25 ,0.67 ,Duke FACE
+Jackson et al. 2009,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,156.0 ,365,565,200,FACE,Rootbiomass,0.37 ,0.67 ,Duke FACE
+Janssens et al. 1998,Europe,Belgium,51.22 ,4.41 ,9,12.0 ,770 ,Pinus sylvestris,3,24.2 ,6.0 ,350,700,350,OTC,Rs,0.24 ,1.00 ,
+Janssens et al. 2005,Europe,Belgium,51.22 ,4.41 ,9,12.0 ,770 ,Pinus sylvestris,3,24.2 ,48.0 ,400,800,400,OTC,Rootbiomass,1.02 ,0.18 ,
+Janssens et al. 2005,Europe,Belgium,51.22 ,4.41 ,9,12.0 ,770 ,Pinus sylvestris,3,24.2 ,48.0 ,400,800,400,OTC,Rootbiomass,0.94 ,0.40 ,
+Janssens et al. 2005,Europe,Belgium,51.22 ,4.41 ,9,12.0 ,770 ,Pinus sylvestris,3,24.2 ,48.0 ,400,800,400,OTC,Rootbiomass,0.65 ,0.40 ,
+Jiang et al. 2020,Oceania,Australia,-33.62 ,150.73 ,23,17.5 ,800 ,Eucalyptus tereticornis,10,14,60.0 ,390,540,150,FACE,NPP,0.10 ,0.67 ,EucFACE
+Jiang et al. 2020,Oceania,Australia,-33.62 ,150.73 ,23,17.5 ,800 ,Eucalyptus tereticornis,10,14,60.0 ,390,540,150,FACE,Rs,0.11 ,0.33 ,EucFACE
+Jiang et al. 2020,Oceania,Australia,-33.62 ,150.73 ,23,17.5 ,800 ,Eucalyptus tereticornis,10,14,60.0 ,390,540,150,FACE,DOC,0.06 ,0.67 ,EucFACE
+Jiang et al. 2020,Oceania,Australia,-33.62 ,150.73 ,23,17.5 ,800 ,Eucalyptus tereticornis,10,14,60.0 ,390,540,150,FACE,BNPP,0.13 ,0.67 ,EucFACE
+Jiang et al. 2020,Oceania,Australia,-33.62 ,150.73 ,23,17.5 ,800 ,Eucalyptus tereticornis,10,14,60.0 ,390,540,150,FACE,ANPP,0.09 ,0.67 ,EucFACE
+Jiang et al. 2020,Oceania,Australia,-33.62 ,150.73 ,23,17.5 ,800 ,Eucalyptus tereticornis,10,14,60.0 ,390,540,150,FACE,ANPP,0.09 ,0.67 ,EucFACE
+Johnson et al. 1997,North America,USA,38.72 ,-120.78 ,840,14.5 ,1127 ,Pinus ponderosa,seedling,26.25,36.0 ,350,525,175,OTC,SOC,0.08 ,0.67 ,
+Johnson et al. 1997,North America,USA,38.72 ,-120.78 ,840,14.5 ,1127 ,Pinus ponderosa,seedling,26.25,36.0 ,350,700,350,OTC,SOC,-0.07 ,0.67 ,
+Johnson et al. 1997,North America,USA,38.72 ,-120.78 ,840,14.5 ,1127 ,Pinus ponderosa,seedling,26.25,36.0 ,350,700,350,OTC,SOC,-0.03 ,0.67 ,
+Johnson et al. 1997,North America,USA,38.72 ,-120.78 ,840,14.5 ,1127 ,Pinus ponderosa,seedling,26.25,36.0 ,350,525,175,OTC,SOC,0.13 ,0.67 ,
+Johnson et al. 1997,North America,USA,38.72 ,-120.78 ,840,14.5 ,1127 ,Pinus ponderosa,seedling,26.25,36.0 ,350,700,350,OTC,SOC,0.14 ,0.67 ,
+Johnson et al. 1997,North America,USA,38.72 ,-120.78 ,840,14.5 ,1127 ,Pinus ponderosa,seedling,26.25,36.0 ,350,525,175,OTC,TIN,-0.34 ,0.67 ,
+Johnson et al. 1997,North America,USA,38.72 ,-120.78 ,840,14.5 ,1127 ,Pinus ponderosa,seedling,26.25,36.0 ,350,700,350,OTC,TIN,0.12 ,0.67 ,
+Johnson et al. 1997,North America,USA,38.72 ,-120.78 ,840,14.5 ,1127 ,Pinus ponderosa,seedling,26.25,36.0 ,350,700,350,OTC,TIN,0.22 ,0.67 ,
+Johnson et al. 1997,North America,USA,38.72 ,-120.78 ,840,14.5 ,1127 ,Pinus ponderosa,seedling,26.25,36.0 ,350,525,175,OTC,TIN,0.02 ,0.67 ,
+Johnson et al. 1997,North America,USA,38.72 ,-120.78 ,840,14.5 ,1127 ,Pinus ponderosa,seedling,26.25,36.0 ,350,700,350,OTC,TIN,-0.14 ,0.67 ,
+Johnson et al. 1997,North America,USA,38.72 ,-120.78 ,840,14.5 ,1127 ,Pinus ponderosa,seedling,26.25,36.0 ,350,525,175,OTC,SoilCN,0.06 ,0.67 ,
+Johnson et al. 1997,North America,USA,38.72 ,-120.78 ,840,14.5 ,1127 ,Pinus ponderosa,seedling,26.25,36.0 ,350,700,350,OTC,SoilCN,0.05 ,0.67 ,
+Johnson et al. 1997,North America,USA,38.72 ,-120.78 ,840,14.5 ,1127 ,Pinus ponderosa,seedling,26.25,36.0 ,350,700,350,OTC,SoilCN,0.13 ,0.67 ,
+Johnson et al. 1997,North America,USA,38.72 ,-120.78 ,840,14.5 ,1127 ,Pinus ponderosa,seedling,26.25,36.0 ,350,525,175,OTC,SoilCN,-0.12 ,0.67 ,
+Johnson et al. 1997,North America,USA,38.72 ,-120.78 ,840,14.5 ,1127 ,Pinus ponderosa,seedling,26.25,36.0 ,350,700,350,OTC,SoilCN,-0.03 ,0.67 ,
+Johnson et al. 2000,North America,USA,38.72 ,-120.78 ,840,14.5 ,1127 ,Pinus ponderosa,seedling,26.25,36.0 ,350,525,175,OTC,NO3-,-1.02 ,0.67 ,
+Johnson et al. 2000,North America,USA,38.72 ,-120.78 ,840,14.5 ,1127 ,Pinus ponderosa,seedling,26.25,36.0 ,350,525,175,OTC,NO3-,-0.68 ,0.67 ,
+Johnson et al. 2000,North America,USA,38.72 ,-120.78 ,840,14.5 ,1127 ,Pinus ponderosa,seedling,26.25,36.0 ,350,525,175,OTC,NO3-,-2.16 ,0.67 ,
+Johnson et al. 2000,North America,USA,38.72 ,-120.78 ,840,14.5 ,1127 ,Pinus ponderosa,seedling,26.25,36.0 ,350,525,175,OTC,NO3-,2.12 ,0.67 ,
+Johnson et al. 2000,North America,USA,38.72 ,-120.78 ,840,14.5 ,1127 ,Pinus ponderosa,seedling,26.25,72.0 ,350,525,175,OTC,SOC,0.02 ,0.67 ,
+Johnson et al. 2000,North America,USA,38.72 ,-120.78 ,840,14.5 ,1127 ,Pinus ponderosa,seedling,26.25,72.0 ,350,700,350,OTC,SOC,0.09 ,0.67 ,
+Johnson et al. 2000,North America,USA,38.72 ,-120.78 ,840,14.5 ,1127 ,Pinus ponderosa,seedling,26.25,72.0 ,350,700,350,OTC,SOC,0.16 ,0.67 ,
+Johnson et al. 2000,North America,USA,38.72 ,-120.78 ,840,14.5 ,1127 ,Pinus ponderosa,seedling,26.25,72.0 ,350,525,175,OTC,SOC,0.22 ,0.67 ,
+Johnson et al. 2000,North America,USA,38.72 ,-120.78 ,840,14.5 ,1127 ,Pinus ponderosa,seedling,26.25,72.0 ,350,700,350,OTC,SOC,0.08 ,0.67 ,
+Johnson et al. 2000,North America,USA,38.72 ,-120.78 ,840,14.5 ,1127 ,Pinus ponderosa,seedling,26.25,72.0 ,350,525,175,OTC,SoilCN,0.09 ,0.67 ,
+Johnson et al. 2000,North America,USA,38.72 ,-120.78 ,840,14.5 ,1127 ,Pinus ponderosa,seedling,26.25,72.0 ,350,700,350,OTC,SoilCN,0.18 ,0.67 ,
+Johnson et al. 2000,North America,USA,38.72 ,-120.78 ,840,14.5 ,1127 ,Pinus ponderosa,seedling,26.25,72.0 ,350,700,350,OTC,SoilCN,0.31 ,0.67 ,
+Johnson et al. 2000,North America,USA,38.72 ,-120.78 ,840,14.5 ,1127 ,Pinus ponderosa,seedling,26.25,72.0 ,350,525,175,OTC,SoilCN,0.17 ,0.67 ,
+Johnson et al. 2000,North America,USA,38.72 ,-120.78 ,840,14.5 ,1127 ,Pinus ponderosa,seedling,26.25,72.0 ,350,700,350,OTC,SoilCN,0.05 ,0.67 ,
+Johnson et al. 2001,North America,USA,28.63 ,-80.70 ,4 ,21.9 ,1282 ,"Quercus myrtifolia, Quercus geminata, Quercus chapmanii",1,36.7,48.0 ,350,700,350,OTC,NO3-,-0.16 ,0.25 ,
+Johnson et al. 2001,North America,USA,28.63 ,-80.70 ,4 ,21.9 ,1282 ,"Quercus myrtifolia, Quercus geminata, Quercus chapmanii",1,36.7,48.0 ,350,700,350,OTC,NO3-,-0.38 ,0.25 ,
+Johnson et al. 2001,North America,USA,28.63 ,-80.70 ,4 ,21.9 ,1282 ,"Quercus myrtifolia, Quercus geminata, Quercus chapmanii",1,36.7,48.0 ,350,700,350,OTC,NO3-,0.02 ,0.25 ,
+Johnson et al. 2003,North America,USA,28.63 ,-80.70 ,4 ,21.9 ,1282 ,"Quercus myrtifolia, Quercus geminata, Quercus chapmanii",1,36.7,60.0 ,350,700,350,OTC,SoilNH4+,-0.24 ,0.25 ,
+Johnson et al. 2003,North America,USA,28.63 ,-80.70 ,4 ,21.9 ,1282 ,"Quercus myrtifolia, Quercus geminata, Quercus chapmanii",1,36.7,60.0 ,350,700,350,OTC,SoilNO3-,-0.96 ,0.25 ,
+Johnson et al. 2003,North America,USA,28.63 ,-80.70 ,4 ,21.9 ,1282 ,"Quercus myrtifolia, Quercus geminata, Quercus chapmanii",1,36.7,60.0 ,350,700,350,OTC,TIN,-0.64 ,0.25 ,
+Johnson et al. 2004,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,24.0 ,385,542,157,FACE,NO3-,-0.22 ,1.00 ,Oak Ridge FACE
+Johnson et al. 2004,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,24.0 ,385,542,157,FACE,NO3-,-0.29 ,1.00 ,Oak Ridge FACE
+Johnson et al. 2004,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,24.0 ,385,542,157,FACE,NO3-,-0.92 ,1.00 ,Oak Ridge FACE
+Johnson et al. 2004,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,15.0 ,350,542,192,FACE,Nmin,-0.12 ,0.83 ,Oak Ridge FACE
+Johnson et al. 2004,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,144.0 ,375,550,175,FACE,TIN,0.06 ,0.83 ,Oak Ridge FACE
+Kaakinen et al.  2004,North America,USA,45.70 ,-89.50 ,490,4.9 ,810 ,"Populus tremuloides, Betula papyrifera, Acer saccharum",9,12.9,36.0 ,360,560,200,FACE,Stem[N],0.03 ,0.67 ,"FACTS-II, Aspen FACE"
+Kaakinen et al.  2004,North America,USA,45.70 ,-89.50 ,490,4.9 ,810 ,"Populus tremuloides, Betula papyrifera, Acer saccharum",9,12.9,36.0 ,360,560,200,FACE,Stem[N],-0.08 ,0.67 ,"FACTS-II, Aspen FACE"
+Kaakinen et al.  2004,North America,USA,45.70 ,-89.50 ,490,4.9 ,810 ,"Populus tremuloides, Betula papyrifera, Acer saccharum",9,12.9,36.0 ,360,560,200,FACE,Stem[N],-0.13 ,0.67 ,"FACTS-II, Aspen FACE"
+Kaakinen et al.  2004,North America,USA,45.70 ,-89.50 ,490,4.9 ,810 ,"Populus tremuloides, Betula papyrifera, Acer saccharum",9,12.9,36.0 ,360,560,200,FACE,Stem[N],0.20 ,0.67 ,"FACTS-II, Aspen FACE"
+Kaakinen et al.  2004,North America,USA,45.70 ,-89.50 ,490,4.9 ,810 ,"Populus tremuloides, Betula papyrifera, Acer saccharum",9,12.9,36.0 ,360,560,200,FACE,Stem[N],-0.07 ,0.67 ,"FACTS-II, Aspen FACE"
+Kaakinen et al.  2004,North America,USA,45.70 ,-89.50 ,490,4.9 ,810 ,"Populus tremuloides, Betula papyrifera, Acer saccharum",9,12.9,36.0 ,360,560,200,FACE,Stem[N],0.00 ,0.67 ,"FACTS-II, Aspen FACE"
+Kaakinen et al.  2004,North America,USA,45.70 ,-89.50 ,490,4.9 ,810 ,"Populus tremuloides, Betula papyrifera, Acer saccharum",9,12.9,36.0 ,360,560,200,FACE,Stem[C],0.00 ,0.67 ,"FACTS-II, Aspen FACE"
+Kaakinen et al.  2004,North America,USA,45.70 ,-89.50 ,490,4.9 ,810 ,"Populus tremuloides, Betula papyrifera, Acer saccharum",9,12.9,36.0 ,360,560,200,FACE,Stem[C],0.00 ,0.67 ,"FACTS-II, Aspen FACE"
+Kaakinen et al.  2004,North America,USA,45.70 ,-89.50 ,490,4.9 ,810 ,"Populus tremuloides, Betula papyrifera, Acer saccharum",9,12.9,36.0 ,360,560,200,FACE,Stem[C],0.00 ,0.67 ,"FACTS-II, Aspen FACE"
+Kaakinen et al.  2004,North America,USA,45.70 ,-89.50 ,490,4.9 ,810 ,"Populus tremuloides, Betula papyrifera, Acer saccharum",9,12.9,36.0 ,360,560,200,FACE,Stem[C],-0.01 ,0.67 ,"FACTS-II, Aspen FACE"
+Kaakinen et al.  2004,North America,USA,45.70 ,-89.50 ,490,4.9 ,810 ,"Populus tremuloides, Betula papyrifera, Acer saccharum",9,12.9,36.0 ,360,560,200,FACE,Stem[C],0.00 ,0.67 ,"FACTS-II, Aspen FACE"
+Kaakinen et al.  2004,North America,USA,45.70 ,-89.50 ,490,4.9 ,810 ,"Populus tremuloides, Betula papyrifera, Acer saccharum",9,12.9,36.0 ,360,560,200,FACE,Stem[C],0.00 ,0.67 ,"FACTS-II, Aspen FACE"
+Kasurinen et al.  2006,Europe,Finland,62.65 ,27.05 ,120,2.9 ,625 ,Betula pendula,25-30,36.1 ,36.0 ,360,720,360,OTC,Leaf[N],-0.11 ,0.50 ,
+Kasurinen et al.  2006,Europe,Finland,62.65 ,27.05 ,120,2.9 ,625 ,Betula pendula,25-30,36.1 ,36.0 ,360,720,360,OTC,Leaf[N],-0.19 ,0.50 ,
+Kasurinen et al. 2004,Europe,Finland,62.65 ,27.05 ,120,2.9 ,625 ,Betula pendula,25-30,36.1 ,36.0 ,370,700,330,OTC,Rs,-0.11 ,0.50 ,
+Kasurinen et al. 2004,Europe,Finland,62.65 ,27.05 ,120,2.9 ,625 ,Betula pendula,25-30,36.1 ,36.0 ,370,700,330,OTC,Rs,-0.15 ,0.50 ,
+Kasurinen et al. 2004,Europe,Finland,62.65 ,27.05 ,120,2.9 ,625 ,Betula pendula,25-30,36.1 ,36.0 ,370,700,330,OTC,Rs,-0.26 ,0.50 ,
+Kasurinen et al. 2004,Europe,Finland,62.65 ,27.05 ,120,2.9 ,625 ,Betula pendula,25-30,36.1 ,36.0 ,370,700,330,OTC,Rs,0.18 ,0.50 ,
+Kasurinen et al. 2004,Europe,Finland,62.65 ,27.05 ,120,2.9 ,625 ,Betula pendula,25-30,36.1 ,36.0 ,370,700,330,OTC,Rs,0.20 ,0.50 ,
+Kasurinen et al. 2004,Europe,Finland,62.65 ,27.05 ,120,2.9 ,625 ,Betula pendula,25-30,36.1 ,36.0 ,370,700,330,OTC,Rs,0.54 ,0.50 ,
+Kellomaki et al.  1997,Europe,Finland,62.78 ,30.97 ,145,2.1 ,667 ,Pinus  sylvestris,seedling,16.6 ,24.0 ,360,645,285,OTC,Leaf[N],-0.04 ,0.50 ,
+King et al.  2005,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,Populus tremuloides,9,12.9,84.0 ,360,560,200,FACE,Rootbiomass,0.27 ,0.67 ,"FACTS-II, Aspen FACE"
+King et al.  2005,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,"Betula papyrifera, Populus tremuloides",9,12.9,84.0 ,360,560,200,FACE,Rootbiomass,0.41 ,0.67 ,"FACTS-II, Aspen FACE"
+King et al.  2005,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,"Acer saccharum, Populus tremuloides",9,12.9,84.0 ,360,560,200,FACE,Rootbiomass,0.49 ,0.67 ,"FACTS-II, Aspen FACE"
+King et al.  2005,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,Populus tremuloides,9,12.9,84.0 ,360,560,200,FACE,Leafbiomass,0.33 ,0.67 ,"FACTS-II, Aspen FACE"
+King et al.  2005,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,"Betula papyrifera, Populus tremuloides",9,12.9,84.0 ,360,560,200,FACE,Leafbiomass,0.51 ,0.67 ,"FACTS-II, Aspen FACE"
+King et al.  2005,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,"Acer saccharum, Populus tremuloides",9,12.9,84.0 ,360,560,200,FACE,Leafbiomass,0.45 ,0.67 ,"FACTS-II, Aspen FACE"
+King et al.  2005,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,Populus tremuloides,9,12.9,84.0 ,360,560,200,FACE,Stembiomass,0.33 ,0.67 ,"FACTS-II, Aspen FACE"
+King et al.  2005,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,"Betula papyrifera, Populus tremuloides",9,12.9,84.0 ,360,560,200,FACE,Stembiomass,0.53 ,0.67 ,"FACTS-II, Aspen FACE"
+King et al.  2005,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,"Acer saccharum, Populus tremuloides",9,12.9,84.0 ,360,560,200,FACE,Stembiomass,0.48 ,0.67 ,"FACTS-II, Aspen FACE"
+King et al. 2001,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,Populus tremuloides,9,12.9,24.0 ,347,548,201,FACE,Rootbiomass,0.74 ,0.67 ,"FACTS-II, Aspen FACE"
+King et al. 2001,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,"Betula papyrifera, Populus tremuloides",9,12.9,24.0 ,347,548,201,FACE,Rootbiomass,0.63 ,0.67 ,"FACTS-II, Aspen FACE"
+King et al. 2001,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,Populus tremuloides,9,12.9,24.0 ,347,548,201,FACE,Rootbiomass,0.45 ,0.67 ,"FACTS-II, Aspen FACE"
+King et al. 2001,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,"Betula papyrifera, Populus tremuloides",9,12.9,24.0 ,347,548,201,FACE,Rootbiomass,0.52 ,0.67 ,"FACTS-II, Aspen FACE"
+King et al. 2001,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,Populus tremuloides,9,12.9,24.0 ,347,548,201,FACE,Rootbiomass,0.89 ,0.67 ,"FACTS-II, Aspen FACE"
+King et al. 2001,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,"Betula papyrifera, Populus tremuloides",9,12.9,24.0 ,347,548,201,FACE,Rootbiomass,0.72 ,0.67 ,"FACTS-II, Aspen FACE"
+King et al. 2001,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,Populus tremuloides,9,12.9,24.0 ,347,548,201,FACE,DOC,0.01 ,0.67 ,"FACTS-II, Aspen FACE"
+King et al. 2001,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,"Betula papyrifera, Populus tremuloides",9,12.9,24.0 ,347,548,201,FACE,DOC,-0.07 ,0.67 ,"FACTS-II, Aspen FACE"
+King et al. 2001,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,Populus tremuloides,9,12.9,24.0 ,347,523,176,FACE,Rs,0.06 ,0.67 ,"FACTS-II, Aspen FACE"
+King et al. 2001,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,"Betula papyrifera, Populus tremuloides",9,12.9,24.0 ,347,523,176,FACE,Rs,0.47 ,0.67 ,"FACTS-II, Aspen FACE"
+King et al. 2001,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,Populus tremuloides,9,12.9,24.0 ,347,548,201,FACE,Rs,0.32 ,0.67 ,"FACTS-II, Aspen FACE"
+King et al. 2001,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,"Betula papyrifera, Populus tremuloides",9,12.9,24.0 ,347,548,201,FACE,Rs,0.36 ,0.67 ,"FACTS-II, Aspen FACE"
+Korner & Arnone III 1992,Europe,Costa Rica,9.61 ,-83.82 ,283 ,20.0 ,2614 ,"Elettaria cardamomum, Ficus benjamina, E pumila, Epipremnum pinnatum, Ctenanthe lubbersiana, Heliconia humilis, Cecropia peltata",seedling,,3.0 ,340,610,270,Greenhouse,NO3-,0.62 ,1.00 ,"Sampling in Costa Rica, cultivation in Switzerland"
+Korner & Arnone III 1992,Europe,Costa Rica,9.61 ,-83.82 ,283 ,20.0 ,2614 ,"Elettaria cardamomum, Ficus benjamina, E pumila, Epipremnum pinnatum, Ctenanthe lubbersiana, Heliconia humilis, Cecropia peltata",seedling,,3.0 ,340,610,270,Greenhouse,Rs,0.64 ,1.00 ,"Sampling in Costa Rica, cultivation in Switzerland"
+Korner & Arnone III 1992,Europe,Costa Rica,9.61 ,-83.82 ,283 ,20.0 ,2614 ,"Elettaria cardamomum, Ficus benjamina, E pumila, Epipremnum pinnatum, Ctenanthe lubbersiana, Heliconia humilis, Cecropia peltata",seedling,,3.0 ,340,610,270,Greenhouse,Stem[N],-0.03 ,1.00 ,"Sampling in Costa Rica, cultivation in Switzerland"
+Korner & Arnone III 1992,Europe,Costa Rica,9.61 ,-83.82 ,283 ,20.0 ,2614 ,"Elettaria cardamomum, Ficus benjamina, E pumila, Epipremnum pinnatum, Ctenanthe lubbersiana, Heliconia humilis, Cecropia peltata",seedling,,3.0 ,340,610,270,Greenhouse,Root[N],0.29 ,1.00 ,"Sampling in Costa Rica, cultivation in Switzerland"
+Kostiainen et al.  2004,Europe,Sweden,64.12 ,19.28 ,310,10.3 ,455 ,Picea abies,28,60.7 ,36.0 ,360,720,360,Whole-tree Chamber (WTC),Stem[N],-0.13 ,0.50 ,
+Kostiainen et al.  2004,Europe,Sweden,64.12 ,19.28 ,310,10.3 ,455 ,Picea abies,28,60.7 ,36.0 ,360,720,360,Whole-tree Chamber (WTC),Stem[N],0.12 ,0.50 ,
+Kostiainen et al.  2004,Europe,Sweden,64.12 ,19.28 ,310,10.3 ,455 ,Picea abies,28,60.7 ,36.0 ,360,720,360,Whole-tree Chamber (WTC),StemCN,0.19 ,0.50 ,
+Kostiainen et al.  2004,Europe,Sweden,64.12 ,19.28 ,310,10.3 ,455 ,Picea abies,28,60.7 ,36.0 ,360,720,360,Whole-tree Chamber (WTC),StemCN,-0.11 ,0.50 ,
+Kostiainen et al.  2004,Europe,Sweden,64.12 ,19.28 ,310,10.3 ,455 ,Picea abies,28,60.7 ,36.0 ,360,720,360,Whole-tree Chamber (WTC),Stem[C],0.05 ,0.50 ,
+Kostiainen et al.  2004,Europe,Sweden,64.12 ,19.28 ,310,10.3 ,455 ,Picea abies,28,60.7 ,36.0 ,360,720,360,Whole-tree Chamber (WTC),Stem[C],0.00 ,0.50 ,
+Kostiainen et al.  2006,Europe,Finland,62.65 ,27.05 ,120,2.9 ,625 ,Betula pendula,25-30,36.1 ,36.0 ,360,560,200,OTC,Stem[N],-0.01 ,0.50 ,
+Kostiainen et al.  2006,Europe,Finland,62.65 ,27.05 ,120,2.9 ,625 ,Betula pendula,25-30,36.1 ,36.0 ,360,560,200,OTC,Stem[N],0.02 ,0.50 ,
+Kostiainen et al.  2006,Europe,Finland,62.65 ,27.05 ,120,2.9 ,625 ,Betula pendula,25-30,36.1 ,36.0 ,360,560,200,OTC,Stem[C],0.00 ,0.50 ,
+Kostiainen et al.  2006,Europe,Finland,62.65 ,27.05 ,120,2.9 ,625 ,Betula pendula,25-30,36.1 ,36.0 ,360,560,200,OTC,Stem[C],-0.01 ,0.50 ,
+Kozovits et al.  2005,Europe,Germany,48.15 ,11.57 ,520 ,9.4 ,946 ,Fagus sylvatica,2-3,17.5 ,24.0 ,360,700,340,Greenhouse,Stembiomass,-0.03 ,1.00 ,
+Kozovits et al.  2005,Europe,Germany,48.15 ,11.57 ,520 ,9.4 ,946 ,Picea abies,2-3,17.5 ,24.0 ,360,700,340,Greenhouse,Stembiomass,0.13 ,1.00 ,
+Kozovits et al.  2005,Europe,Germany,48.15 ,11.57 ,520 ,9.4 ,946 ,"Fagus sylvatica, Picea abies",2-3,17.5 ,24.0 ,360,700,340,Greenhouse,Stembiomass,-0.39 ,1.00 ,
+Lagomarsino et al.  2006,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,"Populus alba, Populus x euramericana, Populus nigra",seedling,8.46,72.0 ,370,550,180,FACE,DOC,0.25 ,0.67 ,POP-EUROFACE
+Lagomarsino et al.  2006,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,"Populus alba, Populus x euramericana, Populus nigra",seedling,8.46,72.0 ,370,550,180,FACE,MBC,0.15 ,0.67 ,POP-EUROFACE
+Lagomarsino et al.  2006,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,"Populus alba, Populus x euramericana, Populus nigra",seedling,8.46,72.0 ,370,550,180,FACE,SoilCN,0.38 ,0.67 ,POP-EUROFACE
+Lagomarsino et al.  2009,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,"Populus alba, Populus x euramericana, Populus nigra",seedling,8.46,72.0 ,370,550,180,FACE,DOC,0.36 ,0.67 ,POP-EUROFACE
+Lagomarsino et al.  2009,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,"Populus alba, Populus x euramericana, Populus nigra",seedling,8.46,72.0 ,370,550,180,FACE,DOC,1.02 ,0.67 ,POP-EUROFACE
+Lagomarsino et al.  2009,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,"Populus alba, Populus x euramericana, Populus nigra",seedling,8.46,72.0 ,370,550,180,FACE,MBC,-0.09 ,0.67 ,POP-EUROFACE
+Lagomarsino et al.  2009,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,"Populus alba, Populus x euramericana, Populus nigra",seedling,8.46,72.0 ,370,550,180,FACE,MBC,0.09 ,0.67 ,POP-EUROFACE
+Lagomarsino et al.  2009,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,"Populus alba, Populus x euramericana, Populus nigra",seedling,8.46,72.0 ,370,550,180,FACE,MBN,0.02 ,0.67 ,POP-EUROFACE
+Lagomarsino et al.  2009,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,"Populus alba, Populus x euramericana, Populus nigra",seedling,8.46,72.0 ,370,550,180,FACE,MBN,0.22 ,0.67 ,POP-EUROFACE
+Lagomarsino et al. 2013,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,"Populus alba, Populus x euramericana, Populus nigra",seedling,8.46,36.0 ,370,550,180,FACE,Rs,0.41 ,0.67 ,POP-EUROFACE
+Lagomarsino et al. 2013,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,"Populus alba, Populus x euramericana, Populus nigra",seedling,8.46,36.0 ,370,550,180,FACE,Rs,0.43 ,0.67 ,POP-EUROFACE
+Lagomarsino et al. 2013,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,"Populus alba, Populus x euramericana, Populus nigra",seedling,8.46,36.0 ,370,550,180,FACE,Rs,0.63 ,0.67 ,POP-EUROFACE
+Lagomarsino et al. 2013,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,"Populus alba, Populus x euramericana, Populus nigra",seedling,8.46,36.0 ,370,550,180,FACE,Rs,0.66 ,0.67 ,POP-EUROFACE
+Lagomarsino et al. 2013,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,"Populus alba, Populus x euramericana, Populus nigra",seedling,8.46,72.0 ,370,550,180,FACE,Rootbiomass,0.39 ,0.67 ,POP-EUROFACE
+Lagomarsino et al. 2013,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,"Populus alba, Populus x euramericana, Populus nigra",seedling,8.46,72.0 ,370,550,180,FACE,Rootbiomass,0.72 ,0.67 ,POP-EUROFACE
+Lagomarsino et al. 2013,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,"Populus alba, Populus x euramericana, Populus nigra",seedling,8.46,72.0 ,370,550,180,FACE,Rootbiomass,0.21 ,0.67 ,POP-EUROFACE
+Lagomarsino et al. 2013,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,"Populus alba, Populus x euramericana, Populus nigra",seedling,8.46,72.0 ,370,550,180,FACE,Rootbiomass,0.26 ,0.67 ,POP-EUROFACE
+Laitinen et al.  2000,Europe,Finland,62.78 ,30.97 ,145,2.1 ,667 ,Pinus  sylvestris,seedling,19.5 ,24.0 ,360,680,320,Branch Bags,Leafbiomass,0.35 ,0.67 ,
+Laitinen et al.  2000,Europe,Finland,62.78 ,30.97 ,145,2.1 ,667 ,Pinus  sylvestris,seedling,19.5 ,24.0 ,360,680,320,Branch Bags,Leafbiomass,0.13 ,0.67 ,
+Laitinen et al.  2000,Europe,Finland,62.78 ,30.97 ,145,2.1 ,667 ,Pinus  sylvestris,seedling,19.5 ,24.0 ,360,680,320,Branch Bags,Leafbiomass,0.09 ,0.67 ,
+Laitinen et al.  2000,Europe,Finland,62.78 ,30.97 ,145,2.1 ,667 ,Pinus  sylvestris,seedling,19.5 ,24.0 ,360,680,320,Branch Bags,Leafbiomass,0.02 ,0.67 ,
+Laitinen et al.  2000,Europe,Finland,62.78 ,30.97 ,145,2.1 ,667 ,Pinus  sylvestris,seedling,19.5 ,24.0 ,360,680,320,Branch Bags,LeafCN,0.12 ,0.67 ,
+Laitinen et al.  2000,Europe,Finland,62.78 ,30.97 ,145,2.1 ,667 ,Pinus  sylvestris,seedling,19.5 ,24.0 ,360,680,320,Branch Bags,LeafCN,0.04 ,0.67 ,
+Laitinen et al.  2000,Europe,Finland,62.78 ,30.97 ,145,2.1 ,667 ,Pinus  sylvestris,seedling,19.5 ,24.0 ,360,680,320,Branch Bags,LeafCN,0.14 ,0.67 ,
+Laitinen et al.  2000,Europe,Finland,62.78 ,30.97 ,145,2.1 ,667 ,Pinus  sylvestris,seedling,19.5 ,24.0 ,360,680,320,Branch Bags,LeafCN,0.09 ,0.67 ,
+Laitinen et al.  2000,Europe,Finland,62.78 ,30.97 ,145,2.1 ,667 ,Pinus  sylvestris,seedling,19.5 ,24.0 ,360,680,320,Branch Bags,Leaf[N],-0.28 ,0.67 ,
+Laitinen et al.  2000,Europe,Finland,62.78 ,30.97 ,145,2.1 ,667 ,Pinus  sylvestris,seedling,19.5 ,24.0 ,360,680,320,Branch Bags,Leaf[N],-0.22 ,0.67 ,
+Laitinen et al.  2000,Europe,Finland,62.78 ,30.97 ,145,2.1 ,667 ,Pinus  sylvestris,seedling,19.5 ,24.0 ,360,680,320,Branch Bags,Leaf[N],0.04 ,0.67 ,
+Laitinen et al.  2000,Europe,Finland,62.78 ,30.97 ,145,2.1 ,667 ,Pinus  sylvestris,seedling,19.5 ,24.0 ,360,680,320,Branch Bags,Leaf[N],-0.08 ,0.67 ,
+Laitinen et al.  2000,Europe,Finland,62.78 ,30.97 ,145,2.1 ,667 ,Pinus  sylvestris,seedling,19.5 ,24.0 ,360,680,320,Branch bags,Leaf[C],-0.16 ,0.67 ,
+Laitinen et al.  2000,Europe,Finland,62.78 ,30.97 ,145,2.1 ,667 ,Pinus  sylvestris,seedling,19.5 ,24.0 ,360,680,320,Branch bags,Leaf[C],-0.18 ,0.67 ,
+Laitinen et al.  2000,Europe,Finland,62.78 ,30.97 ,145,2.1 ,667 ,Pinus  sylvestris,seedling,19.5 ,24.0 ,360,680,320,Branch bags,Leaf[C],0.18 ,0.67 ,
+Laitinen et al.  2000,Europe,Finland,62.78 ,30.97 ,145,2.1 ,667 ,Pinus  sylvestris,seedling,19.5 ,24.0 ,360,680,320,Branch bags,Leaf[C],0.01 ,0.67 ,
+Langley et al.  2009,North America,USA,28.63 ,-80.70 ,4 ,21.9 ,1282 ,"Quercus myrtifolia, Quercus geminata, Quercus chapmanii",1,36.7,132.0 ,350,700,350,OTC,SoilCN,-0.03 ,0.25 ,
+Langley et al. 2009,North America,USA,28.63 ,-80.70 ,4 ,21.9 ,1282 ,"Quercus myrtifolia, Quercus geminata, Quercus chapmanii",1,36.7,84.0 ,350,700,350,OTC,Nmin,0.77 ,0.25 ,
+Langley et al.2003,North America,USA,28.63 ,-80.70 ,1,21.7 ,1329 ,"Quercus myrtifolia, Quercus geminata, Quercus chapmanii",1,36.7,48.0 ,350,700,350,OTC,NFRP,0.87 ,0.29 ,
+Larson et al.  2002,North America,USA,45.60 ,-89.50 ,490,4.5 ,784 ,"Betula papyrifera, Populus tremuloides",9,12.9,28.0 ,360,523,163,FACE,SOC,0.09 ,0.67 ,"FACTS-II, Aspen FACE"
+Larson et al.  2002,North America,USA,45.60 ,-89.50 ,490,4.5 ,784 ,"Betula papyrifera, Populus tremuloides",9,12.9,28.0 ,360,523,163,FACE,MBC,0.09 ,0.67 ,"FACTS-II, Aspen FACE"
+Liberloo et al. 2004,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,Populus alba,seedling,8.46,48.0 ,368,550,182,FACE,ANPP,-0.03 ,0.67 ,POP-EUROFACE
+Liberloo et al. 2004,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,Populus x euramericana,seedling,8.46,48.0 ,368,550,182,FACE,ANPP,-0.02 ,0.67 ,POP-EUROFACE
+Liberloo et al. 2004,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,Populus nigra,seedling,8.46,48.0 ,368,550,182,FACE,ANPP,0.16 ,0.67 ,POP-EUROFACE
+Liberloo et al. 2005,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,Populus alba,seedling,8.46,48.0 ,376,556,180,FACE,ANPP,0.12 ,0.67 ,POP-EUROFACE
+Liberloo et al. 2005,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,Populus x euramericana,seedling,8.46,48.0 ,376,556,180,FACE,ANPP,0.04 ,0.67 ,POP-EUROFACE
+Liberloo et al. 2005,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,Populus nigra,seedling,8.46,48.0 ,376,556,180,FACE,ANPP,0.06 ,0.67 ,POP-EUROFACE
+Liberloo et al. 2005,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,Populus alba,seedling,8.46,48.0 ,368,550,182,FACE,ANPP,-0.02 ,0.67 ,POP-EUROFACE
+Liberloo et al. 2005,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,Populus alba,seedling,8.46,60.0 ,368,550,182,FACE,ANPP,0.01 ,0.67 ,POP-EUROFACE
+Liberloo et al. 2005,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,Populus alba,seedling,8.46,48.0 ,368,550,182,FACE,ANPP,-0.04 ,0.67 ,POP-EUROFACE
+Liberloo et al. 2005,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,Populus alba,seedling,8.46,60.0 ,368,550,182,FACE,ANPP,0.00 ,0.67 ,POP-EUROFACE
+Liberloo et al. 2005,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,Populus x euramericana,seedling,8.46,48.0 ,368,550,182,FACE,ANPP,-0.05 ,0.67 ,POP-EUROFACE
+Liberloo et al. 2005,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,Populus x euramericana,seedling,8.46,60.0 ,368,550,182,FACE,ANPP,-0.05 ,0.67 ,POP-EUROFACE
+Liberloo et al. 2005,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,Populus x euramericana,seedling,8.46,48.0 ,368,550,182,FACE,ANPP,-0.02 ,0.67 ,POP-EUROFACE
+Liberloo et al. 2005,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,Populus x euramericana,seedling,8.46,60.0 ,368,550,182,FACE,ANPP,-0.05 ,0.67 ,POP-EUROFACE
+Liberloo et al. 2005,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,Populus nigra,seedling,8.46,48.0 ,368,550,182,FACE,ANPP,0.02 ,0.67 ,POP-EUROFACE
+Liberloo et al. 2005,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,Populus nigra,seedling,8.46,60.0 ,368,550,182,FACE,ANPP,0.00 ,0.67 ,POP-EUROFACE
+Liberloo et al. 2005,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,Populus nigra,seedling,8.46,48.0 ,368,550,182,FACE,ANPP,0.02 ,0.67 ,POP-EUROFACE
+Liberloo et al. 2005,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,Populus nigra,seedling,8.46,60.0 ,368,550,182,FACE,ANPP,-0.01 ,0.67 ,POP-EUROFACE
+Liberloo et al. 2006,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,Populus alba L. clone 2AS-11,seedling,8.46,72.0 ,370,550,180,FACE,Rootbiomass,0.17 ,0.67 ,POP-EUROFACE
+Liberloo et al. 2006,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,Populus nigra L. clone Jean Pourtet,seedling,8.46,72.0 ,370,550,180,FACE,Rootbiomass,0.20 ,0.67 ,POP-EUROFACE
+Liberloo et al. 2006,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,Populus x euramericana,seedling,8.46,72.0 ,370,550,180,FACE,Rootbiomass,0.35 ,0.67 ,POP-EUROFACE
+Liberloo et al. 2006,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,Populus alba L. clone 2AS-11,seedling,8.46,72.0 ,370,550,180,FACE,Rootbiomass,0.11 ,0.67 ,POP-EUROFACE
+Liberloo et al. 2006,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,Populus nigra L. clone Jean Pourtet,seedling,8.46,72.0 ,370,550,180,FACE,Rootbiomass,0.51 ,0.67 ,POP-EUROFACE
+Liberloo et al. 2006,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,Populus x euramericana,seedling,8.46,72.0 ,370,550,180,FACE,Rootbiomass,0.31 ,0.67 ,POP-EUROFACE
+Liberloo et al. 2007,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,Populus alba,seedling,8.46,72.0 ,368,550,182,FACE,NUE,0.40 ,0.67 ,POP-EUROFACE
+Liberloo et al. 2007,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,Populus alba,seedling,8.46,72.0 ,368,550,182,FACE,NUE,0.33 ,0.67 ,POP-EUROFACE
+Liberloo et al. 2007,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,Populus alba,seedling,8.46,72.0 ,368,550,182,FACE,NUE,-0.07 ,0.67 ,POP-EUROFACE
+Liberloo et al. 2007,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,Populus x euramericana,seedling,8.46,72.0 ,368,550,182,FACE,NUE,0.19 ,0.67 ,POP-EUROFACE
+Liberloo et al. 2007,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,Populus x euramericana,seedling,8.46,72.0 ,368,550,182,FACE,NUE,0.37 ,0.67 ,POP-EUROFACE
+Liberloo et al. 2007,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,Populus x euramericana,seedling,8.46,72.0 ,368,550,182,FACE,NUE,0.28 ,0.67 ,POP-EUROFACE
+Liberloo et al. 2007,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,Populus nigra,seedling,8.46,72.0 ,368,550,182,FACE,NUE,0.23 ,0.67 ,POP-EUROFACE
+Liberloo et al. 2007,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,Populus nigra,seedling,8.46,72.0 ,368,550,182,FACE,NUE,0.32 ,0.67 ,POP-EUROFACE
+Liberloo et al. 2007,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,Populus nigra,seedling,8.46,72.0 ,368,550,182,FACE,NUE,0.38 ,0.67 ,POP-EUROFACE
+Lichter et al.  2008,North America,USA,35.79 ,-79.09 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,108.0 ,400,600,200,FACE,SOC,0.00 ,0.67 ,Duke FACE
+Lichter et al.  2008,North America,USA,35.79 ,-79.09 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,108.0 ,400,600,200,FACE,SoilCN,0.09 ,0.67 ,Duke FACE
+Lichter et al. 2005,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,72.0 ,365,565,200,FACE,SOC,0.12 ,0.67 ,Duke FACE
+Lichter et al. 2005,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,72.0 ,365,565,200,FACE,SOC,0.19 ,0.67 ,Duke FACE
+Lichter et al. 2005,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,72.0 ,365,565,200,FACE,SOC,0.05 ,0.67 ,Duke FACE
+Lichter et al. 2005,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,72.0 ,365,565,200,FACE,SoilCN,-0.06 ,0.67 ,Duke FACE
+Lichter et al. 2005,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,72.0 ,365,565,200,FACE,SoilCN,0.05 ,0.67 ,Duke FACE
+Lichter et al. 2005,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,72.0 ,365,565,200,FACE,SoilCN,0.09 ,0.67 ,Duke FACE
+Lin et al. 1999,North America,USA,44.56 ,-123.29 ,76 ,11.5 ,1234 ,Pseudotsuga menziesii,seedling,13.0 ,48.0 ,380,580,200,Growth Chamber,Rs,0.20 ,0.67 ,
+Lin et al. 2001,North America,USA,44.56 ,-123.29 ,76 ,11.5 ,1234 ,Pseudotsuga menziesii,seedling,13.0 ,2.0 ,380,580,200,Growth Chamber,Rs,0.24 ,0.67 ,
+Lin et al. 2001,North America,USA,44.56 ,-123.29 ,76 ,11.5 ,1234 ,Pseudotsuga menziesii,seedling,13.0 ,2.0 ,380,580,200,Growth Chamber,Rs,0.17 ,0.67 ,
+Lindroth et al.  2001,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,Populus tremuloides,9,12.9,24.0 ,360,560,200,FACE,Leaf[N],-0.24 ,0.67 ,"FACTS-II, Aspen FACE"
+Lindroth et al.  2001,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,"Betula papyrifera, Populus tremuloides",9,12.9,24.0 ,360,560,200,FACE,Leaf[N],-0.09 ,0.67 ,"FACTS-II, Aspen FACE"
+Lindroth et al.  2001,North America,USA,45.70 ,-89.70 ,485 ,4.6 ,785 ,Populus tremuloides,9,12.9,24.0 ,360,560,200,FACE,Leaf[C],-0.06 ,0.67 ,
+Lindroth et al.  2001,North America,USA,45.70 ,-89.70 ,485 ,4.6 ,785 ,"Betula papyrifera, Populus tremuloides",9,12.9,24.0 ,360,560,200,FACE,Leaf[C],-0.01 ,0.67 ,
+Liu et al.  2018,Asia,China,31.68 ,103.88 ,1820,9.3 ,826 ,Pinus tabulaeformis is,5,,28.0 ,350,700,350,Growth Chamber,SOC,0.31 ,0.67 ,
+Liu et al. 2008,Asia,China,23.33 ,113.50 ,126,21.5 ,1750 ,"Pinus massoniana, Castanopsis hystrix, Syzygium hancei, Schima superba, Acmena acuminatissima, and Ormosia pinnata",seedling,22.8 ,24.0 ,350,700,350,OTC,NO3-,-0.46 ,0.83 ,
+Liu et al. 2008,Asia,China,23.33 ,113.50 ,126,21.5 ,1750 ,"Pinus massoniana, Castanopsis hystrix, Syzygium hancei, Schima superba, Acmena acuminatissima, and Ormosia pinnata",seedling,22.8 ,24.0 ,350,700,350,OTC,NO3-,-0.46 ,0.83 ,
+Liu et al. 2008,Asia,China,23.33 ,113.50 ,126,21.5 ,1750 ,"Pinus massoniana, Castanopsis hystrix, Syzygium hancei, Schima superba, Acmena acuminatissima, and Ormosia pinnata",seedling,22.8 ,24.0 ,350,700,350,OTC,NO3-,0.01 ,0.83 ,
+Liu et al. 2010,Asia,China,23.33 ,113.50 ,126,21.5 ,1750 ,"Pinus massoniana, Castanopsis hystrix, Syzygium hancei, Schima superba, Acmena acuminatissima, and Ormosia pinnata",seedling,22.8 ,48.0 ,400,700,300,OTC,Rootbiomass,0.00 ,0.67 ,
+Liu et al. 2010,Asia,China,23.33 ,113.50 ,126,21.5 ,1750 ,"Pinus massoniana, Castanopsis hystrix, Syzygium hancei, Schima superba, Acmena acuminatissima, and Ormosia pinnata",seedling,22.8 ,48.0 ,400,700,300,OTC,Rootbiomass,-0.07 ,0.67 ,
+Liu et al. 2010,Asia,China,23.33 ,113.50 ,126,21.5 ,1750 ,"Pinus massoniana, Castanopsis hystrix, Syzygium hancei, Schima superba, Acmena acuminatissima, and Ormosia pinnata",seedling,22.8 ,48.0 ,400,700,300,OTC,SoilCN,-0.35 ,0.67 ,
+Liu et al. 2010,Asia,China,23.33 ,113.50 ,126,21.5 ,1750 ,"Pinus massoniana, Castanopsis hystrix, Syzygium hancei, Schima superba, Acmena acuminatissima, and Ormosia pinnata",seedling,22.8 ,48.0 ,400,700,300,OTC,SoilCN,-0.02 ,0.67 ,
+Liu et al. 2010,Asia,China,23.33 ,113.50 ,126,21.5 ,1750 ,"Pinus massoniana, Castanopsis hystrix, Syzygium hancei, Schima superba, Acmena acuminatissima, and Ormosia pinnata",seedling,22.8 ,48.0 ,400,700,300,OTC,SOC,-0.06 ,0.67 ,
+Liu et al. 2010,Asia,China,23.33 ,113.50 ,126,21.5 ,1750 ,"Pinus massoniana, Castanopsis hystrix, Syzygium hancei, Schima superba, Acmena acuminatissima, and Ormosia pinnata",seedling,22.8 ,48.0 ,400,700,300,OTC,SOC,0.16 ,0.67 ,
+Liu et al. 2010,Asia,China,23.33 ,113.50 ,126,21.5 ,1750 ,"Pinus massoniana, Castanopsis hystrix, Syzygium hancei, Schima superba, Acmena acuminatissima, and Ormosia pinnata",seedling,22.8 ,48.0 ,400,700,300,OTC,Rs,0.27 ,0.67 ,
+Liu et al. 2010,Asia,China,23.33 ,113.50 ,126,21.5 ,1750 ,"Pinus massoniana, Castanopsis hystrix, Syzygium hancei, Schima superba, Acmena acuminatissima, and Ormosia pinnata",seedling,22.8 ,48.0 ,400,700,300,OTC,Rs,0.28 ,0.67 ,
+Liu et al. 2010,Asia,China,23.33 ,113.50 ,126,21.5 ,1750 ,"Pinus massoniana, Castanopsis hystrix, Syzygium hancei, Schima superba, Acmena acuminatissima, and Ormosia pinnata",seedling,22.8 ,48.0 ,400,700,300,OTC,Rs,0.26 ,0.67 ,
+Liu et al. 2010,Asia,China,23.33 ,113.50 ,126,21.5 ,1750 ,"Pinus massoniana, Castanopsis hystrix, Syzygium hancei, Schima superba, Acmena acuminatissima, and Ormosia pinnata",seedling,22.8 ,48.0 ,400,700,300,OTC,Rs,0.34 ,0.67 ,
+Liu et al. 2010,Asia,China,23.33 ,113.50 ,126,21.5 ,1750 ,"Pinus massoniana, Castanopsis hystrix, Syzygium hancei, Schima superba, Acmena acuminatissima, and Ormosia pinnata",seedling,22.8 ,48.0 ,400,700,300,OTC,Rs,0.27 ,0.67 ,
+Liu et al. 2010,Asia,China,23.33 ,113.50 ,126,21.5 ,1750 ,"Pinus massoniana, Castanopsis hystrix, Syzygium hancei, Schima superba, Acmena acuminatissima, and Ormosia pinnata",seedling,22.8 ,48.0 ,400,700,300,OTC,Rs,0.43 ,0.67 ,
+Long et al. 2012,North America,USA,35.98 ,-79.10 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,120.0 ,365,565,200,FACE,SoilNH4+,0.03 ,0.67 ,Duke FACE
+Long et al. 2012,North America,USA,35.98 ,-79.10 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,120.0 ,365,565,200,FACE,SoilNH4+,-0.34 ,0.67 ,Duke FACE
+Lovelock et al. 1998,South America,Panama,8.97 ,-79.57 ,16,27.0 ,1820 ,Copaiferu aromatica,seedling,10.2,6.0 ,350,700,350,OTC,Anet,-0.06 ,0.67 ,
+"Lovelock et al.,  1998",South America,Panama,8.97 ,-79.57 ,16,27.0 ,1820 ,Copaiferu aromatica,seedling,10.2,6.0 ,350,700,350,OTC,Leaf[C],0.02 ,0.67 ,
+"Lovelock et al.,  1998",South America,Panama,8.97 ,-79.57 ,16,27.0 ,1820 ,Copaiferu aromatica,seedling,10.2,6.0 ,350,700,350,OTC,Leaf[C],-0.08 ,0.50 ,
+"Lovelock et al.,  1998",South America,Panama,8.97 ,-79.57 ,16,27.0 ,1820 ,Copaiferu aromatica,seedling,10.2,6.0 ,350,700,350,OTC,Leaf[C],0.05 ,0.40 ,
+"Lovelock et al.,  1998",South America,Panama,8.97 ,-79.57 ,16,27.0 ,1820 ,Copaiferu aromatica,seedling,10.2,6.0 ,350,700,350,OTC,Leaf[C],-0.02 ,0.33 ,
+"Lovelock et al.,  1998",South America,Panama,8.97 ,-79.57 ,16,27.0 ,1820 ,Copaiferu aromatica,seedling,10.2,6.0 ,350,700,350,OTC,Leaf[C],0.01 ,0.29 ,
+"Lovelock et al.,  1998",South America,Panama,8.97 ,-79.57 ,16,27.0 ,1820 ,Copaiferu aromatica,seedling,10.2,6.0 ,350,700,350,OTC,Leaf[C],-0.01 ,0.25 ,
+Lovelock et al.1996,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Beilschmiedia pendul,seedling,10.2,5.0 ,350,790,440,OTC,Anet,0.20 ,0.40 ,
+Lovelock et al.1996,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Beilschmiedia pendul,seedling,10.2,5.0 ,350,790,440,OTC,Anet,0.10 ,0.40 ,
+Lovelock et al.1996,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Beilschmiedia pendul,seedling,10.2,5.0 ,350,790,440,OTC,Anet,0.19 ,0.40 ,
+Lovelock et al.1996,South America,Panama,9.12 ,-79.70 ,28,27.0 ,1820 ,Beilschmiedia pendul,seedling,10.2,5.0 ,350,790,440,OTC,Anet,0.50 ,0.40 ,
+Lovelock et al.1999,South America,Panama,8.99 ,-79.57 ,1000,27.0 ,1820 ,Copaiferu aromatica,seedling,10.2,2.0 ,370,775,405,OTC,Anet,0.73 ,0.22 ,
+Lovelock et al.1999,South America,Panama,8.99 ,-79.57 ,1000,27.0 ,1820 ,Copaiferu aromatica,seedling,10.2,2.0 ,370,775,405,OTC,Anet,0.58 ,0.22 ,
+Lovelock et al.1999,South America,Panama,8.99 ,-79.57 ,1000,27.0 ,1820 ,Copaiferu aromatica,seedling,10.2,2.0 ,370,775,405,OTC,Anet,0.35 ,0.22 ,
+Lovelock et al.1999,South America,Panama,8.99 ,-79.57 ,1000,27.0 ,1820 ,Copaiferu aromatica,seedling,10.2,2.0 ,370,775,405,OTC,Anet,0.42 ,0.22 ,
+Lovelock et al.1999,South America,Panama,8.99 ,-79.57 ,1000,27.0 ,1820 ,Copaiferu aromatica,seedling,10.2,2.0 ,370,775,405,OTC,Anet,0.49 ,0.22 ,
+Lovelock et al.1999,South America,Panama,8.99 ,-79.57 ,1000,27.0 ,1820 ,Copaiferu aromatica,seedling,10.2,2.0 ,370,775,405,OTC,Anet,0.84 ,0.22 ,
+Lovelock et al.1999,South America,Panama,8.99 ,-79.57 ,1000,27.0 ,1820 ,Copaiferu aromatica,seedling,10.2,2.0 ,370,775,405,OTC,Anet,0.35 ,0.22 ,
+Lovelock et al.1999,South America,Panama,8.99 ,-79.57 ,1000,27.0 ,1820 ,Copaiferu aromatica,seedling,10.2,2.0 ,370,775,405,OTC,Anet,0.48 ,0.22 ,
+Lovelock et al.1999,South America,Panama,8.99 ,-79.57 ,1000,27.0 ,1820 ,Copaiferu aromatica,seedling,10.2,2.0 ,370,775,405,OTC,Anet,0.52 ,0.22 ,
+Lovelock et al.1999,South America,Panama,8.99 ,-79.57 ,1000,27.0 ,1820 ,Copaiferu aromatica,seedling,10.2,2.0 ,370,775,405,OTC,Anet,0.46 ,0.22 ,
+Lovelock et al.1999,South America,Panama,8.99 ,-79.57 ,1000,27.0 ,1820 ,Copaiferu aromatica,seedling,10.2,2.0 ,370,775,405,OTC,Leaf[N],-0.07 ,0.22 ,
+Lovelock et al.1999,South America,Panama,8.99 ,-79.57 ,1000,27.0 ,1820 ,Copaiferu aromatica,seedling,10.2,2.0 ,370,775,405,OTC,Leaf[N],0.06 ,0.22 ,
+Lovelock et al.1999,South America,Panama,8.99 ,-79.57 ,1000,27.0 ,1820 ,Copaiferu aromatica,seedling,10.2,2.0 ,370,775,405,OTC,LeafCN,0.08 ,0.22 ,
+Lovelock et al.1999,South America,Panama,8.99 ,-79.57 ,1000,27.0 ,1820 ,Copaiferu aromatica,seedling,10.2,2.0 ,370,775,405,OTC,LeafCN,0.00 ,0.22 ,
+Loya et al.  2003,North America,USA,45.60 ,-89.50 ,490,6.4 ,821 ,Populus tremuloides,9,12.9,60.0 ,350,560,210,FACE,SOC,-0.03 ,0.67 ,"FACTS-II, Aspen FACE"
+Loya et al.  2003,North America,USA,45.60 ,-89.50 ,490,6.4 ,821 ,Populus tremuloides,9,12.9,60.0 ,350,560,210,FACE,MBC,-0.03 ,0.67 ,"FACTS-II, Aspen FACE"
+Martins et al. 2016,Oceania,Australia,-33.62 ,150.73 ,23,17.5 ,800 ,Eucalyptus tereticornis,seedling,13.6,9.0 ,400,600,200,Growth Chamber,N2O,-0.55 ,0.67 ,
+Martins et al. 2016,Oceania,Australia,-33.62 ,150.73 ,23,17.5 ,800 ,Eucalyptus tereticornis,seedling,13.6,9.0 ,400,600,200,Growth Chamber,N2O,0.32 ,0.67 ,
+Martins et al. 2016,Oceania,Australia,-33.62 ,150.73 ,23,17.5 ,800 ,Eucalyptus tereticornis,seedling,13.6,9.0 ,400,600,200,Growth Chamber,SOC,-0.06 ,0.67 ,
+Martins et al. 2016,Oceania,Australia,-33.62 ,150.73 ,23,17.5 ,800 ,Eucalyptus tereticornis,seedling,13.6,9.0 ,400,600,200,Growth Chamber,SOC,0.03 ,0.67 ,
+Martins et al. 2016,Oceania,Australia,-33.62 ,150.73 ,23,17.5 ,800 ,Eucalyptus tereticornis,seedling,13.6,9.0 ,400,600,200,Growth Chamber,SOC,0.08 ,0.67 ,
+Martins et al. 2016,Oceania,Australia,-33.62 ,150.73 ,23,17.5 ,800 ,Eucalyptus tereticornis,seedling,13.6,9.0 ,400,600,200,Growth Chamber,SOC,-0.09 ,0.67 ,
+Martins et al. 2016,Oceania,Australia,-33.62 ,150.73 ,23,17.5 ,800 ,Eucalyptus tereticornis,seedling,13.6,9.0 ,400,600,200,Growth Chamber,SOC,-0.06 ,0.67 ,
+Martins et al. 2016,Oceania,Australia,-33.62 ,150.73 ,23,17.5 ,800 ,Eucalyptus tereticornis,seedling,13.6,9.0 ,400,600,200,Growth Chamber,SOC,0.01 ,0.67 ,
+Martins et al. 2016,Oceania,Australia,-33.62 ,150.73 ,23,17.5 ,800 ,Eucalyptus tereticornis,seedling,13.6,9.0 ,400,600,200,Growth Chamber,Rs,0.02 ,0.67 ,
+Martins et al. 2016,Oceania,Australia,-33.62 ,150.73 ,23,17.5 ,800 ,Eucalyptus tereticornis,seedling,13.6,9.0 ,400,600,200,Growth Chamber,Rs,-0.09 ,0.67 ,
+Martins et al. 2016,Oceania,Australia,-33.62 ,150.73 ,23,17.5 ,800 ,Eucalyptus tereticornis,seedling,13.6,9.0 ,400,600,200,Growth Chamber,Rs,0.43 ,0.67 ,
+Martins et al. 2016,Oceania,Australia,-33.62 ,150.73 ,23,17.5 ,800 ,Eucalyptus tereticornis,seedling,13.6,9.0 ,400,600,200,Growth Chamber,Rs,-0.03 ,0.67 ,
+Martins et al. 2016,Oceania,Australia,-33.62 ,150.73 ,23,17.5 ,800 ,Eucalyptus tereticornis,seedling,13.6,9.0 ,400,600,200,Growth Chamber,Rs,-0.09 ,0.67 ,
+Martins et al. 2016,Oceania,Australia,-33.62 ,150.73 ,23,17.5 ,800 ,Eucalyptus tereticornis,seedling,13.6,9.0 ,400,600,200,Growth Chamber,Rs,-0.28 ,0.67 ,
+Martins et al. 2016,Oceania,Australia,-33.62 ,150.73 ,23,17.5 ,800 ,Eucalyptus tereticornis,seedling,13.6,9.0 ,400,600,200,Growth Chamber,SoilCN,-0.04 ,0.67 ,
+Martins et al. 2016,Oceania,Australia,-33.62 ,150.73 ,23,17.5 ,800 ,Eucalyptus tereticornis,seedling,13.6,9.0 ,400,600,200,Growth Chamber,SoilCN,0.00 ,0.67 ,
+Martins et al. 2016,Oceania,Australia,-33.62 ,150.73 ,23,17.5 ,800 ,Eucalyptus tereticornis,seedling,13.6,9.0 ,400,600,200,Growth Chamber,SoilCN,-0.05 ,0.67 ,
+Martins et al. 2016,Oceania,Australia,-33.62 ,150.73 ,23,17.5 ,800 ,Eucalyptus tereticornis,seedling,13.6,9.0 ,400,600,200,Growth Chamber,SoilCN,-0.01 ,0.67 ,
+Martins et al. 2016,Oceania,Australia,-30.42 ,151.65 ,1065 ,21.1 ,790 ,Eucalyptus tereticornis,seedling,12,9.0 ,400,600,200,Growth Chamber,SoilCN,0.04 ,0.67 ,
+Martins et al. 2016,Oceania,Australia,-30.42 ,151.65 ,1065 ,21.1 ,790 ,Eucalyptus tereticornis,seedling,12,9.0 ,400,600,200,Growth Chamber,SoilCN,-0.03 ,0.67 ,
+Martins et al. 2016,Oceania,Australia,-30.42 ,151.65 ,1065 ,21.1 ,790 ,Eucalyptus tereticornis,seedling,12,9.0 ,400,600,200,Growth Chamber,SoilCN,0.01 ,0.67 ,
+Martins et al. 2016,Oceania,Australia,-30.42 ,151.65 ,1065 ,21.1 ,790 ,Eucalyptus tereticornis,seedling,12,9.0 ,400,600,200,Growth Chamber,SoilCN,-0.01 ,0.67 ,
+Martins et al. 2016,Oceania,Australia,-30.42 ,151.65 ,1065 ,21.1 ,790 ,Eucalyptus tereticornis,seedling,12,9.0 ,400,600,200,Growth Chamber,SoilCN,0.03 ,0.67 ,
+Martins et al. 2016,Oceania,Australia,-30.42 ,151.65 ,1065 ,21.1 ,790 ,Eucalyptus tereticornis,seedling,12,9.0 ,400,600,200,Growth Chamber,SoilCN,-0.02 ,0.67 ,
+Martins et al. 2016,Oceania,Australia,-30.42 ,151.65 ,1065 ,21.1 ,790 ,Eucalyptus tereticornis,seedling,12,9.0 ,400,600,200,Growth Chamber,SoilCN,0.01 ,0.67 ,
+Martins et al. 2016,Oceania,Australia,-30.42 ,151.65 ,1065 ,21.1 ,790 ,Eucalyptus tereticornis,seedling,12,9.0 ,400,600,200,Growth Chamber,SoilCN,-0.01 ,0.67 ,
+Martins et al. 2016,Oceania,Australia,-30.42 ,151.65 ,1120 ,21.1 ,790 ,Eucalyptus tereticornis,seedling,12,9.0 ,400,600,200,Growth Chamber,N2O,-0.13 ,0.67 ,
+Martins et al. 2016,Oceania,Australia,-30.42 ,151.65 ,1120 ,21.1 ,790 ,Eucalyptus tereticornis,seedling,12,9.0 ,400,600,200,Growth Chamber,N2O,0.69 ,0.67 ,
+Martins et al. 2016,Oceania,Australia,-30.42 ,151.65 ,1120 ,21.1 ,790 ,Eucalyptus tereticornis,seedling,12,9.0 ,400,600,200,Growth Chamber,N2O,-2.20 ,0.67 ,
+Martins et al. 2021,Oceania,Australia,-33.62 ,150.73 ,23,17.5 ,800 ,Eucalyptus tereticornis,10,14,60.0 ,390,540,150,FACE,N2O,-0.35 ,0.67 ,EucFACE
+Martins et al. 2021,Oceania,Australia,-33.62 ,150.73 ,23,17.5 ,800 ,Eucalyptus tereticornis,10,14,60.0 ,390,540,150,FACE,N2O,-0.25 ,0.67 ,EucFACE
+Martins et al. 2021,Oceania,Australia,-33.62 ,150.73 ,23,17.5 ,800 ,Eucalyptus tereticornis,10,14,60.0 ,390,540,150,FACE,N2O,-0.90 ,0.67 ,EucFACE
+Martins et al. 2021,Oceania,Australia,-33.62 ,150.73 ,23,17.5 ,800 ,Eucalyptus tereticornis,10,14,60.0 ,390,540,150,FACE,N2O,-0.35 ,0.67 ,EucFACE
+McCarthy et al. 2010,North America,USA,35.87 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,120.0 ,365,565,200,FACE,NPP,0.07 ,0.67 ,Duke FACE
+McCarthy et al. 2010,North America,USA,35.87 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,120.0 ,365,565,200,FACE,NPP,0.23 ,0.67 ,Duke FACE
+McCarthy et al. 2010,North America,USA,35.87 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,120.0 ,365,565,200,FACE,NPP,0.26 ,0.67 ,Duke FACE
+McCarthy et al. 2010,North America,USA,35.87 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,120.0 ,365,565,200,FACE,NPP,0.24 ,0.67 ,Duke FACE
+McCarthy et al. 2010,North America,USA,35.87 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,120.0 ,365,565,200,FACE,NPP,0.20 ,0.67 ,Duke FACE
+McCarthy et al. 2010,North America,USA,35.87 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,120.0 ,365,565,200,FACE,NPP,0.24 ,0.67 ,Duke FACE
+McCarthy et al. 2010,North America,USA,35.87 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,120.0 ,365,565,200,FACE,NPP,0.27 ,0.67 ,Duke FACE
+McCarthy et al. 2010,North America,USA,35.87 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,120.0 ,365,565,200,FACE,NPP,0.27 ,0.67 ,Duke FACE
+McCarthy et al. 2010,North America,USA,35.87 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,120.0 ,365,565,200,FACE,NPP,0.27 ,0.67 ,Duke FACE
+McCarthy et al. 2010,North America,USA,35.87 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,120.0 ,365,565,200,FACE,NPP,0.24 ,0.67 ,Duke FACE
+McCarthy et al. 2010,North America,USA,35.87 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,120.0 ,365,565,200,FACE,NPP,0.26 ,0.67 ,Duke FACE
+McCarthy et al. 2010,North America,USA,35.87 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,120.0 ,365,565,200,FACE,NPP,0.24 ,0.67 ,Duke FACE
+McCarthy et al. 2010,North America,USA,35.87 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,120.0 ,365,565,200,FACE,NPP,0.21 ,0.67 ,Duke FACE
+McCarthy et al. 2010,North America,USA,35.87 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,120.0 ,365,565,200,FACE,NPP,0.25 ,0.67 ,Duke FACE
+McCarthy et al. 2010,North America,USA,35.87 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,120.0 ,365,565,200,FACE,NPP,0.27 ,0.67 ,Duke FACE
+McCarthy et al. 2010,North America,USA,35.87 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,120.0 ,365,565,200,FACE,NPP,0.26 ,0.67 ,Duke FACE
+McCarthy et al. 2010,North America,USA,35.87 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,120.0 ,365,565,200,FACE,NPP,0.26 ,0.67 ,Duke FACE
+McKinley et al. 2009,North America,USA,28.63 ,-80.70 ,4 ,21.9 ,1282 ,"Quercus myrtifolia, Quercus geminata, Quercus chapmanii",1,36.7,132.0 ,350,700,350,OTC,TIN,-0.23 ,0.25 ,
+McKinley et al. 2009,North America,USA,28.63 ,-80.70 ,4 ,21.9 ,1282 ,"Quercus myrtifolia, Quercus geminata, Quercus chapmanii",1,36.7,132.0 ,350,700,350,OTC,Nmin,0.33 ,0.25 ,
+McKinley et al. 2009,North America,USA,28.63 ,-80.70 ,4 ,21.9 ,1282 ,"Quercus myrtifolia, Quercus geminata, Quercus chapmanii",1,36.7,132.0 ,350,700,350,OTC,Rs,0.00 ,0.25 ,
+McKinley et al. 2009,North America,USA,28.63 ,-80.70 ,4 ,21.9 ,1282 ,"Quercus myrtifolia, Quercus geminata, Quercus chapmanii",1,36.7,132.0 ,350,700,350,OTC,Rs,0.37 ,0.25 ,
+McKinley et al. 2009,North America,USA,28.63 ,-80.70 ,4 ,21.9 ,1282 ,"Quercus myrtifolia, Quercus geminata, Quercus chapmanii",1,36.7,132.0 ,350,700,350,OTC,Rs,-0.11 ,0.25 ,
+McKinley et al. 2009,North America,USA,28.63 ,-80.70 ,4 ,21.9 ,1282 ,"Quercus myrtifolia, Quercus geminata, Quercus chapmanii",1,36.7,132.0 ,350,700,350,OTC,Rs,0.38 ,0.25 ,
+McKinley et al. 2009,North America,USA,28.63 ,-80.70 ,4 ,21.9 ,1282 ,"Quercus myrtifolia, Quercus geminata, Quercus chapmanii",1,36.7,132.0 ,350,700,350,OTC,Rs,0.13 ,0.25 ,
+McKinley et al. 2009,North America,USA,28.63 ,-80.70 ,4 ,21.9 ,1282 ,"Quercus myrtifolia, Quercus geminata, Quercus chapmanii",1,36.7,132.0 ,350,700,350,OTC,Rs,0.54 ,0.25 ,
+McKinley et al. 2009,North America,USA,28.63 ,-80.70 ,4 ,21.9 ,1282 ,"Quercus myrtifolia, Quercus geminata, Quercus chapmanii",1,36.7,132.0 ,350,700,350,OTC,Rs,0.64 ,0.25 ,
+McKinley et al. 2009,North America,USA,28.63 ,-80.70 ,4 ,21.9 ,1282 ,"Quercus myrtifolia, Quercus geminata, Quercus chapmanii",1,36.7,132.0 ,350,700,350,OTC,Rs,0.20 ,0.29 ,
+McKinley et al. 2009,North America,USA,28.63 ,-80.70 ,4 ,21.9 ,1282 ,"Quercus myrtifolia, Quercus geminata, Quercus chapmanii",1,36.7,132.0 ,350,700,350,OTC,Rs,0.14 ,0.29 ,
+McKinley et al. 2009,North America,USA,28.63 ,-80.70 ,4 ,21.9 ,1282 ,"Quercus myrtifolia, Quercus geminata, Quercus chapmanii",1,36.7,132.0 ,350,700,350,OTC,Rs,-0.08 ,0.40 ,
+Mikan et al.  2000,North America,USA,43.57 ,-84.67 ,222 ,7.8 ,790 ,Populus tremuloides,seedling,9.93,24.0 ,360,700,340,OTC,Nmin,0.02 ,0.50 ,
+Mikan et al.  2000,North America,USA,43.57 ,-84.67 ,222 ,7.8 ,790 ,Populus tremuloides,seedling,9.93,24.0 ,360,700,340,OTC,Nmin,0.11 ,0.50 ,
+Mikan et al.  2000,North America,USA,43.57 ,-84.67 ,222 ,7.8 ,790 ,Populus tremuloides,seedling,9.93,24.0 ,360,700,340,OTC,Rs,0.24 ,0.50 ,
+Mikan et al.  2000,North America,USA,43.57 ,-84.67 ,222 ,7.8 ,790 ,Populus tremuloides,seedling,9.93,24.0 ,360,700,340,OTC,Rs,0.43 ,0.50 ,
+Mikan et al.  2000,North America,USA,43.57 ,-84.67 ,222 ,7.8 ,790 ,Populus tremuloides,seedling,9.93,24.0 ,360,700,340,OTC,Rootbiomass,0.18 ,0.50 ,
+Mikan et al.  2000,North America,USA,43.57 ,-84.67 ,222 ,7.8 ,790 ,Populus tremuloides,seedling,9.93,24.0 ,360,700,340,OTC,Rootbiomass,0.49 ,0.50 ,
+Mikan et al.  2000,North America,USA,43.57 ,-84.67 ,222 ,7.8 ,790 ,Populus tremuloides,seedling,9.93,24.0 ,360,700,340,OTC,Leaf[N],-0.39 ,0.50 ,
+Mikan et al.  2000,North America,USA,43.57 ,-84.67 ,222 ,7.8 ,790 ,Populus tremuloides,seedling,9.93,24.0 ,360,700,340,OTC,Leaf[N],-0.22 ,0.50 ,
+Mikan et al.  2000,North America,USA,43.57 ,-84.67 ,222 ,7.8 ,790 ,Populus tremuloides,seedling,9.93,24.0 ,360,700,340,OTC,Stem[N],-0.22 ,0.50 ,
+Mikan et al.  2000,North America,USA,43.57 ,-84.67 ,222 ,7.8 ,790 ,Populus tremuloides,seedling,9.93,24.0 ,360,700,340,OTC,Stem[N],-0.10 ,0.50 ,
+Mikan et al.  2000,North America,USA,43.57 ,-84.67 ,222 ,7.8 ,790 ,Populus tremuloides,seedling,9.93,24.0 ,360,700,340,OTC,Leafbiomass,0.37 ,0.50 ,
+Mikan et al.  2000,North America,USA,43.57 ,-84.67 ,222 ,7.8 ,790 ,Populus tremuloides,seedling,9.93,24.0 ,360,700,340,OTC,Leafbiomass,0.34 ,0.50 ,
+Mikan et al.  2000,North America,USA,43.57 ,-84.67 ,222 ,7.8 ,790 ,Populus tremuloides,seedling,9.93,24.0 ,360,700,340,OTC,Stembiomass,0.25 ,0.50 ,
+Mikan et al.  2000,North America,USA,43.57 ,-84.67 ,222 ,7.8 ,790 ,Populus tremuloides,seedling,9.93,24.0 ,360,700,340,OTC,Stembiomass,0.31 ,0.50 ,
+Mikan et al.  2000,North America,USA,43.57 ,-84.67 ,222 ,7.8 ,790 ,Populus tremuloides,seedling,9.93,24.0 ,360,700,340,OTC,Root[N],-0.30 ,0.50 ,
+Mikan et al.  2000,North America,USA,43.57 ,-84.67 ,222 ,7.8 ,790 ,Populus tremuloides,seedling,9.93,24.0 ,360,700,340,OTC,Root[N],-0.27 ,0.50 ,
+Millett et al. 2012,Europe,UK,53.23 ,-4.13 ,,11.5 ,1034 ,Alnus glutinosa,seedling,10.97,48.0 ,380,580,200,FACE,BNF,0.33 ,0.50 ,non-symbiotic N-fixing
+Millett et al. 2012,Europe,UK,53.23 ,-4.13 ,,11.5 ,1034 ,Alnus glutinosa,seedling,10.97,48.0 ,380,580,200,FACE,BNF,0.09 ,0.50 ,symbiotic N-fixing
+Moscatelli et al. 2005,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,Populus x euramericana,seedling,8.46,36.0 ,400,550,150,FACE,Rs,0.01 ,1.00 ,POP-EUROFACE
+Niinisto et al. 2004,Europe,Finland,62.78 ,30.97 ,145,2.1 ,667 ,Pinus  sylvestris,seedling,16.6 ,48.0 ,415,700,285,Growth Chamber,Rs,0.44 ,0.50 ,
+Niinisto et al. 2004,Europe,Finland,62.78 ,30.97 ,145,2.1 ,667 ,Pinus  sylvestris,seedling,16.6 ,48.0 ,415,700,285,Growth Chamber,Rs,0.27 ,0.50 ,
+Niinisto et al. 2004,Europe,Finland,62.78 ,30.97 ,145,2.1 ,667 ,Pinus  sylvestris,seedling,16.6 ,48.0 ,415,700,285,Growth Chamber,Rs,0.25 ,0.50 ,
+Niinisto et al. 2004,Europe,Finland,62.78 ,30.97 ,145,2.1 ,667 ,Pinus  sylvestris,seedling,16.6 ,48.0 ,415,700,285,Growth Chamber,Rs,0.36 ,0.50 ,
+Norby 1987,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Elaeagnus angustifolia,10,7.4,2.8 ,350,700,350,Growth Chamber,BNF,0.27 ,0.20 ,symbiotic N-fixing
+Norby 1987,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Robinia pseudoacacia,10,7.4,3.5 ,350,700,350,Growth Chamber,BNF,1.31 ,0.20 ,symbiotic N-fixing
+Norby et al. 1992,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,36.0 ,355,505,150,OTC,Rs,0.22 ,1.00 ,
+Norby et al. 1992,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,36.0 ,355,655,300,OTC,Rs,0.20 ,1.00 ,
+Norby et al. 1992,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liriodendron tulipifera,10,7.4,36.0 ,355,505,150,OTC,Rootbiomass,0.62 ,1.00 ,
+Norby et al. 1992,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liriodendron tulipifera,10,7.4,36.0 ,355,655,300,OTC,Rootbiomass,0.78 ,1.00 ,
+Norby et al. 1995,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Quercus alba,10,7.4,48.0 ,350,500,150,OTC,Rootbiomass,0.21 ,0.40 ,
+Norby et al. 1995,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Quercus alba,10,7.4,48.0 ,350,650,300,OTC,Rootbiomass,0.88 ,0.40 ,
+Norby et al. 2001,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,24.0 ,384,565,181,FACE,ANPP,0.13 ,1.00 ,Oak Ridge FACE
+Norby et al. 2001,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,12.0 ,384,565,181,FACE,ANPP,0.03 ,1.00 ,Oak Ridge FACE
+Norby et al. 2001,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,12.0 ,384,565,181,FACE,ANPP,0.26 ,1.00 ,Oak Ridge FACE
+Norby et al. 2002,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,12.0 ,350,537,187,FACE,NPP,0.23 ,1.00 ,Oak Ridge FACE
+Norby et al. 2002,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,24.0 ,350,537,187,FACE,NPP,0.15 ,1.00 ,Oak Ridge FACE
+Norby et al. 2002,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,36.0 ,350,537,187,FACE,NPP,0.19 ,1.00 ,Oak Ridge FACE
+Norby et al. 2002,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,12.0 ,350,537,187,FACE,BNPP,0.17 ,1.00 ,Oak Ridge FACE
+Norby et al. 2002,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,24.0 ,350,537,187,FACE,BNPP,0.21 ,1.00 ,Oak Ridge FACE
+Norby et al. 2002,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,36.0 ,350,537,187,FACE,BNPP,0.60 ,1.00 ,Oak Ridge FACE
+Norby et al. 2002,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,12.0 ,350,537,187,FACE,ANPP,0.24 ,1.00 ,Oak Ridge FACE
+Norby et al. 2002,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,24.0 ,350,537,187,FACE,ANPP,0.14 ,1.00 ,Oak Ridge FACE
+Norby et al. 2002,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,36.0 ,350,537,187,FACE,ANPP,0.08 ,1.00 ,Oak Ridge FACE
+Norby et al. 2004,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,72.0 ,350,537,187,FACE,Rootbiomass,0.41 ,0.67 ,Oak Ridge FACE
+Norby et al. 2004,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,72.0 ,350,537,187,FACE,Rootbiomass,0.17 ,0.67 ,Oak Ridge FACE
+Norby et al. 2004,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,72.0 ,350,537,187,FACE,Rootbiomass,0.68 ,0.67 ,Oak Ridge FACE
+Norby et al. 2004,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,72.0 ,350,537,187,FACE,Rootbiomass,0.62 ,0.67 ,Oak Ridge FACE
+Norby et al. 2004,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,72.0 ,350,537,187,FACE,Rootbiomass,1.17 ,0.67 ,Oak Ridge FACE
+Norby et al. 2004,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,72.0 ,350,537,187,FACE,Rootbiomass,0.66 ,0.67 ,Oak Ridge FACE
+Norby et al. 2010,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,144.0 ,375,550,175,FACE,NPP,0.22 ,0.83 ,Oak Ridge FACE
+Norby et al. 2010,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,144.0 ,375,550,175,FACE,NPP,0.14 ,0.83 ,Oak Ridge FACE
+Norby et al. 2010,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,144.0 ,375,550,175,FACE,NPP,0.19 ,0.83 ,Oak Ridge FACE
+Norby et al. 2010,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,144.0 ,375,550,175,FACE,NPP,0.23 ,0.83 ,Oak Ridge FACE
+Norby et al. 2010,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,144.0 ,375,550,175,FACE,NPP,0.28 ,0.83 ,Oak Ridge FACE
+Norby et al. 2010,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,144.0 ,375,550,175,FACE,NPP,0.12 ,0.83 ,Oak Ridge FACE
+Norby et al. 2010,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,144.0 ,375,550,175,FACE,NPP,0.17 ,0.83 ,Oak Ridge FACE
+Norby et al. 2010,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,144.0 ,375,550,175,FACE,NPP,0.16 ,0.83 ,Oak Ridge FACE
+Norby et al. 2010,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,144.0 ,375,550,175,FACE,NPP,0.11 ,0.83 ,Oak Ridge FACE
+Norby et al. 2010,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,144.0 ,375,550,175,FACE,NPP,0.07 ,0.83 ,Oak Ridge FACE
+Norby et al. 2010,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,144.0 ,375,550,175,FACE,NPP,0.09 ,0.83 ,Oak Ridge FACE
+Oh et al.  2007,North America,USA,35.79 ,-79.09 ,130,15.5 ,1140 ,Pinus  taeda,13,18.1,60.0 ,400,600,200,FACE,SOC,0.05 ,0.67 ,Duke FACE
+Oh et al.  2007,North America,USA,35.79 ,-79.09 ,130,15.5 ,1140 ,Pinus  taeda,13,18.1,60.0 ,400,600,200,FACE,SOC,0.05 ,0.67 ,Duke FACE
+Oh et al.  2007,North America,USA,35.79 ,-79.09 ,130,15.5 ,1140 ,Pinus  taeda,13,18.1,60.0 ,400,600,200,FACE,SOC,0.15 ,0.67 ,Duke FACE
+Oh et al.  2007,North America,USA,35.79 ,-79.09 ,130,15.5 ,1140 ,Pinus  taeda,13,18.1,60.0 ,400,600,200,FACE,SOC,0.00 ,0.67 ,Duke FACE
+Oh et al.  2007,North America,USA,35.79 ,-79.09 ,130,15.5 ,1140 ,Pinus  taeda,13,18.1,60.0 ,400,600,200,FACE,SOC,0.10 ,0.67 ,Duke FACE
+Oh et al. 2007,North America,USA,35.79 ,-79.09 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,60.0 ,400,600,200,FACE,SoilCN,-0.02 ,0.67 ,Duke FACE
+Oh et al. 2007,North America,USA,35.79 ,-79.09 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,60.0 ,400,600,200,FACE,SoilCN,0.15 ,0.67 ,Duke FACE
+Oh et al. 2007,North America,USA,35.79 ,-79.09 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,60.0 ,400,600,200,FACE,SoilCN,0.00 ,0.67 ,Duke FACE
+Oh et al. 2007,North America,USA,35.79 ,-79.09 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,60.0 ,400,600,200,FACE,SoilCN,0.10 ,0.67 ,Duke FACE
+Oh et al. 2007,North America,USA,35.79 ,-79.09 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,60.0 ,400,600,200,FACE,SoilCN,0.00 ,0.67 ,Duke FACE
+Oksanen et al.  2005,Europe,Finland,62.65 ,27.05 ,120,2.9 ,625 ,Betula pendula,25-30,36.1 ,36.0 ,373,729,356,OTC,Leaf[N],-0.16 ,0.67 ,
+Oliveira et al.2012,South America,Brazil,-14.23 ,-51.93 ,260 ,20.0 ,1500 ,Croton urucurana Baillon ,seedling,8.82,2.5 ,570,760,190,OTC,Anet,0.50 ,0.67 ,
+Oliveira et al.2012,South America,Brazil,-14.23 ,-51.93 ,260 ,20.0 ,1500 ,Croton urucurana Baillon ,seedling,5,2.5 ,570,760,190,OTC,Anet,0.23 ,0.67 ,
+Oliveira et al.2012,South America,Brazil,-14.23 ,-51.93 ,260 ,20.0 ,1500 ,Cariniana legalis,seedling,8.82,2.5 ,570,760,190,OTC,Anet,0.26 ,0.67 ,
+Oliveira et al.2012,South America,Brazil,-14.23 ,-51.93 ,260 ,20.0 ,1500 ,Cariniana legalis,seedling,5,2.5 ,570,760,190,OTC,Anet,0.22 ,0.67 ,
+Oliveira et al.2012,South America,Brazil,-14.23 ,-51.93 ,260 ,20.0 ,1500 ,Croton urucurana Baillon ,seedling,5,2.5 ,380,760,380,OTC,Stembiomass,0.08 ,0.67 ,
+Oliveira et al.2012,South America,Brazil,-14.23 ,-51.93 ,260 ,20.0 ,1500 ,Croton urucurana Baillon ,seedling,5,2.5 ,570,760,190,OTC,Stembiomass,0.19 ,0.67 ,
+Oliveira et al.2012,South America,Brazil,-14.23 ,-51.93 ,260 ,20.0 ,1500 ,Cariniana legalis,seedling,8.82,2.5 ,380,760,380,OTC,Stembiomass,0.08 ,0.67 ,
+Oliveira et al.2012,South America,Brazil,-14.23 ,-51.93 ,260 ,20.0 ,1500 ,Cariniana legalis,seedling,8.82,2.5 ,570,760,190,OTC,Stembiomass,0.28 ,0.67 ,
+Oliveira et al.2012,South America,Brazil,-14.23 ,-51.93 ,260 ,20.0 ,1500 ,Croton urucurana Baillon ,seedling,5,2.5 ,380,760,380,OTC,Stembiomass,0.11 ,0.67 ,
+Oliveira et al.2012,South America,Brazil,-14.23 ,-51.93 ,260 ,20.0 ,1500 ,Croton urucurana Baillon ,seedling,5,2.5 ,570,760,190,OTC,Stembiomass,0.25 ,0.67 ,
+Oliveira et al.2012,South America,Brazil,-14.23 ,-51.93 ,260 ,20.0 ,1500 ,Cariniana legalis,seedling,8.82,2.5 ,380,760,380,OTC,Stembiomass,0.25 ,0.67 ,
+Oliveira et al.2012,South America,Brazil,-14.23 ,-51.93 ,260 ,20.0 ,1500 ,Cariniana legalis,seedling,8.82,2.5 ,570,760,190,OTC,Stembiomass,0.04 ,0.67 ,
+Oliveira et al.2012,South America,Brazil,-14.23 ,-51.93 ,260 ,20.0 ,1500 ,Croton urucurana Baillon ,seedling,5,2.5 ,380,760,380,OTC,Rootbiomass,-0.04 ,0.67 ,
+Oliveira et al.2012,South America,Brazil,-14.23 ,-51.93 ,260 ,20.0 ,1500 ,Croton urucurana Baillon ,seedling,5,2.5 ,570,760,190,OTC,Rootbiomass,0.15 ,0.67 ,
+Oliveira et al.2012,South America,Brazil,-14.23 ,-51.93 ,260 ,20.0 ,1500 ,Cariniana legalis,seedling,8.82,2.5 ,380,760,380,OTC,Rootbiomass,0.00 ,0.67 ,
+Oliveira et al.2012,South America,Brazil,-14.23 ,-51.93 ,260 ,20.0 ,1500 ,Cariniana legalis,seedling,8.82,2.5 ,570,760,190,OTC,Rootbiomass,0.35 ,0.67 ,
+Oliveira et al.2012,South America,Brazil,-14.23 ,-51.93 ,260 ,20.0 ,1500 ,Croton urucurana Baillon ,seedling,5,2.5 ,380,760,380,OTC,Rootbiomass,0.19 ,0.67 ,
+Oliveira et al.2012,South America,Brazil,-14.23 ,-51.93 ,260 ,20.0 ,1500 ,Croton urucurana Baillon ,seedling,5,2.5 ,570,760,190,OTC,Rootbiomass,0.31 ,0.67 ,
+Oliveira et al.2012,South America,Brazil,-14.23 ,-51.93 ,260 ,20.0 ,1500 ,Cariniana legalis,seedling,8.82,2.5 ,380,760,380,OTC,Rootbiomass,0.27 ,0.67 ,
+Oliveira et al.2012,South America,Brazil,-14.23 ,-51.93 ,260 ,20.0 ,1500 ,Cariniana legalis,seedling,8.82,2.5 ,570,760,190,OTC,Rootbiomass,0.60 ,0.67 ,
+Oliveira et al.2012,South America,Brazil,-14.23 ,-51.93 ,260 ,20.0 ,1500 ,Croton urucurana Baillon ,seedling,8.82,2.5 ,570,760,190,OTC,WUE,-0.01 ,0.67 ,
+Oliveira et al.2012,South America,Brazil,-14.23 ,-51.93 ,260 ,20.0 ,1500 ,Croton urucurana Baillon ,seedling,5,2.5 ,570,760,190,OTC,WUE,0.08 ,0.67 ,
+Oliveira et al.2012,South America,Brazil,-14.23 ,-51.93 ,260 ,20.0 ,1500 ,Cariniana legalis,seedling,8.82,2.5 ,570,760,190,OTC,WUE,0.20 ,0.67 ,
+Oliveira et al.2012,South America,Brazil,-14.23 ,-51.93 ,260 ,20.0 ,1500 ,Cariniana legalis,seedling,5,2.5 ,570,760,190,OTC,WUE,0.24 ,0.67 ,
+Oliveira et al.2012,South America,Brazil,-14.23 ,-51.93 ,260 ,20.0 ,1500 ,Croton urucurana Baillon ,seedling,5,2.5 ,380,760,380,OTC,Leafbiomass,0.34 ,0.67 ,
+Oliveira et al.2012,South America,Brazil,-14.23 ,-51.93 ,260 ,20.0 ,1500 ,Croton urucurana Baillon ,seedling,5,2.5 ,570,760,190,OTC,Leafbiomass,0.59 ,0.67 ,
+Oliveira et al.2012,South America,Brazil,-14.23 ,-51.93 ,260 ,20.0 ,1500 ,Cariniana legalis,seedling,8.82,2.5 ,380,760,380,OTC,Leafbiomass,0.11 ,0.67 ,
+Oliveira et al.2012,South America,Brazil,-14.23 ,-51.93 ,260 ,20.0 ,1500 ,Cariniana legalis,seedling,8.82,2.5 ,570,760,190,OTC,Leafbiomass,0.58 ,0.67 ,
+Oliveira et al.2012,South America,Brazil,-14.23 ,-51.93 ,260 ,20.0 ,1500 ,Croton urucurana Baillon ,seedling,5,2.5 ,380,760,380,OTC,Leafbiomass,0.14 ,0.67 ,
+Oliveira et al.2012,South America,Brazil,-14.23 ,-51.93 ,260 ,20.0 ,1500 ,Croton urucurana Baillon ,seedling,5,2.5 ,570,760,190,OTC,Leafbiomass,-0.17 ,0.67 ,
+Oliveira et al.2012,South America,Brazil,-14.23 ,-51.93 ,260 ,20.0 ,1500 ,Cariniana legalis,seedling,8.82,2.5 ,380,760,380,OTC,Leafbiomass,0.14 ,0.67 ,
+Oliveira et al.2012,South America,Brazil,-14.23 ,-51.93 ,260 ,20.0 ,1500 ,Cariniana legalis,seedling,8.82,2.5 ,570,760,190,OTC,Leafbiomass,-0.02 ,0.67 ,
+Olsrud et al.  2010,Europe,Sweden,68.35 ,19.00 ,341,-0.8 ,307 ,"Vaccinium myrtillus, Vaccinium vitisidaea, Vaccinium uliginosum and Empetrum hermaphroditum",seedling,65.1 ,72.0 ,400,730,330,OTC,Leaf[N],-0.44 ,0.67 ,
+Olsrud et al.  2010,Europe,Sweden,68.35 ,19.00 ,341,-0.8 ,307 ,"Vaccinium myrtillus, Vaccinium vitisidaea, Vaccinium uliginosum and Empetrum hermaphroditum",seedling,65.1 ,72.0 ,400,730,330,OTC,Leaf[N],-0.42 ,0.67 ,
+Olsrud et al.  2010,Europe,Sweden,68.35 ,19.00 ,341,-0.8 ,307 ,"Vaccinium myrtillus, Vaccinium vitisidaea, Vaccinium uliginosum and Empetrum hermaphroditum",seedling,65.1 ,72.0 ,400,730,330,OTC,Leaf[N],-0.38 ,0.67 ,
+Olsrud et al.  2010,Europe,Sweden,68.35 ,19.00 ,341,-0.8 ,307 ,"Vaccinium myrtillus, Vaccinium vitisidaea, Vaccinium uliginosum and Empetrum hermaphroditum",seedling,65.1 ,72.0 ,400,730,330,OTC,Leaf[N],-0.43 ,0.67 ,
+Olsrud et al.  2010,Europe,Sweden,68.35 ,19.00 ,341,-0.8 ,307 ,"Vaccinium myrtillus, Vaccinium vitisidaea, Vaccinium uliginosum and Empetrum hermaphroditum",seedling,65.1 ,72.0 ,400,730,330,OTC,LeafCN,0.43 ,0.67 ,
+Olsrud et al.  2010,Europe,Sweden,68.35 ,19.00 ,341,-0.8 ,307 ,"Vaccinium myrtillus, Vaccinium vitisidaea, Vaccinium uliginosum and Empetrum hermaphroditum",seedling,65.1 ,72.0 ,400,730,330,OTC,LeafCN,0.37 ,0.67 ,
+Olsrud et al.  2010,Europe,Sweden,68.35 ,19.00 ,341,-0.8 ,307 ,"Vaccinium myrtillus, Vaccinium vitisidaea, Vaccinium uliginosum and Empetrum hermaphroditum",seedling,65.1 ,72.0 ,400,730,330,OTC,LeafCN,0.33 ,0.67 ,
+Olsrud et al.  2010,Europe,Sweden,68.35 ,19.00 ,341,-0.8 ,307 ,"Vaccinium myrtillus, Vaccinium vitisidaea, Vaccinium uliginosum and Empetrum hermaphroditum",seedling,65.1 ,72.0 ,400,730,330,OTC,LeafCN,0.41 ,0.67 ,
+Olsrud et al.  2010,Europe,Sweden,68.35 ,19.00 ,341,-0.8 ,307 ,"Vaccinium myrtillus, Vaccinium vitisidaea, Vaccinium uliginosum and Empetrum hermaphroditum",seedling,65.1 ,72.0 ,400,730,330,OTC,Leaf[C],0.01 ,0.67 ,
+Olsrud et al.  2010,Europe,Sweden,68.35 ,19.00 ,341,-0.8 ,307 ,"Vaccinium myrtillus, Vaccinium vitisidaea, Vaccinium uliginosum and Empetrum hermaphroditum",seedling,65.1 ,72.0 ,400,730,330,OTC,Leaf[C],-0.04 ,0.67 ,
+Olsrud et al.  2010,Europe,Sweden,68.35 ,19.00 ,341,-0.8 ,307 ,"Vaccinium myrtillus, Vaccinium vitisidaea, Vaccinium uliginosum and Empetrum hermaphroditum",seedling,65.1 ,72.0 ,400,730,330,OTC,Leaf[C],0.04 ,0.67 ,
+Olsrud et al.  2010,Europe,Sweden,68.35 ,19.00 ,341,-0.8 ,307 ,"Vaccinium myrtillus, Vaccinium vitisidaea, Vaccinium uliginosum and Empetrum hermaphroditum",seedling,65.1 ,72.0 ,400,730,330,OTC,Leaf[C],0.00 ,0.67 ,
+Olszyk et al. 2001,North America,USA,43.65 ,-121.38 ,1451 ,5.4 ,447 ,Pinus ponderosa,seedling,28.4 ,17.0 ,357,707,350,Growth Chamber,BNF,0.09 ,0.83 ,non-symbiotic N-fixing
+Olszyk et al. 2001,North America,USA,43.65 ,-121.38 ,1451 ,5.4 ,447 ,Pinus ponderosa,seedling,28.4 ,17.0 ,357,707,350,Growth Chamber,BNF,-0.09 ,0.67 ,non-symbiotic N-fixing
+Olszyk et al. 2001,North America,USA,43.66 ,-121.38 ,1451 ,5.4 ,447 ,Pinus ponderosa,seedling,28.4 ,17.0 ,438,717,279,OTC,Rootbiomass,0.03 ,0.67 ,
+Olszyk et al. 2001,North America,USA,43.66 ,-121.38 ,1451 ,5.4 ,447 ,Pinus ponderosa,seedling,28.4 ,24.0 ,438,717,279,OTC,Leaf[N],-0.13 ,0.67 ,
+Olszyk et al. 2001,North America,USA,43.66 ,-121.38 ,1451 ,5.4 ,447 ,Pinus ponderosa,seedling,28.4 ,17.0 ,438,717,279,OTC,Root[N],0.08 ,0.67 ,
+Olszyk et al. 2003,North America,USA,43.65 ,-121.38 ,1451 ,5.4 ,447 ,Pseudotsuga menziesii,seedling,4.63,48.0 ,400,580,180,Growth Chamber,Rootbiomass,0.00 ,0.67 ,
+Olszyk et al. 2003,North America,USA,43.65 ,-121.38 ,1451 ,5.4 ,447 ,Pseudotsuga menziesii,seedling,4.63,48.0 ,400,580,180,Growth Chamber,Rootbiomass,0.02 ,0.67 ,
+Pajar 1995,Europe,Finland,62.78 ,30.97 ,145,2.1 ,667 ,Pinus  sylvestris,seedling,19.5 ,24.0 ,320,525,205,OTC,Rs,0.57 ,0.50 ,
+Park et al.  2020,Asia,South Korea,35.17 ,126.88 ,33,13.7 ,1331 ,"Pinus densiflora, Quercus variabilis",2,8,24.0 ,400,685,285,"Temperature-Gradient Field Chamber
+(TGFC)",Leafbiomass,0.15 ,0.50 ,
+Peltonen et al.  2005,Europe,Finland,62.65 ,27.05 ,120,2.9 ,625 ,Betula pendula,25-30,36.1 ,36.0 ,373,729,356,OTC,Rootbiomass,0.16 ,0.67 ,
+Perez-Soba et al.  1995,Europe,Netherlands,51.98 ,5.66 ,12 ,20.0 ,809 ,Pinus sylvestris,3,61.1 ,2.0 ,350,700,350,Growth Chamber,Rootbiomass,0.44 ,0.67 ,
+Perez-Soba et al.  1995,Europe,Netherlands,51.98 ,5.66 ,12 ,20.0 ,809 ,Pinus sylvestris,3,61.1 ,2.0 ,350,700,350,Growth Chamber,Leafbiomass,0.38 ,0.67 ,
+Perez-Soba et al.  1995,Europe,Netherlands,51.98 ,5.66 ,12 ,20.0 ,809 ,Pinus sylvestris,3,61.1 ,2.0 ,350,700,350,Growth Chamber,Stembiomass,0.19 ,0.67 ,
+Pfirrmann et al.  1996,Europe,Germany,48.15 ,11.58 ,520 ,15.0 ,946 ,Picea abies,5,17.5 ,7.0 ,350,750,400,Growth Chamber,Leaf[N],-0.06 ,0.67 ,
+Pfirrmann et al.  1996,Europe,Germany,48.15 ,11.58 ,520 ,15.0 ,946 ,Picea abies,5,17.5 ,7.0 ,350,750,400,Growth Chamber,Leaf[N],0.09 ,0.67 ,
+Pfirrmann et al.  1996,Europe,Germany,48.15 ,11.58 ,520 ,15.0 ,946 ,Picea abies,5,17.5 ,7.0 ,350,750,400,Growth Chamber,Leaf[C],-0.02 ,0.67 ,
+Pfirrmann et al.  1996,Europe,Germany,48.15 ,11.58 ,520 ,15.0 ,946 ,Picea abies,5,17.5 ,7.0 ,350,750,400,Growth Chamber,Leaf[C],0.00 ,0.67 ,
+Phillips et al. 2001,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,36.0 ,365,565,200,FACE,N2O,0.15 ,0.67 ,Duke FACE
+Phillips et al. 2001,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,36.0 ,365,565,200,FACE,Denitri,-0.24 ,0.67 ,Duke FACE
+Phillips et al. 2006,North America,USA,38.73 ,-120.75 ,843,14.5 ,1000 ,Pinus ponderosa,seedling,26.25,48.0 ,350,700,175,OTC,NFRP,0.65 ,1.00 ,
+Phillips et al. 2006,North America,USA,38.73 ,-120.75 ,843,14.5 ,1000 ,Pinus ponderosa,seedling,26.25,48.0 ,350,700,350,OTC,NFRP,0.27 ,1.00 ,
+Phillips et al. 2011,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,168.0 ,365,565,200,FACE,Rootbiomass,0.25 ,0.50 ,Duke FACE
+Phillips et al. 2011,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,168.0 ,365,565,200,FACE,Rootbiomass,0.23 ,0.50 ,Duke FACE
+Phillips et al. 2011,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,168.0 ,365,565,200,FACE,MBC,0.38 ,0.50 ,Duke FACE
+Phillips et al. 2011,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,168.0 ,365,565,200,FACE,MBC,0.05 ,0.50 ,Duke FACE
+Phillips et al. 2011,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,168.0 ,365,565,200,FACE,MBC,0.00 ,0.50 ,Duke FACE
+Phillips et al. 2011,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,168.0 ,365,565,200,FACE,MBC,0.61 ,0.50 ,Duke FACE
+Pihlblad et al. 2023,Oceania,Australia,-33.62 ,150.73 ,23,17.5 ,800 ,Eucalyptus tereticornis,10,14,60.0 ,390,540,150,FACE,DOC,-0.02 ,0.67 ,EucFACE
+Pihlblad et al. 2023,Oceania,Australia,-33.62 ,150.73 ,23,17.5 ,800 ,Eucalyptus tereticornis,10,14,60.0 ,390,540,150,FACE,MBC,-0.03 ,0.67 ,EucFACE
+Pihlblad et al. 2023,Oceania,Australia,-33.62 ,150.73 ,23,17.5 ,800 ,Eucalyptus tereticornis,10,14,60.0 ,390,540,150,FACE,SoilCN,0.01 ,0.67 ,EucFACE
+Pihlblad et al. 2023,Oceania,Australia,-33.62 ,150.73 ,23,17.5 ,800 ,Eucalyptus tereticornis,10,14,60.0 ,390,540,150,FACE,SoilNH4+,-0.05 ,0.67 ,EucFACE
+Pihlblad et al. 2023,Oceania,Australia,-33.62 ,150.73 ,23,17.5 ,800 ,Eucalyptus tereticornis,10,14,60.0 ,390,540,150,FACE,SoilNO3-,0.39 ,0.67 ,EucFACE
+Pihlblad et al. 2023,Oceania,Australia,-33.62 ,150.73 ,23,17.5 ,800 ,Eucalyptus tereticornis,10,14,60.0 ,390,540,150,FACE,MBN,-0.10 ,0.67 ,EucFACE
+Pregitzer et al. 1995,North America,USA,45.57 ,-84.67 ,217 ,6.1 ,792 ,Populus x euramericana,seedling,9.93,5.0 ,345,693,348,OTC,Rootbiomass,0.25 ,0.67 ,
+Pregitzer et al. 1995,North America,USA,45.57 ,-84.67 ,217 ,6.1 ,792 ,Populus x euramericana,seedling,9.93,5.0 ,345,693,348,OTC,LeafCN,0.29 ,0.67 ,
+Pregitzer et al. 1995,North America,USA,45.57 ,-84.67 ,217 ,6.1 ,792 ,Populus x euramericana,seedling,9.93,5.0 ,345,693,348,OTC,Leaf[N],-0.30 ,0.67 ,
+Pregitzer et al. 1995,North America,USA,45.57 ,-84.67 ,217 ,6.1 ,792 ,Populus x euramericana,seedling,9.93,5.0 ,345,693,348,OTC,Stem[N],-0.09 ,0.67 ,
+Pregitzer et al. 1995,North America,USA,45.57 ,-84.67 ,217 ,6.1 ,792 ,Populus x euramericana,seedling,9.93,5.0 ,345,693,348,OTC,Leafbiomass,0.22 ,0.67 ,
+Pregitzer et al. 1995,North America,USA,45.57 ,-84.67 ,217 ,6.1 ,792 ,Populus x euramericana,seedling,9.93,5.0 ,345,693,348,OTC,Stembiomass,0.20 ,0.67 ,
+Pregitzer et al. 1995,North America,USA,45.57 ,-84.67 ,217 ,6.1 ,792 ,Populus x euramericana,seedling,9.93,5.0 ,345,693,348,OTC,StemCN,0.10 ,0.67 ,
+Pregitzer et al. 1995,North America,USA,45.57 ,-84.67 ,217 ,6.1 ,792 ,Populus x euramericana,seedling,9.93,5.0 ,345,693,348,OTC,RootCN,0.12 ,0.67 ,
+Pregitzer et al. 1995,North America,USA,45.57 ,-84.67 ,217 ,6.1 ,792 ,Populus x euramericana,seedling,9.93,5.0 ,345,693,348,OTC,Root[N],-0.08 ,0.67 ,
+Pregitzer et al. 1995,North America,USA,45.57 ,-84.67 ,217 ,6.1 ,792 ,Populus x euramericana,seedling,9.93,5.0 ,345,693,348,OTC,Rootbiomass,0.39 ,0.67 ,
+Pregitzer et al. 1995,North America,USA,45.57 ,-84.67 ,217 ,6.1 ,792 ,Populus x euramericana,seedling,9.93,5.0 ,345,693,348,OTC,LeafCN,-0.04 ,0.67 ,
+Pregitzer et al. 1995,North America,USA,45.57 ,-84.67 ,217 ,6.1 ,792 ,Populus x euramericana,seedling,9.93,5.0 ,345,693,348,OTC,Leaf[N],0.05 ,0.67 ,
+Pregitzer et al. 1995,North America,USA,45.57 ,-84.67 ,217 ,6.1 ,792 ,Populus x euramericana,seedling,9.93,5.0 ,345,693,348,OTC,Stem[N],0.05 ,0.67 ,
+Pregitzer et al. 1995,North America,USA,45.57 ,-84.67 ,217 ,6.1 ,792 ,Populus x euramericana,seedling,9.93,5.0 ,345,693,348,OTC,Leafbiomass,0.40 ,0.67 ,
+Pregitzer et al. 1995,North America,USA,45.57 ,-84.67 ,217 ,6.1 ,792 ,Populus x euramericana,seedling,9.93,5.0 ,345,693,348,OTC,Stembiomass,0.44 ,0.67 ,
+Pregitzer et al. 1995,North America,USA,45.57 ,-84.67 ,217 ,6.1 ,792 ,Populus x euramericana,seedling,9.93,5.0 ,345,693,348,OTC,StemCN,-0.04 ,0.67 ,
+Pregitzer et al. 1995,North America,USA,45.57 ,-84.67 ,217 ,6.1 ,792 ,Populus x euramericana,seedling,9.93,5.0 ,345,693,348,OTC,RootCN,0.08 ,0.67 ,
+Pregitzer et al. 1995,North America,USA,45.57 ,-84.67 ,217 ,6.1 ,792 ,Populus x euramericana,seedling,9.93,5.0 ,345,693,348,OTC,Root[N],-0.10 ,0.67 ,
+Pregitzer et al. 2000,North America,USA,40.70 ,-85.72 ,811,9.2 ,1001 ,Populus tremuloides,seedling,11.2 ,36.0 ,357,707,350,OTC,Rs,0.27 ,0.40 ,
+Pregitzer et al. 2000,North America,USA,40.70 ,-85.72 ,811,9.2 ,1001 ,Populus tremuloides,seedling,11.2 ,36.0 ,357,707,350,OTC,Rs,0.15 ,0.40 ,
+Pregitzer et al. 2006,North America,USA,45.68 ,-89.63 ,490,15.3 ,1069 ,Populus tremuloides,9,12.9,84.0 ,356,534,178,FACE,Rs,0.07 ,0.67 ,"FACTS-II, Aspen FACE"
+Pregitzer et al. 2006,North America,USA,45.68 ,-89.63 ,490,15.3 ,1069 ,Populus tremuloides,9,12.9,84.0 ,356,534,178,FACE,Rs,-0.01 ,0.67 ,"FACTS-II, Aspen FACE"
+Pregitzer et al. 2006,North America,USA,45.68 ,-89.63 ,490,15.3 ,1069 ,"Betula papyrifera, Populus tremuloides",9,12.9,84.0 ,356,534,178,FACE,Rs,0.06 ,0.67 ,"FACTS-II, Aspen FACE"
+Pregitzer et al. 2006,North America,USA,45.68 ,-89.63 ,490,15.3 ,1069 ,"Betula papyrifera, Populus tremuloides",9,12.9,84.0 ,356,534,178,FACE,Rs,0.13 ,0.67 ,"FACTS-II, Aspen FACE"
+Pregitzer et al. 2006,North America,USA,45.68 ,-89.63 ,490,15.0 ,1069 ,Populus tremuloides,9,12.9,84.0 ,356,534,178,FACE,Rs,0.10 ,0.67 ,"FACTS-II, Aspen FACE"
+Pregitzer et al. 2006,North America,USA,45.68 ,-89.63 ,490,15.0 ,1069 ,Populus tremuloides,9,12.9,84.0 ,356,534,178,FACE,Rs,0.64 ,0.67 ,"FACTS-II, Aspen FACE"
+Pregitzer et al. 2006,North America,USA,45.68 ,-89.63 ,490,15.0 ,1069 ,"Betula papyrifera, Populus tremuloides",9,12.9,84.0 ,356,534,178,FACE,Rs,0.07 ,0.67 ,"FACTS-II, Aspen FACE"
+Pregitzer et al. 2006,North America,USA,45.68 ,-89.63 ,490,15.0 ,1069 ,"Betula papyrifera, Populus tremuloides",9,12.9,84.0 ,356,534,178,FACE,Rs,0.38 ,0.67 ,"FACTS-II, Aspen FACE"
+Pregitzer et al. 2006,North America,USA,45.68 ,-89.63 ,490,14.3 ,1069 ,Populus tremuloides,9,12.9,84.0 ,356,534,178,FACE,Rs,0.06 ,0.67 ,"FACTS-II, Aspen FACE"
+Pregitzer et al. 2006,North America,USA,45.68 ,-89.63 ,490,14.3 ,1069 ,Populus tremuloides,9,12.9,84.0 ,356,534,178,FACE,Rs,0.53 ,0.67 ,"FACTS-II, Aspen FACE"
+Pregitzer et al. 2006,North America,USA,45.68 ,-89.63 ,490,14.3 ,1069 ,"Betula papyrifera, Populus tremuloides",9,12.9,84.0 ,356,534,178,FACE,Rs,0.02 ,0.67 ,"FACTS-II, Aspen FACE"
+Pregitzer et al. 2006,North America,USA,45.68 ,-89.63 ,490,14.3 ,1069 ,"Betula papyrifera, Populus tremuloides",9,12.9,84.0 ,356,534,178,FACE,Rs,0.31 ,0.67 ,"FACTS-II, Aspen FACE"
+Pregitzer et al. 2008,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,Populus tremuloides,9,12.9,120.0 ,356,534,178,FACE,Rootbiomass,0.24 ,0.67 ,"FACTS-II, Aspen FACE"
+Pregitzer et al. 2008,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,"Betula papyrifera, Populus tremuloides",9,12.9,120.0 ,356,534,178,FACE,Rootbiomass,0.11 ,0.67 ,"FACTS-II, Aspen FACE"
+Pregitzer et al. 2008,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,"Acer saccharum, Populus tremuloides",9,12.9,120.0 ,356,534,178,FACE,Rootbiomass,0.83 ,0.67 ,"FACTS-II, Aspen FACE"
+Pregitzer et al. 2008,North America,USA,45.68 ,-89.63 ,490,4.2 ,797 ,Populus tremuloides,seedling,12.9,72.0 ,,,,FACE,NFRP,0.11 ,0.67 ,"FACTS-II, Aspen FACE"
+Pregitzer et al. 2008,North America,USA,45.68 ,-89.63 ,490,4.2 ,797 ,Populus tremuloides,seedling,12.9,72.0 ,,,,FACE,NFRP,0.44 ,0.67 ,"FACTS-II, Aspen FACE"
+Pregitzer et al. 2008,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,Populus tremuloides,9,12.9,114.0 ,356,560,204,FACE,Rs,0.14 ,0.67 ,"FACTS-II, Aspen FACE"
+Pregitzer et al. 2008,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,Populus tremuloides,9,12.9,114.0 ,356,560,204,FACE,Rs,0.17 ,0.67 ,"FACTS-II, Aspen FACE"
+Pregitzer et al. 2008,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,"Betula papyrifera, Populus tremuloides",9,12.9,114.0 ,356,560,204,FACE,Rs,0.24 ,0.67 ,"FACTS-II, Aspen FACE"
+Pregitzer et al. 2008,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,"Betula papyrifera, Populus tremuloides",9,12.9,114.0 ,356,560,204,FACE,Rs,0.37 ,0.67 ,"FACTS-II, Aspen FACE"
+Pregitzer et al. 2008,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,"Acer saccharum, Populus tremuloides",9,12.9,114.0 ,356,560,204,FACE,Rs,0.18 ,0.67 ,"FACTS-II, Aspen FACE"
+Pregitzer et al. 2008,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,"Acer saccharum, Populus tremuloides",9,12.9,114.0 ,356,560,204,FACE,Rs,0.40 ,0.67 ,"FACTS-II, Aspen FACE"
+Pregitzer et al. 2008,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,Populus tremuloides,9,12.9,114.0 ,356,560,204,FACE,Rs,0.22 ,0.67 ,"FACTS-II, Aspen FACE"
+Pregitzer et al. 2008,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,Populus tremuloides,9,12.9,114.0 ,356,560,204,FACE,Rs,0.22 ,0.67 ,"FACTS-II, Aspen FACE"
+Pregitzer et al. 2008,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,"Betula papyrifera, Populus tremuloides",9,12.9,114.0 ,356,560,204,FACE,Rs,0.26 ,0.67 ,"FACTS-II, Aspen FACE"
+Pregitzer et al. 2008,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,"Betula papyrifera, Populus tremuloides",9,12.9,114.0 ,356,560,204,FACE,Rs,0.41 ,0.67 ,"FACTS-II, Aspen FACE"
+Pregitzer et al. 2008,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,"Acer saccharum, Populus tremuloides",9,12.9,114.0 ,356,560,204,FACE,Rs,0.26 ,0.67 ,"FACTS-II, Aspen FACE"
+Pregitzer et al. 2008,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,"Acer saccharum, Populus tremuloides",9,12.9,114.0 ,356,560,204,FACE,Rs,0.32 ,0.67 ,"FACTS-II, Aspen FACE"
+Pregitzer et al. 2008,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,Populus tremuloides,9,12.9,114.0 ,356,560,204,FACE,Rs,0.17 ,0.67 ,"FACTS-II, Aspen FACE"
+Pregitzer et al. 2008,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,Populus tremuloides,9,12.9,114.0 ,356,560,204,FACE,Rs,0.12 ,0.67 ,"FACTS-II, Aspen FACE"
+Pregitzer et al. 2008,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,"Betula papyrifera, Populus tremuloides",9,12.9,114.0 ,356,560,204,FACE,Rs,0.07 ,0.67 ,"FACTS-II, Aspen FACE"
+Pregitzer et al. 2008,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,"Betula papyrifera, Populus tremuloides",9,12.9,114.0 ,356,560,204,FACE,Rs,0.27 ,0.67 ,"FACTS-II, Aspen FACE"
+Pregitzer et al. 2008,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,"Acer saccharum, Populus tremuloides",9,12.9,114.0 ,356,560,204,FACE,Rs,0.34 ,0.67 ,"FACTS-II, Aspen FACE"
+Pregitzer et al. 2008,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,"Acer saccharum, Populus tremuloides",9,12.9,114.0 ,356,560,204,FACE,Rs,0.26 ,0.67 ,"FACTS-II, Aspen FACE"
+Pritchard et al. 2008,North America,USA,35.97 ,-79.08 ,163,15.0 ,1134 ,Pinus taeda,18,18.1,120.0 ,363,563,200,FACE,NFRP,0.28 ,0.67 ," FACTS-1, Duke FACE"
+Pritchard et al. 2008,North America,USA,35.97 ,-79.08 ,163,15.0 ,1134 ,Pinus taeda,18,18.1,120.0 ,363,563,200,FACE,NFRP,0.25 ,0.67 ," FACTS-1, Duke FACE"
+Pritchard et al. 2008,North America,USA,35.97 ,-79.08 ,163,15.0 ,1134 ,Pinus taeda,18,18.1,120.0 ,363,563,200,FACE,NFRP,0.29 ,0.67 ," FACTS-1, Duke FACE"
+Pritchard et al. 2008,North America,USA,35.97 ,-79.08 ,163,15.0 ,1134 ,Pinus taeda,18,18.1,120.0 ,363,563,200,FACE,NFRP,0.05 ,0.67 ," FACTS-1, Duke FACE"
+Rebbeck et al.  2002,North America,USA,40.35 ,-78.65 ,741 ,8.2 ,1081 ,Liriodendron tulipifera,seedling,18.9 ,60.0 ,360,700,340,OTC,Rootbiomass,0.00 ,0.67 ,
+Rebbeck et al.  2002,North America,USA,40.35 ,-78.65 ,741 ,8.2 ,1081 ,Liriodendron tulipifera,seedling,18.9 ,60.0 ,360,700,340,OTC,Leafbiomass,0.00 ,0.67 ,
+Rebbeck et al.  2002,North America,USA,40.35 ,-78.65 ,741 ,8.2 ,1081 ,Liriodendron tulipifera,seedling,18.9 ,60.0 ,360,700,340,OTC,Stembiomass,0.00 ,0.67 ,
+Richter et al. 2002,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,48.0 ,365,565,200,FACE,NPP,0.22 ,0.67 ,Duke FACE
+Richter et al. 2002,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,48.0 ,365,565,200,FACE,NPP,0.22 ,0.67 ,Duke FACE
+Richter et al. 2002,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,48.0 ,365,565,200,FACE,N2O,0.00 ,0.67 ,Duke FACE
+Richter et al. 2002,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,48.0 ,365,565,200,FACE,N2O,0.00 ,0.67 ,Duke FACE
+Richter et al. 2002,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,48.0 ,365,565,200,FACE,N2O,0.00 ,0.67 ,Duke FACE
+Richter et al. 2002,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,48.0 ,365,565,200,FACE,N2O,0.00 ,0.67 ,Duke FACE
+Richter et al. 2002,North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,48.0 ,365,565,200,FACE,NUE,0.10 ,0.67 ,Duke FACE
+Riikonen et al.  2004,Europe,Finland,62.65 ,27.05 ,120,2.9 ,625 ,Betula pendula,25-30,36.1 ,36.0 ,373,730,357,OTC,Leafbiomass,-0.04 ,0.67 ,
+Riikonen et al.  2004,Europe,Finland,62.65 ,27.05 ,120,2.9 ,625 ,Betula pendula,25-30,36.1 ,36.0 ,373,730,357,OTC,Leafbiomass,0.32 ,0.67 ,
+Riikonen et al.  2004,Europe,Finland,62.65 ,27.05 ,120,2.9 ,625 ,Betula pendula,25-30,36.1 ,36.0 ,373,730,357,OTC,Leafbiomass,0.16 ,0.67 ,
+Riikonen et al.  2004,Europe,Finland,62.65 ,27.05 ,120,2.9 ,625 ,Betula pendula,25-30,36.1 ,36.0 ,373,730,357,OTC,Stembiomass,0.04 ,0.67 ,
+Riikonen et al.  2004,Europe,Finland,62.65 ,27.05 ,120,2.9 ,625 ,Betula pendula,25-30,36.1 ,36.0 ,373,730,357,OTC,Stembiomass,0.34 ,0.67 ,
+Riikonen et al.  2004,Europe,Finland,62.65 ,27.05 ,120,2.9 ,625 ,Betula pendula,25-30,36.1 ,36.0 ,373,730,357,OTC,Stembiomass,0.21 ,0.67 ,
+Riikonen et al.  2004,Europe,Finland,62.65 ,27.05 ,120,2.9 ,625 ,Betula pendula,25-30,36.1 ,36.0 ,373,730,357,OTC,Rootbiomass,-0.05 ,0.67 ,
+Riikonen et al.  2004,Europe,Finland,62.65 ,27.05 ,120,2.9 ,625 ,Betula pendula,25-30,36.1 ,36.0 ,373,730,357,OTC,Rootbiomass,0.36 ,0.67 ,
+Riikonen et al.  2004,Europe,Finland,62.65 ,27.05 ,120,2.9 ,625 ,Betula pendula,25-30,36.1 ,36.0 ,373,730,357,OTC,Rootbiomass,0.17 ,0.67 ,
+Riikonen et al.  2015,Europe,Finland,62.65 ,27.05 ,120,2.9 ,625 ,Betula pendula,25-30,36.1 ,36.0 ,373,729,356,OTC,WUE,0.43 ,0.50 ,
+Riikonen et al.  2015,Europe,Finland,62.65 ,27.05 ,120,2.9 ,625 ,Betula pendula,25-30,36.1 ,36.0 ,373,729,356,OTC,WUE,0.58 ,0.50 ,
+Riikonen et al.  2015,Europe,Finland,62.65 ,27.05 ,120,2.9 ,625 ,Betula pendula,25-30,36.1 ,36.0 ,373,729,356,OTC,WUE,0.22 ,0.50 ,
+Rodenkirchen et al.  2009,Europe,Germany,48.15 ,11.57 ,520 ,9.4 ,946 ,Fagus sylvatica,2-3,17.5 ,24.0 ,350,650,300,Greenhouse,Rootbiomass,0.23 ,1.00 ,
+Rodenkirchen et al.  2009,Europe,Germany,48.15 ,11.57 ,520 ,9.4 ,946 ,"Fagus sylvatica, Picea abies",2-3,17.5 ,24.0 ,350,650,300,Greenhouse,Rootbiomass,-0.68 ,1.00 ,
+Rodenkirchen et al.  2009,Europe,Germany,48.15 ,11.57 ,520 ,9.4 ,946 ,Picea abies,2-3,17.5 ,24.0 ,350,650,300,Greenhouse,Rootbiomass,0.24 ,1.00 ,
+Rodenkirchen et al.  2009,Europe,Germany,48.15 ,11.57 ,520 ,9.4 ,946 ,"Fagus sylvatica, Picea abies",2-3,17.5 ,24.0 ,350,650,300,Greenhouse,Rootbiomass,0.72 ,1.00 ,
+Rodenkirchen et al.  2009,Europe,Germany,48.15 ,11.57 ,520 ,9.4 ,946 ,Fagus sylvatica,2-3,17.5 ,24.0 ,350,650,300,Greenhouse,Leaf[N],-0.20 ,1.00 ,
+Rodenkirchen et al.  2009,Europe,Germany,48.15 ,11.57 ,520 ,9.4 ,946 ,"Fagus sylvatica, Picea abies",2-3,17.5 ,24.0 ,350,650,300,Greenhouse,Leaf[N],-0.36 ,1.00 ,
+Rodenkirchen et al.  2009,Europe,Germany,48.15 ,11.57 ,520 ,9.4 ,946 ,Picea abies,2-3,17.5 ,24.0 ,350,650,300,Greenhouse,Leaf[N],-0.18 ,1.00 ,
+Rodenkirchen et al.  2009,Europe,Germany,48.15 ,11.57 ,520 ,9.4 ,946 ,"Fagus sylvatica, Picea abies",2-3,17.5 ,24.0 ,350,650,300,Greenhouse,Leaf[N],-0.21 ,1.00 ,
+Rodenkirchen et al.  2009,Europe,Germany,48.15 ,11.57 ,520 ,9.4 ,946 ,Fagus sylvatica,2-3,17.5 ,24.0 ,350,650,300,Greenhouse,Stem[N],-0.24 ,1.00 ,
+Rodenkirchen et al.  2009,Europe,Germany,48.15 ,11.57 ,520 ,9.4 ,946 ,"Fagus sylvatica, Picea abies",2-3,17.5 ,24.0 ,350,650,300,Greenhouse,Stem[N],-0.62 ,1.00 ,
+Rodenkirchen et al.  2009,Europe,Germany,48.15 ,11.57 ,520 ,9.4 ,946 ,Picea abies,2-3,17.5 ,24.0 ,350,650,300,Greenhouse,Stem[N],-0.11 ,1.00 ,
+Rodenkirchen et al.  2009,Europe,Germany,48.15 ,11.57 ,520 ,9.4 ,946 ,"Fagus sylvatica, Picea abies",2-3,17.5 ,24.0 ,350,650,300,Greenhouse,Stem[N],-0.15 ,1.00 ,
+Rodenkirchen et al.  2009,Europe,Germany,48.15 ,11.57 ,520 ,9.4 ,946 ,Fagus sylvatica,2-3,17.5 ,24.0 ,350,650,300,Greenhouse,Leafbiomass,-0.31 ,1.00 ,
+Rodenkirchen et al.  2009,Europe,Germany,48.15 ,11.57 ,520 ,9.4 ,946 ,"Fagus sylvatica, Picea abies",2-3,17.5 ,24.0 ,350,650,300,Greenhouse,Leafbiomass,-0.20 ,1.00 ,
+Rodenkirchen et al.  2009,Europe,Germany,48.15 ,11.57 ,520 ,9.4 ,946 ,Picea abies,2-3,17.5 ,24.0 ,350,650,300,Greenhouse,Leafbiomass,0.10 ,1.00 ,
+Rodenkirchen et al.  2009,Europe,Germany,48.15 ,11.57 ,520 ,9.4 ,946 ,"Fagus sylvatica, Picea abies",2-3,17.5 ,24.0 ,350,650,300,Greenhouse,Leafbiomass,0.44 ,1.00 ,
+Rodenkirchen et al.  2009,Europe,Germany,48.15 ,11.57 ,520 ,9.4 ,946 ,Fagus sylvatica,2-3,17.5 ,24.0 ,350,650,300,Greenhouse,Stembiomass,-0.02 ,1.00 ,
+Rodenkirchen et al.  2009,Europe,Germany,48.15 ,11.57 ,520 ,9.4 ,946 ,"Fagus sylvatica, Picea abies",2-3,17.5 ,24.0 ,350,650,300,Greenhouse,Stembiomass,-0.40 ,1.00 ,
+Rodenkirchen et al.  2009,Europe,Germany,48.15 ,11.57 ,520 ,9.4 ,946 ,Picea abies,2-3,17.5 ,24.0 ,350,650,300,Greenhouse,Stembiomass,0.08 ,1.00 ,
+Rodenkirchen et al.  2009,Europe,Germany,48.15 ,11.57 ,520 ,9.4 ,946 ,"Fagus sylvatica, Picea abies",2-3,17.5 ,24.0 ,350,650,300,Greenhouse,Stembiomass,0.35 ,1.00 ,
+Rodenkirchen et al.  2009,Europe,Germany,48.15 ,11.57 ,520 ,9.4 ,946 ,Fagus sylvatica,2-3,17.5 ,24.0 ,350,650,300,Greenhouse,Root[N],-0.13 ,1.00 ,
+Rodenkirchen et al.  2009,Europe,Germany,48.15 ,11.57 ,520 ,9.4 ,946 ,"Fagus sylvatica, Picea abies",2-3,17.5 ,24.0 ,350,650,300,Greenhouse,Root[N],-0.04 ,1.00 ,
+Rodenkirchen et al.  2009,Europe,Germany,48.15 ,11.57 ,520 ,9.4 ,946 ,Picea abies,2-3,17.5 ,24.0 ,350,650,300,Greenhouse,Root[N],-0.24 ,1.00 ,
+Rodenkirchen et al.  2009,Europe,Germany,48.15 ,11.57 ,520 ,9.4 ,946 ,"Fagus sylvatica, Picea abies",2-3,17.5 ,24.0 ,350,650,300,Greenhouse,Root[N],-0.22 ,1.00 ,
+Rodenkirchen et al. 2009,Europe,Germany,48.15 ,11.57 ,520 ,9.4 ,946 ,Fagus sylvatica,2-3,17.5 ,24.0 ,350,650,300,Greenhouse,NUE,0.22 ,1.00 ,
+Rodenkirchen et al. 2009,Europe,Germany,48.15 ,11.57 ,520 ,9.4 ,946 ,"Fagus sylvatica, Picea abies",2-3,17.5 ,24.0 ,350,650,300,Greenhouse,NUE,0.34 ,1.00 ,
+Rodenkirchen et al. 2009,Europe,Germany,48.15 ,11.57 ,520 ,9.4 ,946 ,Picea abies,2-3,17.5 ,24.0 ,350,650,300,Greenhouse,NUE,-0.42 ,1.00 ,
+Rodenkirchen et al. 2009,Europe,Germany,48.15 ,11.57 ,520 ,9.4 ,946 ,"Fagus sylvatica, Picea abies",2-3,17.5 ,24.0 ,350,650,300,Greenhouse,NUE,-0.78 ,1.00 ,
+Ross et al.  2006,Oceania,New Zealand,-43.53 ,172.70 ,7 ,12.2 ,616 ,Pinus radiata,seedling,6.8,72.0 ,362,654,292,OTC,SOC,0.31 ,0.67 ,
+Ross et al.  2006,Oceania,New Zealand,-43.53 ,172.70 ,7 ,12.2 ,616 ,Pinus radiata,seedling,6.8,72.0 ,362,654,292,OTC,SOC,0.37 ,0.67 ,
+Ross et al.  2006,Oceania,New Zealand,-43.53 ,172.70 ,7 ,12.2 ,616 ,Pinus radiata,seedling,6.8,72.0 ,362,654,292,OTC,MBC,0.61 ,0.67 ,
+Ross et al.  2006,Oceania,New Zealand,-43.53 ,172.70 ,7 ,12.2 ,616 ,Pinus radiata,seedling,6.8,72.0 ,362,654,292,OTC,MBC,0.73 ,0.67 ,
+Ross et al.  2006,Oceania,New Zealand,-43.53 ,172.70 ,7 ,12.2 ,616 ,Pinus radiata,seedling,6.8,72.0 ,362,654,292,OTC,SoilCN,-0.04 ,0.67 ,
+Ross et al.  2006,Oceania,New Zealand,-43.53 ,172.70 ,7 ,12.2 ,616 ,Pinus radiata,seedling,6.8,72.0 ,362,654,292,OTC,SoilCN,0.23 ,0.67 ,
+Ross et al.  2006,Oceania,New Zealand,-43.53 ,172.70 ,7 ,12.2 ,616 ,Pinus radiata,seedling,6.8,72.0 ,362,654,292,OTC,MBN,0.10 ,0.67 ,
+Ross et al.  2006,Oceania,New Zealand,-43.53 ,172.70 ,7 ,12.2 ,616 ,Pinus radiata,seedling,6.8,72.0 ,362,654,292,OTC,MBN,0.14 ,0.67 ,
+Ross et al. 2006,Oceania,New Zealand,-43.53 ,172.70 ,7 ,12.2 ,616 ,Pinus radiata,seedling,6.8,72.0 ,362,654,292,OTC,Rs,0.68 ,1.00 ,
+Ross et al. 2006,Oceania,New Zealand,-43.53 ,172.70 ,7 ,12.2 ,616 ,Nothofagus fusca,seedling,6.8,72.0 ,362,654,292,OTC,Rs,0.21 ,1.00 ,
+Runion et al.  2011,North America,USA,32.59 ,-85.51 ,195 ,17.4 ,1437 ,Lantana camara,seedling,16.6 ,4.0 ,375,575,200,OTC,NUE,0.27 ,0.67 ,
+Runion et al.  2011,North America,USA,32.59 ,-85.51 ,195 ,17.4 ,1437 ,Catharanthus roseus,seedling,16.6 ,4.0 ,375,575,200,OTC,NUE,0.19 ,0.67 ,
+Runion et al.  2011,North America,USA,32.59 ,-85.51 ,195 ,17.4 ,1437 ,Lantana camara,seedling,16.6 ,4.0 ,375,575,200,OTC,LeafCN,0.28 ,0.67 ,
+Runion et al.  2011,North America,USA,32.59 ,-85.51 ,195 ,17.4 ,1437 ,Catharanthus roseus,seedling,16.6 ,4.0 ,375,575,200,OTC,LeafCN,0.27 ,0.67 ,
+Runion et al.  2011,North America,USA,32.59 ,-85.51 ,195 ,17.4 ,1437 ,Lantana camara,seedling,16.6 ,4.0 ,375,575,200,OTC,Stem[N],-0.11 ,0.67 ,
+Runion et al.  2011,North America,USA,32.59 ,-85.51 ,195 ,17.4 ,1437 ,Catharanthus roseus,seedling,16.6 ,4.0 ,375,575,200,OTC,Stem[N],-0.09 ,0.67 ,
+Runion et al.  2011,North America,USA,32.59 ,-85.51 ,195 ,17.4 ,1437 ,Lantana camara,seedling,16.6 ,4.0 ,375,575,200,OTC,StemCN,0.06 ,0.67 ,
+Runion et al.  2011,North America,USA,32.59 ,-85.51 ,195 ,17.4 ,1437 ,Catharanthus roseus,seedling,16.6 ,4.0 ,375,575,200,OTC,StemCN,0.09 ,0.67 ,
+Runion et al.  2011,North America,USA,32.59 ,-85.51 ,195 ,17.4 ,1437 ,Lantana camara,seedling,16.6 ,4.0 ,375,575,200,OTC,RootCN,0.07 ,0.67 ,
+Runion et al.  2011,North America,USA,32.59 ,-85.51 ,195 ,17.4 ,1437 ,Catharanthus roseus,seedling,16.6 ,4.0 ,375,575,200,OTC,RootCN,0.12 ,0.67 ,
+Runion et al.  2011,North America,USA,32.59 ,-85.51 ,195 ,17.4 ,1437 ,Lantana camara,seedling,16.6 ,4.0 ,375,575,200,OTC,Root[N],-0.07 ,0.67 ,
+Runion et al.  2011,North America,USA,32.59 ,-85.51 ,195 ,17.4 ,1437 ,Catharanthus roseus,seedling,16.6 ,4.0 ,375,575,200,OTC,Root[N],-0.11 ,0.67 ,
+Runion et al.  2011,North America,USA,32.59 ,-85.51 ,195 ,17.4 ,1437 ,Catharanthus roseus,seedling,16.6 ,4.0 ,375,575,200,OTC,Stem[C],-0.05 ,0.67 ,
+Runion et al.  2011,North America,USA,32.59 ,-85.51 ,195 ,17.4 ,1437 ,Catharanthus roseus,seedling,16.6 ,4.0 ,375,575,200,OTC,Stem[C],0.00 ,0.67 ,
+Runion et al.  2011,North America,USA,32.59 ,-85.51 ,195 ,17.4 ,1437 ,Catharanthus roseus,seedling,16.6 ,4.0 ,375,575,200,OTC,Root[C],0.00 ,0.67 ,
+Runion et al.  2011,North America,USA,32.59 ,-85.51 ,195 ,17.4 ,1437 ,Catharanthus roseus,seedling,16.6 ,4.0 ,375,575,200,OTC,Root[C],0.01 ,0.67 ,
+Sanchez-Lucas et al. 2023,Europe,UK,52.80 ,-2.30 ,99 ,10.5 ,720 ,Quercus robur,seedling,26.9 ,48.0 ,400,1000,600,FACE,Rootbiomass,-0.02 ,0.67 ,BIFoR-FACE
+Sanchez-Lucas et al. 2024,Europe,UK,52.80 ,-2.30 ,99 ,10.5 ,720 ,Quercus robur,seedling,26.9 ,48.0 ,400,1000,600,FACE,Stembiomass,-0.23 ,0.67 ,BIFoR-FACE
+Sanders et al. 2004,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,48.0 ,384,565,181,FACE,ANPP,-0.69 ,1.00 ,Oak Ridge FACE
+Sanders et al. 2004,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,48.0 ,384,565,181,FACE,ANPP,1.41 ,1.00 ,Oak Ridge FACE
+Sanders et al. 2004,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,48.0 ,384,565,181,FACE,ANPP,-0.63 ,1.00 ,Oak Ridge FACE
+Sanders et al. 2004,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,48.0 ,384,565,181,FACE,ANPP,1.61 ,1.00 ,Oak Ridge FACE
+Sanders et al. 2004,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,48.0 ,384,565,181,FACE,ANPP,3.09 ,1.00 ,Oak Ridge FACE
+Schleppi et al. 2012,Europe,Switzerland,47.47 ,7.50 ,550,9.5 ,880 ,"Fagus sylvatica, Quercus robur, Quercus petraea, Carpinus betulus",100,24.9,96.0 ,350,550,200,FACE,SoilNO3-,0.79 ,0.17 ,
+Schleppi et al. 2012,Europe,Switzerland,47.47 ,7.50 ,550,9.5 ,880 ,"Fagus sylvatica, Quercus robur, Quercus petraea, Carpinus betulus",100,24.9,96.0 ,350,550,200,FACE,SoilNO3-,1.29 ,0.17 ,
+"Schlesinger and Lichter, 2002",North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,36.0 ,365,565,200,FACE,SOC,0.19 ,0.67 ,Duke FACE
+"Schlesinger and Lichter, 2002",North America,USA,35.97 ,-79.08 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,36.0 ,365,565,200,FACE,SoilCN,0.05 ,0.67 ,Duke FACE
+Schlesinger et al. 2006,North America,USA,35.95 ,-79.15 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,12.0 ,363,563,200,FACE,ANPP,0.00 ,0.67 ,Duke FACE
+Schlesinger et al. 2006,North America,USA,35.95 ,-79.15 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,24.0 ,363,563,200,FACE,ANPP,0.17 ,0.67 ,Duke FACE
+Schlesinger et al. 2006,North America,USA,35.95 ,-79.15 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,36.0 ,363,563,200,FACE,ANPP,0.21 ,0.67 ,Duke FACE
+Schlesinger et al. 2006,North America,USA,35.95 ,-79.15 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,48.0 ,363,563,200,FACE,ANPP,0.18 ,0.67 ,Duke FACE
+Schlesinger et al. 2006,North America,USA,35.95 ,-79.15 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,60.0 ,363,563,200,FACE,ANPP,0.17 ,0.67 ,Duke FACE
+Schlesinger et al. 2006,North America,USA,35.95 ,-79.15 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,72.0 ,363,563,200,FACE,ANPP,0.16 ,0.67 ,Duke FACE
+Schlesinger et al. 2006,North America,USA,35.95 ,-79.15 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,84.0 ,363,563,200,FACE,ANPP,0.22 ,0.67 ,Duke FACE
+Shi et al.  2016,Asia,Japan,36.00 ,140.08 ,20,14.0 ,1396 ,"Quercus serrata, Quercus mongolica",2-3,31.3 ,4.0 ,377,546,169,FACE,Leaf[N],-0.22 ,0.67 ,
+Shi et al.  2016,Asia,Japan,36.00 ,140.08 ,20,14.0 ,1396 ,"Quercus serrata, Quercus mongolica",2-3,31.3 ,4.0 ,377,546,169,FACE,Leaf[N],-0.10 ,0.67 ,
+Sholtis et al. 2004,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,12.0 ,384,565,181,FACE,NUE,0.55 ,1.00 ,Oak Ridge FACE
+Sholtis et al. 2004,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,12.0 ,384,565,181,FACE,NUE,0.38 ,1.00 ,Oak Ridge FACE
+Sholtis et al. 2004,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,24.0 ,384,565,181,FACE,NUE,0.18 ,1.00 ,Oak Ridge FACE
+Sholtis et al. 2004,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,24.0 ,384,565,181,FACE,NUE,0.29 ,1.00 ,Oak Ridge FACE
+Sholtis et al. 2004,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,24.0 ,384,565,181,FACE,NUE,0.51 ,1.00 ,Oak Ridge FACE
+Sholtis et al. 2004,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,24.0 ,384,565,181,FACE,NUE,0.31 ,1.00 ,Oak Ridge FACE
+Sholtis et al. 2004,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,24.0 ,384,565,181,FACE,NUE,0.65 ,1.00 ,Oak Ridge FACE
+Sholtis et al. 2004,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,36.0 ,384,565,181,FACE,NUE,0.39 ,1.00 ,Oak Ridge FACE
+Sholtis et al. 2004,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,36.0 ,384,565,181,FACE,NUE,0.42 ,1.00 ,Oak Ridge FACE
+Sholtis et al. 2004,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,Liquidambar styraciflua,10,7.4,36.0 ,384,565,181,FACE,NUE,0.44 ,1.00 ,Oak Ridge FACE
+Smith et al.  2013,North America,USA,38.99 ,-76.94 ,34 ,13.4 ,1107 ,Quercus alba,seedling,16.1 ,6.0 ,388,878,490,Growth Chamber,LeafCN,0.01 ,0.67 ,
+Smith et al.  2013,North America,USA,38.99 ,-76.94 ,34 ,13.4 ,1107 ,Quercus alba,seedling,16.1 ,6.0 ,388,878,490,Growth Chamber,Leaf[C],0.02 ,0.67 ,
+Smith et al.  2013,North America,USA,38.99 ,-76.94 ,34 ,13.4 ,1107 ,Quercus alba,seedling,16.1 ,6.0 ,388,878,490,Growth Chamber,Leaf[N],-0.01 ,0.67 ,
+Smith et al.  2013,North America,USA,38.99 ,-76.94 ,34 ,13.4 ,1107 ,Quercus alba,seedling,16.1 ,72.0 ,388,878,490,Growth Chamber,Leafbiomass,0.56 ,0.67 ,
+Smith et al. 2013,Europe,UK,53.23 ,-4.02 ,162 ,11.5 ,1034 ,Alnus glutinosa,seedling,10.97,48.0 ,380,580,200,FACE,Rootbiomass,0.25 ,0.67 ,Bangor FACE
+Smith et al. 2013,Europe,UK,53.23 ,-4.02 ,162 ,11.5 ,1034 ,Betula pendula,seedling,10.97,48.0 ,380,580,200,FACE,Rootbiomass,0.84 ,0.67 ,Bangor FACE
+Smith et al. 2013,Europe,UK,53.23 ,-4.02 ,162 ,11.5 ,1034 ,Fagus sylvatica,seedling,10.97,48.0 ,380,580,200,FACE,Rootbiomass,-0.18 ,0.67 ,Bangor FACE
+Smith et al. 2013,Europe,UK,53.23 ,-4.02 ,162 ,11.5 ,1034 ,"Alnus glutinosa, Betula pendula and Fagus sylvatica",seedling,10.97,48.0 ,380,580,200,FACE,Rootbiomass,-0.10 ,0.67 ,Bangor FACE
+Smith et al. 2013,Europe,UK,53.23 ,-4.02 ,162 ,11.5 ,1034 ,"Alnus glutinosa, Betula pendula and Fagus sylvatica",seedling,10.97,48.0 ,380,580,200,FACE,NUE,0.45 ,0.50 ,Bangor FACE
+Smith et al. 2013,Europe,UK,53.23 ,-4.02 ,162 ,11.5 ,1034 ,"Alnus glutinosa, Betula pendula and Fagus sylvatica",seedling,10.97,48.0 ,380,580,200,FACE,NUE,0.16 ,0.50 ,Bangor FACE
+Smith et al. 2013,Europe,UK,53.23 ,-4.02 ,162 ,11.5 ,1034 ,"Alnus glutinosa, Betula pendula and Fagus sylvatica",seedling,10.97,48.0 ,380,580,200,FACE,NUE,0.36 ,0.50 ,Bangor FACE
+Smith et al. 2013,Europe,UK,53.23 ,-4.02 ,162 ,11.5 ,1034 ,"Alnus glutinosa, Betula pendula and Fagus sylvatica",seedling,10.97,48.0 ,380,580,200,FACE,NUE,0.22 ,0.50 ,Bangor FACE
+Smith et al. 2013,Europe,UK,53.23 ,-4.02 ,162 ,11.5 ,1034 ,"Alnus glutinosa, Betula pendula and Fagus sylvatica",seedling,10.97,48.0 ,380,580,200,FACE,NUE,0.02 ,0.50 ,Bangor FACE
+Smith et al. 2013,Europe,UK,53.23 ,-4.02 ,162 ,11.5 ,1034 ,"Alnus glutinosa, Betula pendula and Fagus sylvatica",seedling,10.97,48.0 ,380,580,200,FACE,NUE,0.20 ,0.50 ,Bangor FACE
+Smith et al. 2013,Europe,UK,53.23 ,-4.02 ,162 ,11.5 ,1034 ,"Alnus glutinosa, Betula pendula and Fagus sylvatica",seedling,10.97,48.0 ,380,580,200,FACE,NUE,0.13 ,0.50 ,Bangor FACE
+Smith et al. 2013,Europe,UK,53.23 ,-4.02 ,162 ,11.5 ,1034 ,"Alnus glutinosa, Betula pendula and Fagus sylvatica",seedling,10.97,48.0 ,380,580,200,FACE,NUE,0.82 ,0.50 ,Bangor FACE
+Spinnler et al. 2002,Europe,Switzerland,46.58 ,8.38 ,2236 ,10.0 ,1239 ,"Fagus sylvatica, Picea abies",seedling,,48.0 ,370,570,200,OTC,Rootbiomass,-0.04 ,0.67 ,
+Spinnler et al. 2002,Europe,Switzerland,46.58 ,8.38 ,2236 ,10.0 ,1239 ,"Fagus sylvatica, Picea abies",seedling,,48.0 ,370,570,200,OTC,Rootbiomass,0.02 ,0.67 ,
+Spinnler et al. 2002,Europe,Switzerland,46.58 ,8.38 ,2236 ,10.0 ,1239 ,"Fagus sylvatica, Picea abies",seedling,,48.0 ,370,570,200,OTC,Rootbiomass,0.30 ,0.67 ,
+Spinnler et al. 2002,Europe,Switzerland,46.58 ,8.38 ,2236 ,10.0 ,1239 ,"Fagus sylvatica, Picea abies",seedling,,48.0 ,370,570,200,OTC,Rootbiomass,0.18 ,0.67 ,
+Spinnler et al. 2002,Europe,Switzerland,47.36 ,8.46 ,545,10.0 ,691 ,"Fagus sylvatica, Picea abies",3,15.5,48.0 ,370,570,200,OTC,Rs,-0.24 ,0.50 ,
+Spinnler et al. 2002,Europe,Switzerland,47.36 ,8.46 ,545,10.0 ,691 ,"Fagus sylvatica, Picea abies",3,15.5,48.0 ,370,570,200,OTC,Rs,-0.40 ,0.50 ,
+Spinnler et al. 2002,Europe,Switzerland,47.36 ,8.46 ,545,10.0 ,691 ,"Fagus sylvatica, Picea abies",3,15.5,48.0 ,370,570,200,OTC,Rs,0.26 ,0.50 ,
+Spinnler et al. 2002,Europe,Switzerland,47.36 ,8.46 ,545,10.0 ,691 ,"Fagus sylvatica, Picea abies",3,15.5,48.0 ,370,570,200,OTC,Rs,0.16 ,0.50 ,
+Spinnler et al. 2002,Europe,Switzerland,47.36 ,8.46 ,545,10.0 ,691 ,"Fagus sylvatica, Picea abies",3,15.5,48.0 ,370,570,200,OTC,Rs,0.19 ,0.50 ,
+Spinnler et al. 2002,Europe,Switzerland,47.36 ,8.46 ,545,10.0 ,691 ,"Fagus sylvatica, Picea abies",3,15.5,48.0 ,370,570,200,OTC,Rs,0.15 ,0.50 ,
+Spinnler et al. 2002,Europe,Switzerland,47.36 ,8.46 ,545,10.0 ,691 ,"Fagus sylvatica, Picea abies",3,15.5,48.0 ,370,570,200,OTC,Rs,0.11 ,0.50 ,
+Sun et al.  2017,Asia,China,42.40 ,128.10 ,750 ,3.6 ,745 ,Quercus mongolica,2,13.6,120.0 ,400,580,180,OTC,DOC,0.21 ,0.67 ,
+Sun et al.  2017,Asia,China,42.40 ,128.10 ,750 ,3.6 ,745 ,Quercus mongolica,2,13.6,120.0 ,400,580,180,OTC,MBC,0.02 ,0.67 ,
+Sun et al.  2017,Asia,China,42.40 ,128.10 ,750 ,3.6 ,745 ,Quercus mongolica,2,13.6,120.0 ,400,580,180,OTC,SoilCN,0.05 ,0.67 ,
+Sun et al.  2017,Asia,China,42.40 ,128.10 ,750 ,3.6 ,745 ,Quercus mongolica,2,13.6,120.0 ,400,580,180,OTC,MBN,0.03 ,0.67 ,
+Sun et al. 2017,Asia,China,42.40 ,128.10 ,750 ,3.6 ,745 ,Quercus mongolica,2,13.6,120.0 ,400,580,180,OTC,N2O,0.05 ,0.67 ,
+Sun et al. 2017,Asia,China,42.40 ,128.10 ,750 ,3.6 ,745 ,Quercus mongolica,2,13.6,120.0 ,400,580,180,OTC,SOC,0.01 ,0.67 ,
+Sun et al. 2018,Asia,China,42.40 ,128.10 ,750 ,3.6 ,745 ,Quercus mongolica,2,13.6,120.0 ,400,580,180,OTC,Anet,0.21 ,0.67 ,
+Sun et al. 2018,Asia,China,42.40 ,128.10 ,750 ,3.6 ,745 ,Quercus mongolica,2,13.6,120.0 ,400,580,180,OTC,Nmin,0.35 ,0.67 ,
+Sun et al. 2018,Asia,China,42.40 ,128.10 ,750 ,3.6 ,745 ,Quercus mongolica,2,13.6,120.0 ,400,580,180,OTC,Nit,1.22 ,0.67 ,
+Takeuchi et al.  2001,North America,USA,45.60 ,-89.50 ,490,8.8 ,632 ,Populus tremuloides,9,12.9,6.0 ,400,600,200,FACE,Leaf[N],-0.24 ,0.67 ,"FACTS-II, Aspen FACE"
+Talhelm et al.  2009,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,Populus tremuloides,9,12.9,132.0 ,360,520,160,FACE,SOC,-0.40 ,0.67 ,"FACTS-II, Aspen FACE"
+Talhelm et al.  2009,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,Populus tremuloides,9,12.9,132.0 ,360,520,160,FACE,SOC,-0.26 ,0.67 ,"FACTS-II, Aspen FACE"
+Talhelm et al.  2009,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,"Acer saccharum, Populus tremuloides",9,12.9,132.0 ,360,520,160,FACE,SOC,0.10 ,0.67 ,"FACTS-II, Aspen FACE"
+Talhelm et al.  2014,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,Populus tremuloides,9,12.9,132.0 ,369,532,163,FACE,Leaf[C],-0.28 ,0.67 ,"FACTS-II, Aspen FACE"
+Talhelm et al.  2014,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,Populus tremuloides,9,12.9,132.0 ,369,532,163,FACE,Leaf[C],-0.12 ,0.67 ,"FACTS-II, Aspen FACE"
+Talhelm et al.  2014,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,Populus tremuloides,9,12.9,132.0 ,369,532,163,FACE,Leaf[C],0.09 ,0.67 ,"FACTS-II, Aspen FACE"
+Talhelm et al.  2014,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,Populus tremuloides,9,12.9,132.0 ,369,532,163,FACE,Leafbiomass,0.26 ,0.67 ,"FACTS-II, Aspen FACE"
+Talhelm et al.  2014,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,"Betula papyrifera, Populus tremuloides",9,12.9,132.0 ,369,532,163,FACE,Leafbiomass,0.29 ,0.67 ,"FACTS-II, Aspen FACE"
+Talhelm et al.  2014,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,"Acer saccharum, Populus tremuloides",9,12.9,132.0 ,369,532,163,FACE,Leafbiomass,0.31 ,0.67 ,"FACTS-II, Aspen FACE"
+Talhelm et al. 2014,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,Populus tremuloides,9,12.9,132.0 ,369,532,163,FACE,NPP,0.28 ,0.67 ,"FACTS-II, Aspen FACE"
+Talhelm et al. 2014,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,"Betula papyrifera, Populus tremuloides",9,12.9,132.0 ,369,532,163,FACE,NPP,0.38 ,0.67 ,"FACTS-II, Aspen FACE"
+Talhelm et al. 2014,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,"Acer saccharum, Populus tremuloides",9,12.9,132.0 ,369,532,163,FACE,NPP,0.41 ,0.67 ,"FACTS-II, Aspen FACE"
+Talhelm et al. 2014,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,Populus tremuloides,9,12.9,132.0 ,369,532,163,FACE,SOC,-0.14 ,0.67 ,"FACTS-II, Aspen FACE"
+Talhelm et al. 2014,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,"Betula papyrifera, Populus tremuloides",9,12.9,132.0 ,369,532,163,FACE,SOC,-0.09 ,0.67 ,"FACTS-II, Aspen FACE"
+Talhelm et al. 2014,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,"Acer saccharum, Populus tremuloides",9,12.9,132.0 ,369,532,163,FACE,SOC,-0.07 ,0.67 ,"FACTS-II, Aspen FACE"
+Talhelm et al. 2014,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,"Acer saccharum, Populus tremuloides",9,12.9,132.0 ,369,532,163,FACE,Leaf[N],-0.04 ,0.67 ,"FACTS-II, Aspen FACE"
+Talhelm et al. 2014,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,"Acer saccharum, Populus tremuloides",9,12.9,132.0 ,369,532,163,FACE,Leaf[N],-0.07 ,0.67 ,"FACTS-II, Aspen FACE"
+Talhelm et al. 2014,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,"Acer saccharum, Populus tremuloides",9,12.9,132.0 ,369,532,163,FACE,Leaf[N],-0.04 ,0.67 ,"FACTS-II, Aspen FACE"
+Taylor et al.  2014,North America,USA,36.62 ,-79.15 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,170.0 ,400,600,200,FACE,Rootbiomass,0.22 ,0.67 ,Duke FACE
+Taylor et al. 2014,North America,USA,36.62 ,-79.15 ,130,15.5 ,1145 ,Pinus  taeda,13,18.1,170.0 ,400,600,200,FACE,Root[N],0.20 ,0.67 ,Duke FACE
+Temperton et al. 2003,Europe,UK,56.22 ,-3.63 ,244 ,6.8 ,1416 ,Alnus glutinosa,1,11.2 ,12.0 ,350,700,350,OTC,BNF,0.53 ,0.50 ,symbiotic N-fixing
+Temperton et al. 2003,Europe,UK,56.22 ,-3.63 ,244 ,6.8 ,1416 ,Alnus glutinosa,1,11.2 ,12.0 ,350,700,350,OTC,Leaf[N],-0.05 ,0.50 ,
+Temperton et al. 2003,Europe,UK,56.22 ,-3.63 ,244 ,6.8 ,1416 ,Alnus glutinosa,1,11.2 ,12.0 ,350,700,350,OTC,Leaf[N],0.17 ,0.50 ,
+Thomas et al. 2000,North America,Costa Rica,9.85 ,-84.23 ,800,28.0 ,2432 ,Gliricidia sepium,seedling,27.7 ,3.3 ,350,700,350,Growth Chamber,BNF,-0.11 ,0.40 ,"Sampling in Costa Rica, cultivation in USA; symbiotic N-fixing"
+Thomas et al. 2000,North America,Costa Rica,9.85 ,-84.23 ,864,28.0 ,2432 ,Gliricidia sepium,seedling,27.7 ,3.3 ,350,700,350,Growth Chamber,BNF,0.18 ,0.40 ,"Sampling in Costa Rica, cultivation in USA; symbiotic N-fixing"
+Thomas et al. 2000,North America,Costa Rica,9.85 ,-84.23 ,864,28.0 ,2432 ,Gliricidia sepium,seedling,27.7 ,3.3 ,350,700,350,Growth Chamber,BNF,1.72 ,0.40 ,"Sampling in Costa Rica, cultivation in USA; symbiotic N-fixing"
+Tobita et al. 2010,Asia,Japan,43.00 ,141.00 ,180,13.5 ,1254 ,"Alnus hirsuta, Alnus maximowiczii",1,25.6 ,24.0 ,360,720,360,Growth Chamber,BNF,0.94 ,0.33 ,symbiotic N-fixing
+Tobita et al. 2010,Asia,Japan,43.00 ,141.00 ,180,13.5 ,1254 ,"Alnus hirsuta, Alnus maximowiczii",1,25.6 ,24.0 ,360,720,360,Growth Chamber,BNF,-0.08 ,0.33 ,symbiotic N-fixing
+Tricker et al. 2005,Europe,Italy,42.37 ,11.80 ,150,14.1 ,430 ,Populus x euramericana,seedling,8.46,60.0 ,368,550,182,FACE,WUE,-0.11 ,0.67 ,POP-EUROFACE
+Vigue et al.  2010,North America,USA,45.70 ,-89.50 ,490,4.3 ,789 ,Populus tremuloides,9,12.9,12.0 ,384,537,153,FACE,Leaf[N],-0.04 ,0.67 ,"FACTS-II, Aspen FACE"
+Vigue et al.  2010,North America,USA,45.70 ,-89.50 ,490,4.3 ,789 ,Populus tremuloides,9,12.9,12.0 ,384,537,153,FACE,Leaf[N],0.01 ,0.67 ,"FACTS-II, Aspen FACE"
+Vigue et al.  2010,North America,USA,45.70 ,-89.50 ,490,4.3 ,789 ,Populus tremuloides,9,12.9,12.0 ,384,537,153,FACE,Leaf[N],-0.08 ,0.67 ,"FACTS-II, Aspen FACE"
+Vose et al. 1997,North America,USA,38.73 ,-120.75 ,840,14.5 ,1127 ,Pinus ponderosa,seedling,26.25,36.0 ,350,525,175,OTC,Rs,0.47 ,0.67 ,
+Vose et al. 1997,North America,USA,38.73 ,-120.75 ,840,14.5 ,1127 ,Pinus ponderosa,seedling,26.25,36.0 ,350,525,175,OTC,Rs,0.69 ,0.67 ,
+Vose et al. 1997,North America,USA,38.73 ,-120.75 ,840,14.5 ,1127 ,Pinus ponderosa,seedling,26.25,36.0 ,350,525,175,OTC,Rs,0.39 ,0.67 ,
+Vose et al. 1997,North America,USA,38.73 ,-120.75 ,840,14.5 ,1127 ,Pinus ponderosa,seedling,26.25,36.0 ,350,700,350,OTC,Rs,0.16 ,0.67 ,
+Vose et al. 1997,North America,USA,38.73 ,-120.75 ,840,14.5 ,1127 ,Pinus ponderosa,seedling,26.25,36.0 ,350,700,350,OTC,Rs,0.60 ,0.67 ,
+Vose et al. 1997,North America,USA,38.73 ,-120.75 ,840,14.5 ,1127 ,Pinus ponderosa,seedling,26.25,36.0 ,350,700,350,OTC,Rs,0.32 ,0.67 ,
+Walker et al. 1997,North America,USA,38.72 ,-120.78 ,840,14.5 ,1127 ,Pinus ponderosa,seedling,26.25,36.0 ,352,525,173,OTC,Rootbiomass,0.51 ,0.67 ,
+Walker et al. 1997,North America,USA,38.72 ,-120.78 ,840,14.5 ,1127 ,Pinus ponderosa,seedling,26.25,36.0 ,352,700,348,OTC,Rootbiomass,0.40 ,0.67 ,
+Walker et al. 1997,North America,USA,38.72 ,-120.78 ,840,14.5 ,1127 ,Pinus ponderosa,seedling,26.25,36.0 ,352,700,348,OTC,Rootbiomass,0.44 ,0.67 ,
+Walker et al. 1997,North America,USA,38.72 ,-120.78 ,840,14.5 ,1127 ,Pinus ponderosa,seedling,26.25,36.0 ,352,525,173,OTC,Rootbiomass,-0.18 ,0.67 ,
+Walker et al. 1997,North America,USA,38.72 ,-120.78 ,840,14.5 ,1127 ,Pinus ponderosa,seedling,26.25,36.0 ,352,700,348,OTC,Rootbiomass,1.32 ,0.67 ,
+Wallin et al.  2013,Europe,Sweden,64.12 ,19.45 ,310,2.5 ,600 ,Norway spruce,28,60.7 ,48.0 ,400,700,300,Whole-tree Chamber (WTC),Leaf[N],-0.04 ,0.67 ,
+Wallin et al.  2013,Europe,Sweden,64.12 ,19.45 ,310,2.5 ,600 ,Norway spruce,28,60.7 ,48.0 ,400,700,300,Whole-tree Chamber (WTC),Leaf[N],-0.04 ,0.67 ,
+Wan et al. 2004,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,"Acer rubrum, Acer saccharum",10,7.4,48.0 ,400,700,300,OTC,Rootbiomass,0.14 ,0.67 ,
+Wan et al. 2004,North America,USA,35.90 ,-84.33 ,230,13.9 ,1371 ,"Acer rubrum, Acer saccharum",10,7.4,48.0 ,400,700,300,OTC,Rootbiomass,0.65 ,0.67 ,
+Wang et al.  2011,Asia,China,41.77 ,123.43 ,47 ,7.5 ,675 ,Quercus mongolica,4,21.1 ,24.0 ,380,700,320,OTC,Leafbiomass,0.16 ,0.67 ,
+Wang et al.  2015,Asia,Japan,43.07 ,141.33 ,15,13.5 ,1254 ,Larix gmelinii ¡Á L.arix kaempferi,2,18.9 ,24.0 ,380,600,220,OTC,Stembiomass,0.15 ,0.50 ,
+Wang et al.  2015,Asia,Japan,43.07 ,141.33 ,15,13.5 ,1254 ,Larix gmelinii ¡Á L.arix kaempferi,2,18.9 ,24.0 ,380,600,220,OTC,Rootbiomass,0.29 ,0.50 ,
+Wang et al.  2015,Asia,Japan,43.07 ,141.33 ,15,13.5 ,1254 , hybrid larch,2,18.9 ,24.0 ,380,600,220,OTC,Leafbiomass,0.25 ,0.50 ,
+Wang et al.  2015,Asia,Japan,43.07 ,141.33 ,15,13.5 ,1254 ,Larix gmelinii ¡Á L.arix kaempferi,2,18.9 ,24.0 ,380,600,220,OTC,Root[N],-0.04 ,0.50 ,
+Wertin et al.  2010,North America,USA,31.48 ,-83.53 ,108,18.7 ,1211 ,Pinus taeda,1,19.6 ,12.0 ,380,700,320,Growth Chamber,WUE,0.69 ,0.67 ,
+Wertin et al.  2010,North America,USA,31.48 ,-83.53 ,108,18.7 ,1211 ,Pinus taeda,1,19.6 ,12.0 ,380,700,320,Growth Chamber,WUE,0.91 ,0.67 ,
+Wertin et al.  2010,North America,USA,33.95 ,-83.32 ,230,16.5 ,1265 ,Pinus taeda,1,16.4 ,12.0 ,380,700,320,Growth Chamber,WUE,0.12 ,0.67 ,
+Wertin et al.  2010,North America,USA,33.95 ,-83.32 ,230,16.5 ,1265 ,Pinus taeda,1,16.4 ,12.0 ,380,700,320,Growth Chamber,WUE,0.70 ,0.67 ,
+Wertin et al.  2010,North America,USA,35.45 ,-84.58 ,582,12.6 ,1440 ,Pinus taeda,1,15.9 ,12.0 ,380,700,320,Growth Chamber,WUE,0.61 ,0.67 ,
+Wertin et al.  2010,North America,USA,35.45 ,-84.58 ,582,12.6 ,1440 ,Pinus taeda,1,15.9 ,12.0 ,380,700,320,Growth Chamber,WUE,0.79 ,0.67 ,
+Winter et al.2000,South America,Panama,8.99 ,-79.57 ,,27.0 ,1714 ,Ficus insipida,seedling,10.2,6.0 ,360,650,290,OTC,Stembiomass,0.12 ,0.50 ,
+Winter et al.2000,South America,Panama,8.99 ,-79.57 ,,27.0 ,1714 ,Virola surinamensis,seedling,10.2,6.0 ,360,650,290,OTC,Stembiomass,0.00 ,0.50 ,
+Winter et al.2000,South America,Panama,8.99 ,-79.57 ,,27.0 ,1714 ,Ficus insipida,seedling,10.2,6.0 ,360,650,290,OTC,Rootbiomass,0.25 ,0.50 ,
+Winter et al.2000,South America,Panama,8.99 ,-79.57 ,,27.0 ,1714 ,Virola surinamensis,seedling,10.2,6.0 ,360,650,290,OTC,Rootbiomass,0.07 ,0.50 ,
+Winter et al.2000,South America,Panama,8.99 ,-79.57 ,,27.0 ,1714 ,Ficus insipida,seedling,10.2,6.0 ,360,650,290,OTC,Leafbiomass,0.19 ,0.50 ,
+Winter et al.2000,South America,Panama,8.99 ,-79.57 ,,27.0 ,1714 ,Virola surinamensis,seedling,10.2,6.0 ,360,650,290,OTC,Leafbiomass,-0.20 ,0.50 ,
+Winter et al.2000,South America,Panama,8.99 ,-79.57 ,,27.0 ,1714 ,Ficus insipida,seedling,10.2,6.0 ,360,650,290,OTC,LeafCN,0.39 ,0.50 ,
+Winter et al.2000,South America,Panama,8.99 ,-79.57 ,,27.0 ,1714 ,Virola surinamensis,seedling,10.2,6.0 ,360,650,290,OTC,LeafCN,0.20 ,0.50 ,
+Winter et al.2000,South America,Panama,8.99 ,-79.57 ,,27.0 ,1714 ,Ficus insipida,seedling,10.2,6.0 ,360,650,290,OTC,LeafCN,0.44 ,0.50 ,
+Winter et al.2000,South America,Panama,8.99 ,-79.57 ,,27.0 ,1714 ,Virola surinamensis,seedling,10.2,6.0 ,360,650,290,OTC,LeafCN,0.24 ,0.50 ,
+Xu et al.  2014,Asia,China,41.52 ,123.38 ,38 ,7.4 ,755 ,Pinus tabulaeformis,6,22.5 ,3.0 ,350,700,350,OTC,Leafbiomass,0.16 ,0.67 ,
+Yan et al. 2014,Asia,China,23.18 ,113.35 ,126,21.5 ,1750 ,"Castanopsis hystrix, Syzygium hancei, Schima superba, Acmena acuminatissima, and Ormosia pinnata",seedling,22.8 ,60.0 ,410,700,290,OTC,NPP,0.11 ,0.83 ,
+Zak et al. 1993,North America,USA,45.57 ,-84.67 ,217 ,6.1 ,792 ,Populus grandidentata,seedling,9.93,5.0 ,342,692,350,OTC,TIN,0.15 ,0.50 ,
+Zak et al. 2000,North America,USA,45.57 ,-84.67 ,217 ,6.1 ,792 ,Populus tremuloides,seedling,9.93,36.0 ,357,707,350,OTC,Rootbiomass,0.21 ,0.67 ,
+Zak et al. 2000,North America,USA,45.57 ,-84.67 ,217 ,6.1 ,792 ,Populus tremuloides,seedling,9.93,36.0 ,357,707,350,OTC,Rootbiomass,0.37 ,0.67 ,
+Zak et al. 2007,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,Populus tremuloides,9,12.9,96.0 ,374,531,157,FACE,NO3-,0.18 ,0.67 ,"FACTS-II, Aspen FACE"
+Zak et al. 2007,North America,USA,45.68 ,-89.63 ,490,4.9 ,810 ,"Betula papyrifera, Populus tremuloides",9,12.9,96.0 ,374,531,157,FACE,NO3-,0.35 ,0.67 ,"FACTS-II, Aspen FACE"
+Zhang et al.  2015,Asia,China,23.33 ,113.50 ,126,21.5 ,1750 ,"Pinus massoniana, Castanopsis hystrix, Syzygium hancei, Schima superba, Acmena acuminatissima, and Ormosia pinnata",seedling,22.8 ,60.0 ,370,700,330,OTC,SOC,0.21 ,0.40 ,
+Zhang et al.  2015,Asia,China,23.33 ,113.50 ,126,21.5 ,1750 ,"Pinus massoniana, Castanopsis hystrix, Syzygium hancei, Schima superba, Acmena acuminatissima, and Ormosia pinnata",seedling,22.8 ,60.0 ,370,700,330,OTC,SOC,0.09 ,0.40 ,
+Zhang et al.  2017,North America,USA,29.72 ,-95.40 ,21 ,21.0 ,1222 ,Triadica sebifera,seedling,16.4 ,12.0 ,400,800,400,Growth Chamber,LeafCN,0.63 ,0.50 ,
+Zhang et al.  2017,North America,USA,29.72 ,-95.40 ,21 ,21.0 ,1222 ,Triadica sebifera,seedling,16.4 ,12.0 ,400,800,400,Growth Chamber,LeafCN,0.50 ,0.50 ,
+Zhang et al.  2017,North America,USA,29.72 ,-95.40 ,21 ,21.0 ,1222 ,Triadica sebifera,seedling,16.4 ,12.0 ,400,800,400,Growth Chamber,Leafbiomass,0.24 ,0.50 ,
+Zhang et al.  2017,North America,USA,29.72 ,-95.40 ,21 ,21.0 ,1222 ,Triadica sebifera,seedling,16.4 ,12.0 ,400,800,400,Growth Chamber,Leafbiomass,0.43 ,0.50 ,
+Zhuang et al.  2018,Asia,China,30.00 ,119.00 ,769 ,15.4 ,1450 ,"Phyllostachys edulis, Oligostachyum lubricum",2,14.2 ,5.0 ,360,700,340,OTC,Leaf[N],0.17 ,0.67 ,
+Zhuang et al.  2018,Asia,China,30.00 ,119.00 ,769 ,15.4 ,1450 ,"Phyllostachys edulis, Oligostachyum lubricum",2,14.2 ,5.0 ,360,700,340,OTC,Leaf[N],-0.16 ,0.67 ,
+Ziegler et al. 2023,Europe,UK,52.80 ,-2.30 ,99 ,10.5 ,720 ,Quercus robur,175,26.9 ,48.0 ,400,550,150,FACE,BNPP,0.17 ,0.67 ,BIFoR-FACE
+Ziegler et al. 2023,Europe,UK,52.80 ,-2.30 ,99 ,10.5 ,720 ,Quercus robur,175,26.9 ,48.0 ,400,550,150,FACE,BNPP,0.38 ,0.67 ,BIFoR-FACE
+Ziska et al. 1991,South America,Panama,9.17 ,-83.90 ,,28.9 ,2438 ,Acacia mangium,seedling,1.0 ,3.0 ,354,711,357,Growth Chamber,Stembiomass,0.33 ,0.50 ,
+Ziska et al. 1991,South America,Panama,9.17 ,-83.90 ,,28.9 ,2438 ,Aeehmea rnagdalenae,seedling,1.0 ,3.0 ,354,711,357,Growth Chamber,Stembiomass,0.28 ,0.50 ,
+Ziska et al. 1991,South America,Panama,9.17 ,-83.90 ,,28.9 ,2438 ,Anana comosus,seedling,1.0 ,3.0 ,354,711,357,Growth Chamber,Stembiomass,-0.10 ,0.50 ,
+Ziska et al. 1991,South America,Panama,9.17 ,-83.90 ,,28.9 ,2438 ,Ficus obtusifolia,seedling,1.0 ,3.0 ,354,711,357,Growth Chamber,Stembiomass,0.09 ,0.50 ,
+Ziska et al. 1991,South America,Panama,9.17 ,-83.90 ,,28.9 ,2438 ,Manihot esculentum,seedling,1.0 ,3.0 ,354,711,357,Growth Chamber,Stembiomass,0.17 ,0.50 ,
+Ziska et al. 1991,South America,Panama,9.17 ,-83.90 ,,28.9 ,2438 ,Paspallum conjugatum,seedling,1.0 ,3.0 ,354,711,357,Growth Chamber,Stembiomass,0.21 ,0.50 ,
+Ziska et al. 1991,South America,Panama,9.17 ,-83.90 ,,28.9 ,2438 ,Pharus latifolius,seedling,1.0 ,3.0 ,354,711,357,Growth Chamber,Stembiomass,1.27 ,0.50 ,
+Ziska et al. 1991,South America,Panama,9.17 ,-83.90 ,,28.9 ,2438 ,Psychotria limonensis,seedling,1.0 ,3.0 ,354,711,357,Growth Chamber,Stembiomass,0.27 ,0.50 ,
+Ziska et al. 1991,South America,Panama,9.17 ,-83.90 ,,28.9 ,2438 ,Tabebuia rosea,seedling,1.0 ,3.0 ,354,711,357,Growth Chamber,Stembiomass,0.93 ,0.50 ,
+Ziska et al. 1991,South America,Panama,9.17 ,-83.90 ,,28.9 ,2438 ,Acacia mangium,seedling,1.0 ,3.0 ,354,711,357,Growth Chamber,Rootbiomass,0.38 ,0.50 ,
+Ziska et al. 1991,South America,Panama,9.17 ,-83.90 ,,28.9 ,2438 ,Aeehmea rnagdalenae,seedling,1.0 ,3.0 ,354,711,357,Growth Chamber,Rootbiomass,0.42 ,0.50 ,
+Ziska et al. 1991,South America,Panama,9.17 ,-83.90 ,,28.9 ,2438 ,Anana comosus,seedling,1.0 ,3.0 ,354,711,357,Growth Chamber,Rootbiomass,-0.12 ,0.50 ,
+Ziska et al. 1991,South America,Panama,9.17 ,-83.90 ,,28.9 ,2438 ,Ficus obtusifolia,seedling,1.0 ,3.0 ,354,711,357,Growth Chamber,Rootbiomass,0.09 ,0.50 ,
+Ziska et al. 1991,South America,Panama,9.17 ,-83.90 ,,28.9 ,2438 ,Paspallum conjugatum,seedling,1.0 ,3.0 ,354,711,357,Growth Chamber,Rootbiomass,0.02 ,0.50 ,
+Ziska et al. 1991,South America,Panama,9.17 ,-83.90 ,,28.9 ,2438 ,Pharus latifolius,seedling,1.0 ,3.0 ,354,711,357,Growth Chamber,Rootbiomass,1.25 ,0.50 ,
+Ziska et al. 1991,South America,Panama,9.17 ,-83.90 ,,28.9 ,2438 ,Psychotria limonensis,seedling,1.0 ,3.0 ,354,711,357,Growth Chamber,Rootbiomass,0.53 ,0.50 ,
+Ziska et al. 1991,South America,Panama,9.17 ,-83.90 ,,28.9 ,2438 ,Tabebuia rosea,seedling,1.0 ,3.0 ,354,711,357,Growth Chamber,Rootbiomass,1.06 ,0.50 ,
+Ziska et al. 1991,South America,Panama,9.17 ,-83.90 ,,28.9 ,2438 ,Acacia mangium,seedling,1.0 ,3.0 ,354,711,357,Growth Chamber,WUE,0.70 ,0.50 ,
+Ziska et al. 1991,South America,Panama,9.17 ,-83.90 ,,28.9 ,2438 ,Ficus obtusifolia,seedling,1.0 ,3.0 ,354,711,357,Growth Chamber,WUE,0.38 ,0.50 ,
+Ziska et al. 1991,South America,Panama,9.17 ,-83.90 ,,28.9 ,2438 ,Paspallum conjugatum,seedling,1.0 ,3.0 ,354,711,357,Growth Chamber,WUE,0.36 ,0.50 ,
+Ziska et al. 1991,South America,Panama,9.17 ,-83.90 ,,28.9 ,2438 ,Pharus latifolius,seedling,1.0 ,3.0 ,354,711,357,Growth Chamber,WUE,1.32 ,0.50 ,
+Ziska et al. 1991,South America,Panama,9.17 ,-83.90 ,,28.9 ,2438 ,Psychotria limonensis,seedling,1.0 ,3.0 ,354,711,357,Growth Chamber,WUE,0.37 ,0.50 ,
+Ziska et al. 1991,South America,Panama,9.17 ,-83.90 ,,28.9 ,2438 ,Manihot esculentum,seedling,1.0 ,3.0 ,354,711,357,Growth Chamber,WUE,1.20 ,0.50 ,
+Ziska et al. 1991,South America,Panama,9.17 ,-83.90 ,,28.9 ,2438 ,Tabebuia rosea,seedling,1.0 ,3.0 ,354,711,357,Growth Chamber,WUE,0.81 ,0.50 ,
