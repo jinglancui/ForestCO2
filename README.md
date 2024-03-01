@@ -5,5 +5,6 @@ Source data and code used to:
 
 Full details of methods are available in Cui et al. 2024
 
-The data were created by Cui et al. at ZJU
+The data were created by Cui et al. at ZJU.
+
 You are not allowed to redistribute these data. 
